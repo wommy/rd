@@ -1,0 +1,64 @@
+Tue Apr 2 03:04:58 EDT 2019-jujusroom-cont
+
+i cant believe this works
+
+https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks
+	https://www.youtube.com/watch?v=RENGNzZ0dIs
+		
+		https://xstate.js.org/
+		https://css-tricks.com/using-react-and-xstate-to-build-a-sign-in-form/
+			https://css-tricks.com/robust-react-user-interfaces-with-finite-state-machines/
+			https://statecharts.github.io
+		
+		https://github.com/mweststrate/immer
+		https://hackernoon.com/introducing-immer-immutability-the-easy-way-9d73d8f71cb3
+		https://www.netlify.com/blog/2018/09/12/the-rise-of-immer-in-react/
+
+=== 1402 
+figma wommy.io
+
+i kinda wanna draw some crap
+
+i kinda wanna use canvas
+
+=== 03 1653 whiteboard pic
+https://photos.app.goo.gl/PKcrDGGSLXckjtty6
+
+thc app design
+in pages [_tempolate, ...]
+	for each [...]
+
+take duplicate to build
+	echo
+	move lines 57-73 => 1-16
+
+=== 1416 wommy
+looking how to do templates in react
+https://reactjs.org/docs/thinking-in-react.html
+
+=== 1512 
+lighthouse to audit site
+rebuild site with technomad pug
+	maybe webpack?
+
+=== 1621 
+g react template
+	https://reactjs.org/docs/thinking-in-react.html
+
+wommy.io => olde
+	add github button
+
+=== 1750
+just saved wommy-www over to 11ty, instant regret, bout 2 undo
+
+=== 1831
+
+sudo apt install build-essential
+
+=== 2214 links from earlier
+
+http://jlord.us/sheetsee.js/
+https://github.com/jsoma/tabletop
+
+https://www.11ty.io/docs/config/
+

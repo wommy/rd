@@ -1,0 +1,72 @@
+Sun Mar 24 02:10:31 EDT 2019-jujuroom-shell_scripts_cont1
+
+waddup doe
+
+it works, finally
+
+if theres a file thats less than 12 hours old
+	append
+
+hows that work in bash, idk
+
+- bowl time -
+
+so what am i doing?:
+	looking over old writes
+
+creates config.js
+	looks for config.js, if not, creates
+
+theres this array[] it gotta fills
+	map()
+
+functional
+	.map
+
+read folder
+	maps to list
+	writes list to echo
+	populates first line
+
+take a folder
+	give it a name
+	populate list with ^
+
+fill a folder with 5 things
+write a script that takes those five things
+and puts them into a file
+
+ls * > foo
+
+join those things together
+
+[1,2,3,4,5]
+
+reducer?
+
+skip this step come back later TODO
+
+ok so
+
+i got:
+	[index, about, cats, dogs]
+
+i want to:
+	[i love index, i love about, i love cats, i love dogs]
+
+run a function on it
+
+to ARRAY, do(function)
+	prepend: "i love "
+
+prepend & append - to wrap template
+
+later: checking for variables
+
+#{content}
+
+do this function[content, variables]
+	to template
+
+append " as a friend"
+

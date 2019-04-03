@@ -1,0 +1,134 @@
+Mon Apr 3 15:23:23 EDT 2019-jujusroom-rd
+
+i guess this works.
+
+i need to start this blog
+
+=== TODO
+_ start this blog
+  	https://www.bricolage.io/new-design-cooper-hewitt/
+  _ update wommy.io/index
+  _ next.js
+x hit up pockets
+_ make vim tab indent 2 spaces
+
+pono
+		http://www.thehousecycle.com/about-housecycle-and-elliott-marshall/
+		https://thehousecycle.netlify.com/about
+	_? discord
+	_? add cms
+		_? https://www.netlifycms.org/docs/add-to-your-site/
+
+jeff
+	_ figma 
+  _ ejs
+  	nunjucks
+  		python
+
+_ resume
+_ linkedin
+
+_ wommy.io
+_ technomad.media
+
+_ wommy.io/olde
+
+=== 1611 cont
+
+_ gut pushbullet
+
+_ design workflow 
+		https://www.reddit.com/r/Frontend/comments/b3dzfp/project_roadmap/
+
+=== 1729 - figma
+bash command
+
+	folder/
+		views/
+			```_template.html```
+			1	<html>
+			2		<head>
+			3		</head>
+			4		<body>
+			5			#{content}
+			6		</body>
+			7	</html>
+			```
+			```index.html```
+				<h1>hello world</h1>
+			```
+		build/
+			index.html
+				<html>
+					<head>
+					</head>
+					<body>
+						<h1>hello world</h1>
+					</body>
+				</html>
+		index.js
+			copy _template.html build/_template.html
+			replace line5 w index.html
+
+=== 1801
+mustache
+	https://github.com/janl/mustache.js
+textile
+	https://textile-lang.com
+
+=== 1833
+melis - noodle pudding
+
+=== keep.googl 3/30 git hired
+creddle.io
+resume.io
+jobscan
+leverage frontend ( as a backend )
+
+=== keep.googl 3/28 chicago
+UML book library
+i3 raspi
+
+=== keep.googl 3/19 
+root phone ssh terminal
+website
+template
+config.js
+	title
+	debug.js
+color scheme - monochrome + blue
+
+=== keep.googl 2/10 whiteboard
+portfolio
+	mcchrisisgoodmusic
+	blog
+	changelog
+15 tags
+	design system
+3 pages
+	index - what here
+	about - who is tommy williams
+	contact - email phone twitter minds
+combine about + contacts ++ resume
+
+=== 1912 ^cont
+guess im doing nextjs w codesandbox
+
+=== 1939 cont
+got next js up and running
+
+=== 2126 cont
+x https://reactjs.org/tutorial/tutorial.html
+
+TODO #react https://reactjs.org/docs/getting-started.html#react-for-beginners
+	_ https://reactfordesigners.com
+	_ https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+	_ https://reactjs.org/docs/components-and-props.html
+	_ https://reactjs.org/docs/thinking-in-react.html
+
+=== 2239
+	x https://www.taniarascia.com/getting-started-with-react/
+
+=== 2344
+	x https://nextjs.org/docs/
+	

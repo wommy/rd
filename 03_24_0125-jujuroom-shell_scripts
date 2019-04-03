@@ -1,0 +1,77 @@
+Sun Mar 24 00:07:51 EDT 2019
+
+whats this about - i dunno
+
+i think im trying to move from fuggin sublime to vim
+i wrote a bash command
+
+import rd.sh
+
+this is nuts - i dont know where to go from here
+
+so what do i want to do
+
+i want to create a ssg
+
+i realized today that a ssg isnt that different from a server
+i want to take a website and cut it up with command line?
+i dunno about that
+
+i enjoy using linux, so much so
+
+i want to hook up earl with mx_linux
+
+i want to create a monorepo
+
+i dont get why im using EJS
+
+i just want to include things
+
+id rather use linux to cut something together than nodejs
+
+i can even use python
+
+i think i just want to configure a server
+
+what would this server do
+
+it would take numerous files and sew them together
+
+for every file in this folder
+	do this
+
+point to the folder: /pages
+for each
+	run build_page
+
+i want to write a function
+
+whats this function gonna do
+	
+read a folder
+
+from that folder its going to make a map, a list
+
+[index, ]
+
+RUN PROGRAM
+
+i cant believe i wrote the rd.sh
+
+so 
+
+what my program gonna do
+
+execute here
+
+build.sh
+	look for _template.html
+	get [array] of pages
+	for each
+		template(#variables_from:$config.js)
+		config.js
+			populated from pages/
+
+i need to
+	run a script that populates config.js from pages/
+
