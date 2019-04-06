@@ -1,0 +1,62 @@
+Wed Apr 3 17:34:50 EDT 2019-jujuroom-nerdtree
+
+vim sucks
+
+took me 
+
+=== 1840
+this fucking long to get outta vim
+
+=== 1912
+i think im doing pretty good
+
+  vim-adventure.com
+
+i guess i installed nerdtree
+  https://github.com/scrooloose/nerdtree
+
+i found this dotfiles thing
+  https://atlassian.com/git/tutorials/dotfiles
+
+i need to install alot of other plugins tho
+  https://blog.jez.io/vim-as-an-ide/
+  https://vimawesome.com
+  https://www.youtube.com/watch?v=ER5JYFKkYDg
+    distrotube: The Vim Tutorial - Part One - Basic Commands
+    dt-vim2: https://www.youtube.com/watch?v=tExTz7GnpdQ
+    dt-git_bare https://www.youtube.com/watch?v=tBoLDpTWVOM
+
+i have no clue what i was doing with express
+  https://expressjs.com/en/starter/basic-routing.html
+it would be nice to remember,
+  probably passing a template to index.js
+
+i still need to work on pug
+
+https://www.reddit.com/r/Entrepreneur/comments/b8xd3v/why_are_networking_events_so_cringy_and_a_waste/
+
+TODO
+  _ mono repo
+
+
+how do i pull out spike so that its like a dependecy
+
+i could have a built tool repo
+and a website repo
+
+how do i code programmatically in jade?
+
+Jade Pug Tutorial - https://www.youtube.com/watch?v=l5AXcXAP4r8
+  this guy derek bananas is bananas https://www.youtube.com/user/derekbanas/videos
+
+found an old dev tips video https://www.youtube.com/watch?v=wzAWI9h3q18
+
+so it turns out you need to use javascript to do everything
+jade got you working in a preprocessor
+stuff like extends is so small picture
+now a days react in jsx is everything
+
+jeff TODO
+  _ write a node.js app that outputs jade/pug
+
+
