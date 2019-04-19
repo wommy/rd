@@ -1,21 +1,19 @@
 Fri Apr 19 11:53:08 EDT 2019-jujuroom-rd
 
-so i just got back from nyc
-drove back from pittsburgh
+	so i just got back from nyc
+	drove back from pittsburgh
 
-just got off the phone with carmen, cutepanda
-first snag:
-
+	just got off the phone with carmen, cutepanda
+	first snag:
 _ website template
-
 _ ://cutepandadesign.tumblr.com/
 
 [X] change the emmet bang to my defaults
 
-deleted some useless settings
-trying to get snippets to work
+	deleted some useless settings
+	trying to get snippets to work
 
-=== emmet.sublime-settings
+``` emmet.sublime-settings
 	{
 		"snippets": {
 			"html": {
@@ -30,24 +28,51 @@ trying to get snippets to work
 
 === 1342 - so i did that ^
 
-_? seamus
-
 _ call chase
 _ fix bike
 	_ new lock
 _ fix ssd
 	_ job at computer store
 _ microcenter
+_ basement
 
-=== 1451 seamus 
-spent an hour fucking around
-cant even adjust the iframe width
-
+_? seamus == 1451
+	spent an hour fucking around
+	cant even adjust the iframe width
 _ change path
 	_ geoff
 
-=== 1641 dropped hillary off
+=== 1641 dropped hillary off, cleaning tabs
 
 _ ticket to elm conference
+_ change vim tab to two spaces
+_ contribute to gatsby
+://www.gatsbyjs.org/contributing/
+://www.gatsbyjs.org/contributing/community/
+
+[X] == 1723 - 3 derek banas videos
+://youtu.be/IyDVvGmzTlo
+://youtu.be/22QAmVctAMc
+://youtu.be/x51y0jhTqCE
+
+[X] == 1756 - 4 progamming languages in 40 mins
+://youtu.be/cgVVZMfLjEI
+
+=== 1840 - inventory of tabs
+
+_ ://vuepress.vuejs.org/
+_ ://11ty.io
+
+[ learn react ]
+_ ://reactfordesigners.com/
+_ ://freecodecamp.org
+_ ://egghead.io/courses/the-beginner-s-guide-to-react
+
+[ monorepo ]
+_ ://github.com/wommy?tab=repositories
+_ ://github.com/wommy/wommy-www/tree/feature/nav
+_ ://github.com/wommy/c9_npmbp-technomad
+
+=== cleanup
 
 
