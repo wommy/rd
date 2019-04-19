@@ -1,0 +1,53 @@
+Fri Apr 19 11:53:08 EDT 2019-jujuroom-rd
+
+so i just got back from nyc
+drove back from pittsburgh
+
+just got off the phone with carmen, cutepanda
+first snag:
+
+_ website template
+
+_ ://cutepandadesign.tumblr.com/
+
+[X] change the emmet bang to my defaults
+
+deleted some useless settings
+trying to get snippets to work
+
+=== emmet.sublime-settings
+	{
+		"snippets": {
+			"html": {
+				"abbreviations": {
+					"doc": "html>(head>meta[charset=${charset}]+meta:vp+meta:edge+title+style)+(body>main+script)",
+					"meta:edge": "<meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\" />",
+					"meta:vp": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />"
+				}
+			}
+		},
+	}
+
+=== 1342 - so i did that ^
+
+_? seamus
+
+_ call chase
+_ fix bike
+	_ new lock
+_ fix ssd
+	_ job at computer store
+_ microcenter
+
+=== 1451 seamus 
+spent an hour fucking around
+cant even adjust the iframe width
+
+_ change path
+	_ geoff
+
+=== 1641 dropped hillary off
+
+_ ticket to elm conference
+
+
