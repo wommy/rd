@@ -1,0 +1,31 @@
+Mon Jun 10 16:18:37 EDT 2019-gpas-blogpost2_streamlining
+
+hi yah - im getting this down
+
+so i think the biggest problem ive had is that 
+i keep designing new systems instead of sticking with one
+
+acclimating myself with vim, bash, and other linux utilities satiates
+instead of chasing the new, i need to instead go back to basics
+
+stand on the shoulders of giants
+
+the best was the original, tom preston-werner
+
+simple workflow
+
+1. create blogpost
+2. write blogpost
+3. edit / proof-read
+4. publish
+
+on publish -
+publishes to a directory
+write a command to run a SSG on folder
+
+i gotta write the SSG too
+but thats next/later
+
+what does the, no THE, SSG do?
+
+

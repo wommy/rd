@@ -1,0 +1,126 @@
+Fri Apr 26 15:59:20 EDT 2019-jujuroom-rd
+
+yeah so
+
+im trying to put all my folders into a mono repo
+
+im thinking of organizing them by date
+
+i should probably write a lil sumthin about each
+
+im mostly just concerned about putting the data on github
+or rather it never actually making it there
+
+i think i should make this an actual blog post
+
+how would i do that?
+
+=== 1703 - got tmux windows to work
+
+https://thoughtbot.com/blog/a-tmux-crash-course
+
+i should build tmux in vim fsfs
+
+toggle file manager <?- nerdtree
+
+=== 1820 - tryna clear my head n thoughts
+
+im super happy with how the upgrade has gone / is going
+  the wommy.io upgrade
+
+i still have a few things todo
+_ fix the article title margin
+_ make experiements
+  _ add [feed, grid]
+_ prod v dev environment
+  _ test
+  _ gtag
+_ fork some kind of about page from index
+_ fuck [brand, clients]
+_ finish resume
+_ sub_nav a la resume
+  _ experiments[feed,grid], media, clients, brand
+_ blog
+_ mobile
+_ system_font
+
+i also have a bunch of documentation to write
+mostly about the design system X_X yuck
+
+=== file structure - technomad_11ty
+/__static
+ - scripts
+ - imgs
+/_data
+  - page data <= probably shouldnt be here
+/_includes
+  /media <= probably shouldnt be here
+    createafreshpath
+    jorris
+    popcornbulb
+    wingchun
+  __critical.css <= need to split this
+  _template
+  gtag <? .js, critical
+  hobbies
+  home
+  inspiration
+  nav
+  nav2
+/_site
+.eleventy.js == config
+.eleventyignore == readme
+.gitignore
+/views <= should be
+  brand
+  clients
+  feed
+  grid
+  index
+  media
+  resume
+  test
+package.json
+readme
+yarn.lock
+
+=== theoretical structure
+/_site
+/_static
+  /css
+  /img
+  /script
+/views
+  /_data
+    media.js
+    resume.js
+  /_includes
+    _template
+    nav
+  brand
+  clients
+  resume
+  feed
+  grid
+  hobbies
+  media
+  test
+  index
+
+=== 2045 - bout 2 smoke
+=== 2058 - took that long
+
+i think i should go back over this document
+i didnt get anything i thought of done Q_Q
+[x] redid the file structure
+_ add postcss pipeline
+
+=== 2258
+i realized i totally fucked up the nav
+
+=== 2348 - i need to stop looking at this
+_ redo nav again
+_ css
+_ probably more
+
+going to walter
