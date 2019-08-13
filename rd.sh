@@ -1,9 +1,8 @@
 #!/bin/bash
-# ask user for location and topic
+# ask user for location and title
 
-echo where are you
-read -p 'location: ' location
-echo whats this about
-read -p 'topic: ' topic
+read -p 'location? ' loc
+read -p 'title? ' title
 
-echo $(date)-$location-$topic >> $(date +"%m_%d_%H%M")-$location-$topic
+echo $(date)-$loc-$title >> $(date +"%m_%d_%H%M")-$loc-$title
+vim $(date +"%m_%d_%H%M")-$loc-$title

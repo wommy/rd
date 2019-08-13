@@ -1,0 +1,72 @@
+Mon Jul 15 16:05:17 EDT 2019-gpas-rd
+
+omg that was so hard to open this time
+
+basic TODOLIST
+- [?] how todolist works off of rd
+- [?] markdown = base
+- [?] vimwiki
+
+i dunno what to write
+
+i need to come up with a todolist
+
+i need to come up with requirements
+	uploads to github
+	? .md
+	
+why am i doing this?
+
+i need to update technomad.media
+	olde.technomad.media
+	? new
+		list of blogposts
+		? jekyll spin off
+		? gatsby
+
+TODO
+- [ ] SEAMUS
+- [ ] technomad.media
+
+== 16:38 - WTF
+i cant believe that /technomad_media-www is the same as /technomad_bash
+i need to create some type of script system that creates my website
+and then i need to do some gatsby shit on that to produce the website
+
+first step is getting the bash commands down
+
+V says i should start learning python
+
+technomad_bash was create Mar10
+technomad_media-www was created Jun27
+
+same file folder structure
+
+== 1701 
+
+folder file structure
+
+/posts
+/pages
+.template
+index.script
+build.script
+zip.script
+
+you got a zip script:
+  zips the template onto the files
+you got the index script
+  that creates the index from the posts
+		adds it to /pages
+you got the build script
+  it has to build the site:
+		has to build a nav somewhow
+			add that to the template
+	  builds index
+  	walks every file, zipping on the template
+
+== 1818
+
+i gotta have a way to upgrade a blogpost
+
+
