@@ -2,5 +2,86 @@
 
 so this one was generated in python and i dunno if its an improvement
 
-quick brb pushing to github
+quick brb pushing to github - ok back, 
+	i need to do this more often
+
+so what am i tryna do
+
+_ project _ scripts:
+	_ combs RD2019, stitches into single file
+	_ google keep scraper: inspiration, ://github.com/jcontini/google-keep-scraper
+		x google takeout: export google_keep data,
+			://www.quora.com/How-can-I-export-Google-Keep-data-into-another-application
+			://googlesystem.blogspot.com/2015/08/export-all-your-google-keep-notes.html
+
+i should write a blogpost for every project i do
+
+	WRITE BLOGPOST FOR EACH PROJECT
+
+i think this is a good time for a break
+i need to make myself more comfortable in terms of chair desk keyboard
+
+1447 ===
+
+=== 1519
+went on a walk, smoked a cig FEEL GREAT
+
+=== NOTES from keep 8/12
+_	copy over ssd files
+_	check out partition name
+
+=== NOTES from keep 8/8 freedomtoons css
+_	margin instead of z-index
+_ column layout 2/3/4/5 - expanding as media query
+_	button hamburger nav _ jQuery expanding _ noscript variant
+_ social, _ links - look into pelican docs
+_ pages => modal
+_ 2 viewport - mobile breakpoint
+
+=== NOTES from KEEP - 8/1
+_ EXPORT THIS!
+_ go thru old list
+_ set up therapy
+_ cacao website
+x	massage
+x joe <= andy
+	_	followup - andy
+_	weekly newsletter for tweets
+_ weekly newsletter for articles
+_	weekly newsletter for email listicles
+_	hire IG:yourdeisgnerash
+
+=== notes from keep 7/11 -juju-rd
+x resume
+: hit up about website stuffs
+	_	seamus
+		_	angular
+		_	aws
+	_	amit
+	_	jay
+	_	ryan:
+			I'm rebranding my company 
+			focusing on wordpress optimizations 
+			goal: porting them to gatsby
+	_	pono
+_	fix linux
+_	raspi
+	_	server
+	_	mSD for mom
+x bluetooth keyboard for tablet
+_	&	usb-c => hdmi, usb3, power
+_	calendar, paper, from aunt sam <= weekly plans
+_ website looseleafs <= css refactor
+
+=== 1542
+_ fix bike, ride
+
+so i think imma try to knock some of these off
+
+_ display vim notes ? split screen pane ?
+
+_ freedomtoons => 11ty
+
+_ separate build process for task_notes, i://mkdocs.org
+
 
