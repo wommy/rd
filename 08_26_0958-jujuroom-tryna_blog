@@ -1,0 +1,32 @@
+2019-08-26 09:58:01.428917-jujuroom-tryna-blog
+
+hola
+
+sooooooooooooooooooooooooo
+yadda yadda yadda
+
+olde whiteboard
+x gpa - aunt sam -> cookout
+_	wommy redesign
+	11ty -> views
+		=/= css
+_	master - beta- dev 4 wommy & technomad
+
+i gotta create a master todolist
+
+all this shit is already all over the place
+
+i emailed netlify so waiting on that
+
+so i need a wommy blog and the technomad blog
+
+so i need a build system that not only builds the website,
+but also spins up a blog, resume, css, docs
+jekyll has that built in subfolder command
+thats proobably the move, before transition to 11ty
+
+so here i need to open a new md in technomad folder
+by first creating it
+	i need to pull in from technomad, but only posts
+
+

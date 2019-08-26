@@ -1,0 +1,52 @@
+2019-08-21 18:59:12.672052-jujuroom-tryna_get_started_on_some_jek2jade?
+
+yeah so
+
+TODO
+
+_	workflows
+	_	writing
+	_	dev
+	_?	docs
+
+_	append_todo.script
+
+
+=== 1913
+
+after my nueue.md i stopped working on technomad and picked up freedomtoons
+i need some kind of cross_folder/system_wide todo list
+
+i was looking into vim for something like this v recently
+
+technically it should live in this folder
+
+i need to look over my old olde2nueue posts
+i need to show display these differently and encapsulate the project
+
+read this ://24ways.org/2018/turn-jekyll-up-to-eleventy/	-	dunno how to feel
+	part of me wants to upgrade because it should be easier to do some things
+	yet i do need to spend time porting it over
+		it should just be a theme, minima ://github.com/jekyll/minima
+		first thing i notice is that i dont use all the features, let alone half
+		all i need out the gate is templating, includes, post_list from folder
+
+	it seems that i need a jek211ty_theme
+
+_	bug_bounty - angular1.5.3
+
+=== 2105
+
+-	wommy file folder structure
+	mixture originals
+	jekyll
+	jade
+	spike
+	11ty
+
+-	technomad file_folder_structure
+	olde
+	jekyll
+	11ty
+
+

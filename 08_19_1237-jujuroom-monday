@@ -22,4 +22,48 @@ _	google_drive	resume
 === 1407 
 x	github/resume - version update/grade
 
+=== 1440
+whiteboard
+	olde new_todos
+	-	seamus
+		_ from AWS,	_ angular
+		_	github,	_ netlify
+	_	marric -> resume
+	
+	new new
+	_ resume <= marric
+	_ freedomtoons .^
+	_	brent
+	_	mcchris
+	_ wommy => blog
+	_	technomad	=>	11ty <= jekyll
+
+=== 1446 - got back from cig
+brent
+mcchris
+wommy blog
+technomad	11ty <= jekyll
+
+refamiliarize 11ty 
+	/wommy/-www & /wommy/technomad_11ty
+
+=== 1821 - fucking around w git_gistory
+# give me back a minute of my life vim
+
+so
+
+_	merge technomad_11ty => wommy-www
+_	delete branch gh_pages
+
+=== 1848
+grandpa died saturday night
+
+- technomad.media 
+	_ create olde2nueue super_post w/ diffs
+
+_	wommy	add blog
+
+_ websites folder
+	_ add brent
+	_ add mcchris
 
