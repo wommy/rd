@@ -1,0 +1,23 @@
+Wed Aug 28 14:49:24 EDT 2019-jujuroom-broke_ruby_env
+
+olde whiteboard
+_	return shoes
+x	shower
+x	keith
+x	joe
+
+sellable tom | marketable tom
+	resume	<-	kinda done
+		template // date	<-	needs updating
+	portfolio	<- not even started
+	blog	<-	skeleton
+
+yeah so i broke the ruby env and i have no clue what i did
+
+=== 1534 - walking thru jekyll docs
+
+jekyll quickstart
+
+	1. install ruby env
+		debiam - sudo apt-get install ruby-full build-essential
+		
