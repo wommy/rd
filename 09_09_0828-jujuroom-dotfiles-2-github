@@ -1,0 +1,98 @@
+Mon Sep 9 08:28:38 EDT 2019-jujuroom-dotfiles-2-github
+
+so i 
+added a bunch of dotfiles to git
+	.tmux.conf
+		source "/usr/share/powerline/bindings/tmux/powerline.conf"
+	.vimrc
+		:set tabstop=2
+		:syntax on
+		set nocompatible
+		filetype plugin on
+	.gitconfig
+		[user]
+			email = tom@technomad.media
+			name = wommy
+	.config/sublime-text-3/packages/user/.preferences.sublime-settings
+		{
+			"bold_folder_labels": true,
+			"font_size": 13,
+			"highlight_line": true,
+			"ignored_packages":
+			[
+				"Vintage"
+			],
+			"line_padding_bottom": 1,
+			"line_padding_top": 1,
+			"tab_size": 2
+		}
+	packageControl
+		ejs
+		emmet
+		jade, pug, pypug
+		babel, json
+		markdown preview
+		toml
+		terminus
+
+=== 1020 - somehow technomad_handlebars is in mrm-mccann
+
+=== 1148 - trying to push technomad_olde into technomad as a branch/olde, struggling
+learning about git tags tho, sounds really useful
+
+=== 1227 - dicking around with tags, if i can get tags to work..
+
+=== 1239  - need to shelf tags, work on branching olde
+
+need to create tags on olde, to merge branches
+
+_	v1.0 => master => v1.0.0
+_	v1.0.1 => olde-v1.0
+_	v1.1.0 => olde-v1.1
+
+=== 1352 - talked with tina
+
+so what do i need to do
+
+whiteboard: youre doing great
+
+git node diagram
+	technomad
+		olde
+
+=== 1506 - moved olde, spike into technomad
+
+=== 1521 - trying to move jekyll into technomad
+technomad_jekyll/branches
+_	master	=>	jekyll-v1.0.0
+	- should be	-	jekyll_posts
+_	beta		=>	jekyll-v1.1.0
+	-	should be	-	jekyll-posts_submodule
+_	dev			=>	
+	-	should be	-	jekyll-v1.2.0-post_submodule
+_	olde		=>	olde-v1.1.0
+_ jekyll	=>	branch/post - .gitignore remove new.sh
+_	jekyll4	=>	jekyll_jekyll4
+_	posts		=>	submodule
+_	11ty		=>	technomad_jekyll-11ty
+
+so i need to get rid of branch/posts
+add new.sh
+
+=== 1619 - 
+
+master is actually jekyll-v2.0.1
+
+need to find parent
+	jekyll-v2.0.0
+		=>	jekyll-v2.0.1
+		=>	jekyll-v2.0.2
+
+	jekyll-v2.1.0, technomad_blogposts: mix of
+		master
+		-	posts	-	technomad_blogposts
+		?	beta	?	dev
+		jekyll
+
+	next: olde, jekyll 4, 11ty
+

@@ -1,0 +1,318 @@
+Tue Sep 3 10:23:59 EDT 2019-jujuroom-wrappingup-togithub
+
+i need to pull up my old rd's
+	check their todos
+
+i know what im doing, but i wish i could just scroll up a lilbit and maybe copy them down
+
+=== 1203 - so i have all this shit in an email that doesnt belong there, so here it comes
+
+the way to streamline this would be to include a netlify.toml right?
+	https://www.netlify.com/docs/netlify-toml-reference/
+
+it seems like the two main tags i would be using are [build] and [context]
+
+i want my pipeline to be as follows:
+	i want to create a new branch and edit it locally,
+	once it looks good, i want to push it, but i dont want netlify to build it,
+	then i want to pull it into my dev branch, which i want netlify to build and publish 
+	once dev looks good, i want to pull that to beta, which is going to have an environment variable
+	once beta looks good, i want to pull it into master, which is going to have the same settings
+
+i want beta to be staging for master, and dev staging for beta
+
+once the master looks good, i want to pull it back into the original branch, which i want to treat as a release
+
+which will then clear up master for the next feature
+
+netlify.toml seems to have 5 delineations: 
+	[build], which is global, and correlate one-to-one with settings/deploys#continuous-deployment
+	[context.production], which affect all production branches
+		how do i set production branches?
+		would all three of my discussed branches be 'production'?
+	[context.deploy-preview], all deploys generated from a pull/merge request inherit these settings
+	[context.branch-deploy], all deploys that are not pull/merge or production
+	[context.branch], branch specific
+
+build, base with 5 properties
+	base - directory to change to before build
+	publish - output directory
+	command - build command
+	environment - environment variables
+	processing - processing variables
+
+context
+	.production - master settings
+	.deploy-preview - the pull requests
+	.branch-deploy - the commits
+	.branch - specific overrides
+
+base / context.branch-deploy
+	base: ""
+	publish: ""
+	command: ""
+	environment: ""
+	processing: ""
+
+context.deploy-preview
+	base: ""
+	publish: ""
+	command: ""
+	environment: ""
+	processing: ""
+
+context.production
+	base: ""
+	publish: ""
+	command: ""
+	environment: production
+	processing: all
+
+
+
+it seems like:
+
+	you set the base, build 
+		at the beginning
+
+	then it walks down scope from the most specific
+
+		production - master
+			environment: node-version
+
+		deploy-preview - pull requests: beta, dev
+
+i need to come up with the upscaling, before i translate to downscaling
+
+	master
+		environment: production
+
+	beta
+		environment: production
+
+beta and master should be the same
+	beta is just serving as a staging environment
+
+beta = master
+
+	dev
+
+	branch
+
+local edit
+	when it looks good, 
+push to [branch {olde}]
+	netlify should build later
+		[build]: {base}
+		+ overrides [context.branch-deploy] - all pushes
+pull [branch dev] <= [branch {olde}]
+	netlify builds - netlify.toml,
+		[build]: {generics}
+		+ overrides [context.deploy-preview] - pull request
+	when that looks good,
+pull [branch beta] <= [branch dev]
+	netlify builds
+		[build]: {generics}
+		+ overrides [context.deploy-preview] - pull request
+	-	
+	what i want to happen, is:
+	i need to push to dev so that, only beta and master have pull requests,
+	but i want dev to have a pull request
+	-
+pull [branch beta] <= [branch dev]
+	netlify builds
+		[build]: {generics}
+		+ overrides [context.deploy-preview] - pull request
+	this shoud have the same setup as master, because this is its staging
+	return
+		+ super overrides - [context.production]
+pull [branch master] <= [branch dev]
+	netlify builds, same as beta
+		[build: {generics}]
+		+ overrides - pull request - [context.deploy-preview]
+		+ super overrides - [context.production]
+	site is live @ www.domain
+
+for when the new features comes out,
+pull [branch master] => original [branch {olde}]
+stamp it with a version v1.0
+	netlify builds
+		[build] - {base}
+		pull request [context.deploy-preview]
+		[context.production]
+	site is live at {olde}.domain
+
+so the whole thing again
+
+	git clone repo
+	git checkout -b {new_branch} <= [branch init]
+	{new_branch (feature): olde} <= push index.html 
+		assigns: dev_env
+		adds to deployed branches, all branches are deployed
+	pull olde => dev
+		environment: dev
+		if passes test: return
+	pull dev => beta { environment: production }
+		if passes test: return
+	pull beta => master { environment: production }
+	pull master => (feature_branch: {olde}) {environment: production}
+	pull init => beta, dev
+
+=== 1341 i think thats it, i need to take a break
+
+technomad_jekyll branches ( 8 ) 
+	1	11ty
+	2	beta
+	3	dev
+	4	jekyll
+	5	jekyll4
+	6	master
+	7	olde
+	8	posts
+rearranged
+	6	master => v1
+	2	beta => EMPTY
+	3	dev => v2
+	7	olde	-	v1
+	4	jekyll	-	v2
+	8	posts => ????????
+		split off posts to make 
+			jekyll without posts - v2.1
+	5	jekyll4, without posts	-	v2.2
+	1	11ty	-	v3
+
+=== 1358 i think i got that done
+
+thats just technomad_jekyll
+theory applies to all websites: wommy, technomad, freedomtoons
+
+im kinda using technomad as the dev, wommy as the beta, and freedomtoons as the master
+
+i cant fuck up freedomtoons
+he also kinda needs it
+
+i need to suck down the angular 1.5.3 from aws
+push that into github, then into netlify
+run that so it works
+migrate to the jekyll fork? why
+11ty migration might be better, want to use that api
+if i could use jekyll to build from an api, data source, that would work
+
+me moving from jekyll to 11ty is more of an easy of use thing for me
+
+im more familiar with jekyll tho
+if i could use have it pull a folder that updates the api
+and then rebuild
+
+if i could push to it the updated api, and have it rebuild, i could replace the build tool
+
+i could fudge that to play with two, three build tools
+
+i already got that working 
+
+i need to push this shit so i can re wipe linux
+
+=== 1406 - pushit
+
+so what i just spent all this time on was versioning?
+
+	-theres the development environment and the-
+build_pipeline and versioning
+
+thats so cool,
+so whats next
+
+i gotta add these 6 folder_repos
+
+i feel like gatsby and next are next
+once i get how to split olde => jekyll => 11ty 
+then i can 11ty => gatsby => next
+
+just push these because they arent that important
+
+=== 1441 - pushed gatsby and next
+
+gotta learn javascript before react
+	gatsby will teach react and graphql
+	next will teach servers
+
+next i gotta push pelican
+
+	pelicans gonna teach me python
+		i already split out my content
+		learning themes will probably be super fun
+
+	just in uploading pelican, im getting the python way of doing jekyll
+
+=== 1459 - pelican layout
+
+.gitignore	output/
+.gitignore	__pycache__
+	content/
+		keyboard-review.md
+	Makefile - package.json
+	pelicanconf.py	-	_config.yml
+	publishconf.py	-	env.production
+	tasks.py	-	no clue
+
+finished that
+
+=== 1519 - 3 left: bash, olde, technomad
+
+	bash is missing something from one of the other ones
+
+=== 1618 - olde was already done, bash already had its part, technomad was a bitch
+	technomad was made of three parts
+		technomad_ejs	v0.0
+		thc_lit-html
+		wommy_technomad
+
+add all these bitches to technomad
+
+=== 1658 - leaving that for tm probably
+
+=== 1704 - gotta catalog all these folders
+_	11ty
+_	11ty_ejs
+_	bash
+_	ejs
+_	express
+_	gatsby
+_	jekyll
+_	next
+_	olde
+_	pelican
+_	phtml
+_	pug
+_	react
+_	sanity
+_	technomad
+_	webpack
+
+wwwwhhhheeeeeewwwwww
+
+ok so i should organize them by order?
+	_	olde
+	_	jekyll
+	_	pug
+	
+	_	ejs
+	_	technomad
+	_	11ty
+	_	11ty_ejs
+	
+	_	phtml
+	_	sanity
+	_	gatsby
+	_	webpack
+	_	react
+	_	next
+	_	express
+	
+	_	bash
+	_	pelican
+
+that looks about right
+
+what do i do with: master, beta, dev
+

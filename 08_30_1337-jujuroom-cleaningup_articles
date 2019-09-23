@@ -1,0 +1,45 @@
+Fri Aug 30 13:37:34 EDT 2019-jujuroom-cleaningup_articles
+
+i love that i pretty much start everything with yeah so
+
+anyway yeah so
+
+im cleaning up some articles,
+
+i really need to come up with a production env,
+	minifies, includes scripts, etc
+
+i've also been wrapping up websites/technomad
+
+found the pelican docs
+
+just a few more articles to get thru
+
+=== 1500 - some meditations on the next couple work weeks
+this week is p much ova
+next week i want to finish the upload to github, i only have 6 more repos
+	_	bash	-	
+	_	gatbsy	-	
+	_	next	-	
+	_	olde	-	
+	_	pelican	-	
+	_	technomad	-	
+next is the bajillion .dotfiles, most can be ignored, have slim_to_nil contribution_effect
+then is computer reformat, debian 10, jekyll 3.8.6
+maybe after then is freedomtoons and aws
+then resume, technomad, wommy
+maybe still then is vim wiki and bookmarks and todos - yuck
+
+next is pushbullet
+
+vim task todo - from https://www.reddit.com/r/vim/comments/cwycvn/notestodo_app_for_vim_users/
+	vimwiki https://github.com/vimwiki/vimwiki
+		wiki.vim, vimwiki fork https://github.com/lervag/wiki.vim
+	vim outliner https://github.com/vimoutliner/vimoutliner
+	taskwarrior https://taskwarrior.org
+		and its vim plugin https://github.com/blindFS/vim-taskwarrior
+	https://github.com/voldikss/coc-todolist
+		a plugin for a vim intellisense https://github.com/neoclide/coc.nvim
+	markdown preview https://github.com/iamcco/markdown-preview.nvim/
+
+

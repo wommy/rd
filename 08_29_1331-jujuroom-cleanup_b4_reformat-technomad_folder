@@ -1,0 +1,47 @@
+Thu Aug 29 13:31:57 EDT 2019-jujuroom-cleanup_b4_reformat-technomad_folder
+
+yo waddup
+
+so no surprise i have some whiteboard
+
+x	11ty
+x	11ty_ejs
+x	ejs
+x	express
+x	phtml	-	joneal
+x	pug
+x	react
+x	sanity
+x	webpack	-	i think i have this somewhere else
+x	jekyll	-	gotta fuxwitdiz n cant bc broken jek
+_	pelican	- template, should be easy
+_	f	bash - there should be a script here somewhere to make an index
+_	f	technomad	-	? misc folder from tour return
+_	F	next	-	dunno if i got this working, over my head
+_	F	gatsby	-	gotta fuxwitdiz 
+_	F	olde	?-	i think i have this uploaded already
+	<-	?	wtf do i do with this,
+		-	this is the beginning of my attempt to version technomad
+		-	i did good by putting blog in here on a branch
+		_	put blog back in here
+		_ rename.2	bash_blog	
+		_?	subdir 		
+	>-
+
+put_up wommy - split out content, like w/ technomad
+_	mixture
+_	jekyll
+_	c9_nbp
+_	spike
+_	11ty
+
+_	blog
+
+_	netlify.toml
+?	gist - use gists as blogposts
+_	wiki.vim	
+
+=== 1418
+
+i would like to learn how to 
+_	howto:	github_releases ? branches ? changelog ? etc

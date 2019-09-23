@@ -1,0 +1,71 @@
+Wed Sep 18 12:42:30 EDT 2019-jujuroom-resume-mrmmccann
+
+finally getting to it
+
+okay so what am i doing here
+
+=== whiteboard
+
+resume	build
+				release
+				latex
+				data
+
+data -| hbs?
+			|-> template
+
+< dying >
+
+so i write it my outline way
+
+	data + template
+		include partials
+		data submodule?
+
+_ look at branches ( probably none )
+_ push to netlify, resume.wommy.io
+_ fix readme
+
+=== whiteboard, olde
+	pomodoro! - pomodoro.sh
+		_	ticket
+		x	bike + cacao
+
+	- gma bday? both + gpaw
+	
+	chipmunk = mouse :: squirrel = rat
+	
+	so lots going on - bookmarks <- projects?
+	script to push n pull, annotate?
+
+	x	how to bump commit up?
+
+=== resume notes - to publish
+
+commit history
+
+=== 1508 - gotta get back on track
+
+=== 1546 - got time hotkey working
+
+=== 1557 - gonna rip
+
+=== 1633 -resume, i gotta pull out data somehow
+
+=== 1708 -setting up browser-sync, global config
+=== 1734 - wrote a zsh alias instead
+
+=== 2004 - wrapping up, 
+	started data, fresh eyes on it tomorrow
+	i know i have it somewhere
+
+	why am i afraid to do rebase stuff?
+		look into if rebase is stored in the log
+
+x	installed vim-surround
+
+=== 2018 - still trying to wrap up
+
+=== 2107 -_ todo: vim bookmark program
+
+

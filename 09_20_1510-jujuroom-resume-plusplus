@@ -1,0 +1,131 @@
+Fri Sep 20 15:10:28 EDT 2019-jujuroom-resume-plusplus
+
+its starting to get hard naming these things
+i feel like im not making any progress
+i gotta apply and get this job
+what it do
+
+so looking back at notes from yesterday:
+
+	i remember i need to look thru to find where i split out my resume data
+	i think it was in that wommy 11ty
+
+=== 1519 - but first, olde whiteboard
+
+ticket ( = fucked )
+	gotta pay it
+	gotta remove point
+
+commit history
+- init
+	r1: 0.0.1, .2, .3
+	^	all same release
+	^	rebase-split, une po
+	? release script
+	r2
+
+-	seamus
+	-	email geoff: ssh + dev?
+x	shower
+x	nickp + bike
+
+new resume from master
+	cleanup master
+		squash
+	rebase -i, merge
+	v1, 2, 3: %Y-M-D
+
+data =/= build tools
+
+=== 1532 - .vimrc: deleted: set list 
+
+=== 1735 - im trying to merge the olde branches from resume correctly?
+
+=== 1757 - so whats my problem?: fixing resume/branches
+
+list branches
+	master
+	dev
+	2019_09_19
+	2019_07_15
+	2018_07_31
+	
+so the DATE branches act as the feature/branches
+
+i should never commit to master, only dev
+_	fix hotfix
+
+make releases from dev too
+
+feature => dev => release / hotfix => master
+
+=== 1816 - about to make a run; oneflow notation
+	git checkout -b
+		feature/myfeature develop
+			git rebase -i develop
+		/
+		release/#v1.0 #123456-hash,
+		/
+		hotfix/#v1.1 master
+			git tag #v1.(0,1)
+		/	/
+			git checkout develop
+			git merge 
+				feature/myfeature --no-ff 
+				/
+				(release, hotfix)/#v1.(0,1)
+			/	/
+			git push origin develop (--tags)
+			git branch -d 
+				feature/myfeature
+				/
+				(release, hotfix)/#v1.(0,1)
+		?	/
+			git checkout master
+			git merge #v1.(0,1) --ff-only 
+
+	?	git push origin 
+		:feature/myfeature
+		:release/#v1.0
+		:hotfix/#v1.1
+
+=== 1958 - i think i finished oneflow
+
+1	git checkout -b
+	a	feature/myfeature develop
+	+	2	git rebase -i develop
+	b	( release, hotfix )/v1.x ( #hash, master)
+	+	2	git tag v1.x
+
+3	git checkout develop
+4	git merge
+	a	feature/myfeature --no-ff
+	b	( release, hotfix )/v1.x
+5	git push origin develop (--tags)
+6	git branch -d
+	a	feature/myfeature
+	b	( release, hotfix )/v1.x
+	+	1	git checkout master
+	+	2 git merge v1.x --ff-only
+
+?	git push origin
+	a	feature/myfeature
+	b	( release, hotfix )/v1.x
+
+=== 2017 - runnin
+=== 2051 - back and signing off
+
+checkout		-b				feature 			develop		|		release%hotfix/vX.x 		#hash%master
+											+	rebase -i		develop		|		+	tag 									vX.x
+------------------------------------------------------------------------------------
+checkout							develop
+merge				--no-ff		feature									|		release%hotfix/vX.x
+push									origin				develop		+		--tags
+branch			-d				feature									|		release%hotfix/vX.x
+																									+	checkout 							master
+																									+	merge 		--ff-only		vX.x			
+------------------------------------------------------------------------------------
+push									origin				feature		|		release%hotfix/vX.x
+
+=== 2129 - think im done
+	

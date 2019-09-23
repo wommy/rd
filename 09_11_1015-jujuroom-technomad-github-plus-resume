@@ -1,0 +1,35 @@
+Wed Sep 11 10:15:24 EDT 2019-jujuroom-technomad-github-plus-resume
+
+yup, still sucking
+so what am i doing here
+
+gotta push all these into technomad
+
+=== 1045 - so, i opened previous rd
+
+technomad_jekyll => technomad/jekyll
+
+	wheres technomad at? 
+		? push technomad/jekyll from -, no
+		_	create tags - format?	
+			_	jekyll
+
+so - i got all these branches and i dunno what to do wit ne of em
+
+	x	ignore: olde, jekyll4
+	x	tag: v2.0.0-jekyll
+	_	next_tag: v2.1.0-jekyll-blogpost_submodule
+		x	rename jekyll/posts => jekyll/old_posts
+		x rebranch jekyll/master => jekyll/blogpost_submodule
+		x	new.sh => posts/, done bc checkout from master
+		x	pull technomad_blogposts => jekyll/blogpost_submodule
+			x new.sh path
+		_ .gitignore: ./, posts/
+		master
+	x	delete jekyll4
+
+	jekyll just newer commit on master,
+	x	bumped that out, n pushed
+	_	reset dev onto master
+
+

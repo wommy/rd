@@ -1,0 +1,202 @@
+Thu Sep 5 11:20:08 EDT 2019-jujuroom-technomadgithub-marricresume
+
+yo
+
+=== 1206 - so 
+looking back over yesterday's rd,
+i noticed how much work i already did, which is great
+
+marric_resume pivot 
+	gm_website style_guide, components
+		handlebars, html, jquery, sass, git
+		gulp, jenkins
+
+	style_guide components
+		handlebars jquery, sass, html, git
+		gulp, jenkins
+
+=== 1225 - 12 handlebars and sass articles down, i think im ready
+
+	im not gonna touch jenkins, git's kinda implied
+
+	gulp build_tool handling
+		handlebars, jquery
+		sass
+
+=== 1317 - so
+	tried to install gulp, realized rust,bogged: deferred
+
+	sass
+		node-sass > sass
+		? gulp.plugins
+		browser-sync
+
+		folder_layout/
+
+=== 1431 - outside whiteboard - mrmmccann
+	gulp handlebar jQuery sass
+	11ty handlebars jQuery sass
+		views/	-	handlebars
+		_template
+			script	-	?	prefetch jQuery
+		_static	-	?	jQuery
+		style	-	sass -o _static/style
+			2 outputs:	_	critical-inline,	_	prefetched
+
+what actually came about
+	
+	_site/
+	_static/
+	sass/
+	views/
+		_data/
+			data.json
+		_includes/
+			_template.html
+		index.html
+	.eleventy.js
+	.gitignore
+	README.md
+	package.json
+	yarn.lock
+
+=== 1456 - pushed to mrm_mccann/11ty, created mrm_mccann/handlebars
+
+=== 1538 - finished mrm_mccann/handlebars/index.html
+
+=== 1810 - half_finished olde.hb; - whiteboard
+technomad_handlebars
+	olde
+	wommy
+11ty + sass
+
+handlebars.js
+	installation
+	expressions
+	precompilation
+	execution
+	html escaping
+	blockexpression
+	hb paths
+	template comments
+	helpers
+	lterals
+	partials
+	built-in helpers
+	api reference
+hb-new
+	home
+	language guide
+		install & using hb
+		html escaping
+		evaluation context
+		nested hb paths
+		template comments
+		helpers
+		block helpers
+		partials
+		built-in helpers
+		api reference
+	installing & using hb
+	expressions
+	precompiling templates
+	partials
+	block helpers
+	built-in helpers
+	api-reference
+
+=== 1817
+so i need to learn more about using handlebars,
+olde is half done
+wommy should be next
+
+i need to learn so much more tho
+
+hb.js
+_	installation
+_	expressions
+_	block helpers
+_	precompilation
+_	execution
+_	partials 
+_	built-in helpers - if, each, etc
+_	reference - need to go over this
+
+hb_new
+
+=== 1923 - olde, some basic html=>json
+
+	nav: {
+		portfolio: {
+			aparadi.se: //aparadi.se/
+			eightcell: //wommytilliams.com/8c/
+		}
+		to hire me for website work<br>contact: {
+			email: mailto:froggie92@gmail.com?Subject=Job | WommyTilliams.com
+			phone: tel:+13128189011
+		}
+		to get an idea of who i am<br>stalk me on social media: {
+			facebook: //facebook.com/froggie92
+			twitter: //twitter.com/froggie92
+			instagram: //instagram.com/wommytilliams
+			google+: //plus.google.com/118102255716845472363
+			reddit: //reddit.com/u/froggie92
+		}
+	},
+	content: {
+		welcome
+		tommy tilliams is
+			designer: i design solutions to your problems
+			developer: i develop code to achieve that design
+		i can build your website from scratch or work off your template
+		i can design phone apps, but cannot develop or publish them
+		most of my work is on the front end: what the user sees and interacts with
+			html
+			css
+			javascript
+			adobe photoshop / illustrator
+		i also take on back end work: databases and scripts of more complex sites
+			php
+			mysql
+			ruby on rails
+		i emphasize
+			mobile: as good as, if not better than the desktop site
+			user interface / experience: the user understands what to do and enjoys doing it
+			rapid development: focus on delivering a working ptorotype asap over long planning phases
+			clean / efficient code: other developers can easily interpret and edit my code
+		i am more familiar with
+			mac over pc
+			android over iphone
+	},
+	todos: {
+		resume
+		bio
+		icons
+		seo
+			http://moz.com/learn/seo/meta-description
+			http://googlewebmastercentral.blogspot.com/2014/03/introducing-new-webmaster-academy_18.html
+		split social media from contact
+		inspiration / websites i like
+			http://itemsandthings.com/
+		github version control
+		rework bio to say: templates suck, you should hire me to upgrade
+		social media rebranding
+			twitter
+			fb - wommy tilliams
+		add
+			https://depaul.digication.com/toms_portfolio/Final_Media_Piece
+			https://docs.google.com/document/d/16n7Eqc_12aQHAs6kDREl4x1FXbrcznPb0EQKfNwfpac/edit
+		email @wommytilliams.com
+	}
+
+=== 1937 - finished above
+
+	need to split out data
+		technomad_pug
+	
+	precompile hb
+	sassify
+
+	do all this to wommy
+
+
