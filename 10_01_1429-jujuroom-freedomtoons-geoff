@@ -1,0 +1,30 @@
+Tue Oct 1 14:29:17 EDT 2019-jujuroom-freedomtoons-geoff
+
+so geoff
+
+can you please explain your AWS workflow?
+
+im having trouble translating it to my github model
+
+my workflow is as follows:
+
+i clone the repo locally, make a feature branch, edit it until it works and looks nice,
+merge it into the development branch, push it to the remote, and check it on the server,
+when that looks all fine and dandy i push it to the master
+
+i am not comfortable with AWS, and i think thats giving me my headache
+i would first like to ask some questions about s3 buckets
+	i dont even know what that is technically, im assuming its just like a github repo?
+
+do you just ssh into your S3 bucket? i need to edit the angular config file
+	do i just ssh in?
+
+=== 1614 - so i got aws codecommit setup, dont ask me how
+
+ok so geoff-
+
+	i set up my ssh keys so i downloaded the repo locally
+
+=== 1920 - copying into s3 bucket; netlify works
+
+=== 2316 - i fuckin did it 

@@ -1,0 +1,48 @@
+Wed Oct 2 16:32:46 EDT 2019-jujuroom-cleanup
+
+RESUME
+
+yikes this sucks
+
+Responsibilities
+	apply client-side development skills to website production projects
+	share knowledgew with fellow coders and encourage best practices during development
+	suggest and help develop processes for improving development workflow
+	apply (and improve) client-side skills, including 
+		CSS3, HTML5, JavaScript, Responsive Design practices, 
+		client-side libraries, XML/JSON, and accessibility
+
+Required Skills
+	Education and Experience
+		must have raw (non-WYSIWYG) HTML programming experience
+		must have knowledge of cross-browser issues and solutions
+		must be able to apply best practice working methodologies and processes
+		perform web component development and daily maintenance/site improvements
+		must be familiar with 
+			standard software-development lifecycles and project-management methodologies (such as Agile)
+		Experience with GWD and/or Adobe Anime a plus
+		Minimum 1-2 years commercial experience
+	
+	Minimum Technical Skills
+		HTML5
+		CSS3/Less/Sass
+		JavaScript/jQuery/GSAP
+		Bootstrap or similar framework
+		XML/JSON
+
+===
+
+	HTML5 jade/pug/haml, erb/ejs, liquid, handlebars, nunjucks, markdown
+	CSS3/Less/Sass postcss, 
+	JavaScript/jQuery/GSAP es6, lodash
+	Bootstrap or similar framework tachyons, tailwind, GPS
+	XML/JSON csv, yaml, toml
+	npm gulp webpack
+	mobile-first, acessibility
+	git bash cli vim ssh unix
+	auto-prefixer, reset/normalize.css, shim polyfill, flexbox
+	component, prpl app-shell
+	semver, agile scrum kanban 
+	figma, sketch, krita
+
+	init commit postcss-preset-env

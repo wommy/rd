@@ -1,0 +1,54 @@
+Thu Oct 3 14:13:08 EDT 2019-jujuroom-cleanup
+
+gotta do resume
+
+ok so what do i need to do
+
+i should require out my data
+
+=== 1622 - whats fuckin next
+_ create a template
+_ fix data up more
+
+=== 1654 - did a good resume writeup on paper, section headers
+
+=== 1820 - just read a bunch, check bookmarks
+	mostly about handlebars and liquid and jekyll
+
+i need to think about my template and my data
+
+should i rewrite my old one because its already done?
+
+i think i can write a function for mailto links ://css-tricks.com/snippets/html/mailto-links/
+	<a href="mailto:"+{title}
+			+subject ? '+"?subject={subject}' : ""
+	>{title}</a>
+
+=== 1841 - versioning template & data
+
+=== 2027 - lots of vim and organizing? i dunno seems like a wide gap
+	about to go to isaacs @ufo
+
+=== 2226 - at ufo - what am i doing
+
+i think i need to split out the things?
+
+data
+	contact
+		
+	experience
+		work
+		skills
+		events, conferences, meetups
+
+=== 2256 - i dunno what i need to do
+i think this new version is about the split between data and template
+	i already have a rough template
+		need to clean it up
+	need to clean up data 2
+
+	i think why skills is bogus, i need to save that bish somewhere tho
+
+	bump out folders
+
+	

@@ -1,0 +1,173 @@
+Sat Sep 28 17:53:35 EDT 2019-jujuroom-saturday-sesh
+
+yup - scanning old rds
+
+=== 1800 - add tailwind to technomad
+
+	https://tailwindcss.comerge branch 'dev'
+	https://news.ycombinator.com/item?id=18362493
+	https://tailwindcss.com/docs/extracting-components/
+
+i gotta add netlifycms to technomad
+
+===
+
+	technomad - master
+		master
+		olde
+		spike
+	technomad_blogposts
+		_	clean these up
+		_	delete, pull in actual
+		_	rebase
+
+?	use netlifycms for myself
+	? into jekyll
+
+	technomad_jekyll
+		branches
+			11ty
+			beta
+			dev
+			jekyll
+			master
+			olde
+			posts
+		^	-	yikes, ?	wtd
+			_ pull data out so its easier to work on
+			_	del beta: dev should at as beta, and feature should work as dev
+				?	oneflow: rebase -i parent, merge -no-ff; you can test branch/feature
+				this eliminates a couple hops:PRs
+			?	posts its own branch : subdirectory
+			?	PR
+	wommy-www
+		?	PR
+	static-pokedex
+	gitscm	-	rewriting history
+	mrmmccann
+		_	switch to technomad/handlebars
+	resume
+		github
+		g_search software engineer resume
+		why_skills.md
+	hugo themes
+	danielle-cms
+	app.netlify
+	technomad/0.0.3
+	gitscm - git tools 
+		rewriting history
+		reset demystified
+		advanced merging
+		basic branching and merging
+	rebase -i --root
+
+	<== articles =
+
+=== 1908 - ? drug diary	+5mg a
+yank'd: redo
+
+	technomad - master
+		branches
+			master
+			olde
+			spike
+		_	oneflow
+			1.0.0 - olde
+			2.0.0 - mixture
+			3.0.0 - jekyll
+			4.0.0 - jade%pug%npmbp
+			5.0.0 - spike
+			etc
+				11ty
+
+###
+	olde => wommy
+###
+
+	technomad_blogposts
+		_	clean these up
+		_	delete, pull in actual
+		_	rebase
+
+?	use netlifycms for myself
+	? into jekyll
+
+	technomad_jekyll
+		branches
+			11ty
+			beta
+			dev
+			jekyll
+			master
+			olde
+			posts
+		^	-	yikes, ?	wtd
+			_ pull data out so its easier to work on
+				_	pug & 11ty
+			_	del beta: dev should at as beta, and feature should work as dev
+				?	oneflow: rebase -i parent, merge -no-ff; you can test branch/feature
+				: this eliminates a couple hops:PRs
+			?	posts its own branch : subdirectory
+			?	PR
+	wommy-www
+	+	?	PR
+	static-pokedex
+	mrmmccann
+		_	switch to technomad/handlebars
+	resume
+		github
+		g_search software engineer resume
+		why_skills.md
+	danielle-cms
+		hugo themes
+		app.netlify
+	technomad/0.0.3
+	gitscm - git tools 
+		rewriting history
+		reset demystified
+		advanced merging
+		basic branching and merging
+	rebase -i --root
+
+	<== articles =
+
+	prpl & app shell 
+	https://www.reddit.com/r/userexperience/comments/d3boa0/anyone_have_experience_making_a_fully_fledged/
+	https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/
+	https://www.reddit.com/r/userexperience/comments/d486bs/videos_like_refactoring_ui_but_for_ux/
+	https://carlanderson.xyz/how-to-write-javascript-when-you-dont-know-where-to-begin/
+	https://leerob.io/blog/style-guides-component-libraries-design-systems/
+
+	### remembered from outside
+	_ GTD book
+	+	kanban
+	###
+
+	_	JAMstackDET
+		_	prpl + app shell
+	
+
+_ 2022 =	data backup this week
+
+=== 2040 - ok moving this bish ova -mrmmccann
+
+=== 2044 - holy shit i was already done
+_	split out mrmmccann out of master
+	_	rebase
+
+=== 2238 - ive been pacing around for hours
+
+new inventory
+
+	media + articles
+
+	technomad_cms
+	technomad_11ty
+	technomad_blogposts
+	danielle-cms
+
+=== 2313 - health check
+
+=== 0046 - cant believe mdo did bootstrap, cant believe bootstrap is moving to hugo
+
+

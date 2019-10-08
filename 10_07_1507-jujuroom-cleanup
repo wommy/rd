@@ -1,0 +1,143 @@
+Mon Oct 7 15:07:42 EDT 2019-jujuroom-cleanup
+
+so what do i need to do - good question
+
+=== 1517 - so im kicking into freedomtoons ssl renewal
+
+this makes me think i want to switch to netlify
+	what do i need to 
+
+so i have so many tabs open, that i need to organize them a little bit
+
+	window0
+		music
+		batman
+		seamus fbmsgr
+		email
+
+	window 1
+		https://www.reddit.com/r/userexperience/comments/d3boa0/anyone_have_experience_making_a_fully_fledged/
+		https://www.reddit.com/r/userexperience/comments/d486bs/videos_like_refactoring_ui_but_for_ux/
+		https://www.reddit.com/r/userexperience/comments/dbrk1s/what_are_some_questions_you_can_ask_during_the/
+		https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/
+		https://carlanderson.xyz/how-to-write-javascript-when-you-dont-know-where-to-begin/
+		https://24ways.org/2018/turn-jekyll-up-to-eleventy/
+		https://itnext.io/why-i-moved-to-es6-template-strings-from-mustache-handlebars-573f6f2c713b
+		https://leerob.io/blog/style-guides-component-libraries-design-systems/
+		https://developers.google.com/web/fundamentals/performance/prpl-pattern
+		https://developers.google.com/web/fundamentals/architecture/app-shell
+		https://www.reddit.com/r/vim/comments/d3eo4a/mastering_the_vim_language/
+			https://www.youtube.com/watch?v=wlR5gYd6um0
+		https://www.pushbullet.com/
+		https://medium.com/javarevisited/vim-for-people-who-use-visual-studio-code-643f12ba6039
+		https://shapeshed.com/vim-netrw/
+
+	window2
+		https://dev.technomad.media/todo/
+		http://penguin.linux.test:3000/why_skills.md
+		http://penguin.linux.test:3000/README.md
+		https://github.com/wommy/resume/tree/feature/split-data-template
+
+	window3
+		https://github.com/wommy/technomad/tree/olde
+		https://github.com/wommy/technomad_jekyll
+		https://github.com/wommy/technomad_jekyll/pull/6
+		https://github.com/wommy/wommy-www/compare/npmbp...npmbp2?expand=1
+		https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging
+		https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain#ch10-git-internals
+		https://git-scm.com/book/en/v2/Git-Tools-Submodules#_git_submodules
+		https://github.com/wommy/danielle-cms
+		https://github.com/wommy/technomad_jekyll/tree/jekyll
+		https://github.com/wommy/technomad_11ty/tree/develop
+		https://github.com/wommy/technomad_blogposts
+		https://github.com/wommy/technomad_cms
+		https://github.com/wommy/technomad_blog
+		https://www.netlifycms.org/docs/add-to-your-site/
+		https://github.com/wommy/technomad_handlebars
+		http://penguin.linux.test:8080/technomad_blogposts/2019-07-17-manifest/
+		https://www.google.com/search?q=presentation+vs+application+layer&rlz=1CAEAQE_enUS834&oq=presentation+vs+application+layer&aqs=chrome..69i57j0l4.4925j0j4&sourceid=chrome&ie=UTF-8
+		https://softwareengineering.stackexchange.com/questions/180499/presentation-vs-application-layer-in-ddd
+		https://en.wikipedia.org/wiki/Presentation_layer
+		https://en.wikipedia.org/wiki/Multitier_architecture
+		https://www.google.com/search?q=lookup+vim+plugin+for+sublime+merge&rlz=1CAEAQE_enUS834&oq=lookup+vim+plugin+for+sublime+merge&aqs=chrome..69i57.10974j0j7&sourceid=chrome&ie=UTF-8
+		https://github.com/grigio/vim-sublime
+
+=== reorganizing
+
+	pinned
+		music
+		batman
+	
+	projects #current
+		seamus
+			fbmsgr
+			email
+		resume
+			https://github.com/wommy/resume/tree/feature/split-data-template
+			http://penguin.linux.test:3000/why_skills.md
+			http://penguin.linux.test:3000/README.md
+		technomad_cms
+			https://github.com/wommy/danielle-cms
+			https://github.com/wommy/technomad_jekyll/tree/jekyll
+			https://github.com/wommy/technomad_11ty/tree/develop
+			https://github.com/wommy/technomad_blogposts
+			https://github.com/wommy/technomad_cms
+			https://github.com/wommy/technomad_blog
+			https://www.netlifycms.org/docs/add-to-your-site/
+			http://penguin.linux.test:8080/technomad_blogposts/2019-07-17-manifest/
+		#shelved
+			https://github.com/wommy/technomad/tree/olde
+			https://github.com/wommy/technomad_jekyll
+				https://github.com/wommy/technomad_jekyll/pull/6
+				https://dev.technomad.media/todo/
+			https://github.com/wommy/wommy-www/compare/npmbp...npmbp2?expand=1
+
+		pushbullet
+		bookmarks/10
+	blogposts
+		i need to shift my blogpost medium, port from jekyll to 11ty
+			https://24ways.org/2018/turn-jekyll-up-to-eleventy/
+		this should be the first
+			https://carlanderson.xyz/how-to-write-javascript-when-you-dont-know-where-to-begin/
+		#jamstackdet
+			https://developers.google.com/web/fundamentals/performance/prpl-pattern
+			https://developers.google.com/web/fundamentals/architecture/app-shell
+		#pelican
+			https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/
+		#mrmmccann handlebars vs template strings 
+			https://github.com/wommy/technomad_handlebars
+			https://itnext.io/why-i-moved-to-es6-template-strings-from-mustache-handlebars-573f6f2c713b
+		#ui/ux
+			https://www.reddit.com/r/userexperience/comments/d3boa0/anyone_have_experience_making_a_fully_fledged/
+			https://www.reddit.com/r/userexperience/comments/d486bs/videos_like_refactoring_ui_but_for_ux/
+			https://www.reddit.com/r/userexperience/comments/dbrk1s/what_are_some_questions_you_can_ask_during_the/
+			https://leerob.io/blog/style-guides-component-libraries-design-systems/
+		layer, presentation vs application 
+			https://softwareengineering.stackexchange.com/questions/180499/presentation-vs-application-layer-in-ddd
+			https://en.wikipedia.org/wiki/Presentation_layer
+			https://en.wikipedia.org/wiki/Multitier_architecture
+		#git 
+			https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging
+			https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain#ch10-git-internals
+			https://git-scm.com/book/en/v2/Git-Tools-Submodules#_git_submodules
+		#vim
+			plugin like smerge - https://github.com/grigio/vim-sublime
+			https://medium.com/javarevisited/vim-for-people-who-use-visual-studio-code-643f12ba6039
+			https://shapeshed.com/vim-netrw/
+			https://www.reddit.com/r/vim/comments/d3eo4a/mastering_the_vim_language/
+				https://www.youtube.com/watch?v=wlR5gYd6um0
+
+=== 1635 - i think i want to blog 
+	whats it take to blog?
+		i need to look at current blogpost folder
+			it needs the other project files, pages
+			
+=== 1650 - gonna bounce to josh's
+
+=== 1816 - just got back, wrapping up seamus ssl
+
+=== 1849 - gotten nowhere, fuckin aws
+
+=== 2016 - finished it,
+	gotta think about billing seamus
+
