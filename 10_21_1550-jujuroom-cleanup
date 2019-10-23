@@ -1,0 +1,39 @@
+Mon Oct 21 15:50:07 EDT 2019-jujuroom-cleanup
+
+yup so
+
+what am i trying to do here
+
+i want to make the shopify_theme for craig in liquid
+
+template
+	header
+		cart
+		nav
+	content
+		collections
+			items-card
+				img
+				title
+				tags
+				price
+
+cms_admin
+	theme
+		pages
+			collection_index <= home	
+				collection
+					product
+			blogs
+			cart
+		x	password
+		x	404
+	blogposts
+	pages
+	navigation
+	domains
+	preferences-config
+		title
+		meta-description
+		google analytics
+

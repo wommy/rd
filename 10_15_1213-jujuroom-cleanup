@@ -1,0 +1,119 @@
+Tue Oct 15 12:13:08 EDT 2019-jujuroom-cleanup
+
+wadduppy
+
+=== 1333 - whiteboard https://photos.google.com/photo/AF1QipM7t3xvmK9GYJBGChrebKp8rxvM5a-cwLhpY8rm
+x	nails
+reminder
+x	parking
+_	brush teeth
+_	josh pay
+_	pauli
+x	lydia
+_	lydia dichotomy interest
+x	danielle
+_	videos
+_	resume => marric
+_	speeding ticket
+_	therapist + adderall + delaying behavior
+	_	google thru network
+_	technomad cms tmCMS
+_	TM npmbp
+	^- after jekyll
+_	vim, so much
+_	danielle massage
+_	lindsey
+
+	TM
+		olde
+		wommy == mixture
+		jekyll
+		jade + npmbp
+		spike
+		11ty
+
+=== 1340 - whiteboard https://photos.google.com/photo/AF1QipO-SFMttM4ZkqBM6SSeZMQEQ-JqI59W1tQyn2Dm
+x	brush teeth
+eat
+hempwood cbd
++ trello
+semjs
+blogposts
+	11ty css
+		gfm
+	-> cms
+resume
+	grandpa
+	nyc
+doctor
+	dentist
+	eye
+
+=== 1343 - what to do
+
+=== 1438 - fuckin with semjs
+
+=== 1606 - did so much semjs issue / PR stuffs, hope i didnt step on any toes
+
+	MILESTOLE V1.0.0
+
+	component
+		header
+			nav
+		footer
+		form
+			jobs
+			sponsor_interest
+		upcoming_event
+	page
+		sponsors
+		speakers
+	config
+		cypress.io-smoke_tests
+		prettier
+		linting
+
+	things i was thinking of
+		netlify
+		DNS
+		branching model for easy CI/CD: master-dev-feature
+
+=== 1654 - finishing up my milestone
+
+=== 1813 - wtf have i done, organized tf outta github.com/sem-js/sem-js/issues
+
+=== 1906 - did a bunch of trello organization
+
+=== 1921 - explained to mom about semjs issueboard
+
+=== 1922 - need to put repos into technomad
+
+	technomad
+		olde
+		mixture
+		jekyll
+		npmbp
+		spike
+		11ty
+
+=== 2053 - watched eblade sniper #blogpost
+
+=== 2054 - gotta make a blogpost
+
+=== 2114 - 
+
+	redo tm_blogposts
+		req tm_jekyll
+	? todos to trello
+
+=== 2128 - 
+
+	TM_jekyll branches
+		re-port master to TM_blogpost
+			no post middle_step
+		jekyll to 11ty blogpost
+		cleanup master beta dev
+		look at olde
+
+
+

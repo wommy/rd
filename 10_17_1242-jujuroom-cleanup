@@ -1,0 +1,162 @@
+Thu Oct 17 12:42:58 EDT 2019-jujuroom-cleanup
+
+starting
+
+=== 1337 - whiteboard https://photos.google.com/photo/AF1QipOaONo5yUmAPWvAB2W1W-p6_JM4Nkz7ua4n1e2A
+
+	git organize technomad
+		olde
+		mixture
+		jekyll
+		npmbp
+		spike
+		11ty
+	resume - part of wommy
+		grandpa
+		nyc
+	css
+	content
+
+=== 1338 - trello
+	hempwoodcbd
+	anniebrab
+		views
+			_data
+			_includes
+				template
+					desktop
+						nav
+						content
+					mobile
+				header
+					brand_name
+					nav
+						work ( home )
+						archive
+						CV
+						press
+						contact
+						IG
+						copyright
+				art item page template
+					nav
+						fullscreen
+						like
+						close
+					content
+						carousel
+							nav	-prev
+							content
+								img
+								title
+								description
+								year
+							nav	-next
+			pages
+				index
+					template
+				archive
+					category_index: [monoprints_index, undergrad_index]
+						list_item ==onClick=> modal
+							carousel
+								nav
+									prev
+									next
+									exit
+								content
+									img
+									title
+				CV
+					CV
+				press
+					article
+				contact
+					author
+						address
+						phone
+						email
+					form
+						name
+						email
+						subject
+						message
+						submit
+
+=== 1432 - time to code some annabrab
+	clone technomad_11ty
+	
+=== 1451 - already snagged
+	
+	i need the init script to work with submodules
+	
+	init script
+		submodule technomad_11ty
+	
+	annabrab/
+		views/
+			_data
+			_includes
+			pages
+		technomad_11ty-submodule
+			.config
+	
+	technoad_new - scaffold
+		init script - scaffold
+
+	technomad_11ty
+		views
+		.eleventy.js
+		.gitignore
+		README.md
+		init.sh
+		package.json
+		yarn.lock
+	
+	i need more info - danielle_cms
+		i want to spin up a new site
+			have it 11ty
+			? cms, blogpost folder
+
+	technomad_11ty should just be technomad-v6
+
+	_	figure_out how blogposts work
+		? views/content/blogposts
+	
+	_ how does cms plug in
+
+=== 1506 - maybe i shouldnt git clone
+
+=== 1531 - did i mess up instlling technomad_11ty?
+
+	i think i did, i think its because im not using versions
+	whats the right way
+		yarn init
+		yarn add -D @11ty/eleventy
+		vim .gitignore
+			node_modules
+			_site
+		
+=== 1652 - kinda got the base up
+
+	what do i need to do now
+
+=== 1741 - 
+	_	todo	#{content} => _template.pug
+
+=== 1741 - 
+
+=== 1841 - really hope i didnt lose anything there
+
+=== 1915 - done as its gonna get today
+
+=== 1945 - should i work on this more?
+
+=== 2005 - dicked round with a little css, rememeber why i hate it
+
+=== 2017 - i gotta start something new
+
+	what should i start?
+		resume
+		craig
+
+	

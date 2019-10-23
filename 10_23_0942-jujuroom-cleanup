@@ -1,0 +1,64 @@
+Wed Oct 23 09:42:32 EDT 2019-jujuroom-cleanup
+
+another day, resume day
+
+=== 0952 - yup so
+	checked up on semjs
+
+=== 1022 - tryna redo tm_11ty template
+	craig, aeb
+
+=== 1112 - think i finished the template
+
+=== 1157 - up'd 11ty to 0.2.0 liquid > pug
+
+=== 1220 - porting annabrabant to 11ty 0.2.0
+
+	=== 1323 - whiteboard https://photos.google.com/photo/AF1QipO5dAASeEuO-eT4j-3r0f8W94xvP3fj1mlGidJd
+		yo! aeb almost up
+		todo
+			fix nav
+				work archive cv press contact
+				footer
+					ig + (c)
+			includes
+				form + netlify_form
+			netlify_cms
+			mobile
+				width
+		content
+			work
+				= index
+				+ carousel
+			archive
+				= tag index
+				+ carousel
+			cv
+				= netlify_cms
+			press
+				= index
+			contact
+				= netlify_cms
+			nav
+				= netlify_cms
+
+	=== 1328 - aeb todo
+		mobile
+		includes
+			nav
+				style
+				ig + (c)
+			carousel
+			form
+				netlify_form
+		netlify_cms
+			nav
+			pages
+				work
+				archive
+				cv
+				press
+				contact
+
+=== 1443 - scrapped that, doing resume
+	

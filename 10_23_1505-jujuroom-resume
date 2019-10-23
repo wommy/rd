@@ -1,0 +1,35 @@
+Wed Oct 23 15:05:18 EDT 2019-jujuroom-resume
+
+so im finally doing it
+
+	=== 1528 - whiteboard https://photos.google.com/photo/AF1QipNi1R3vb-Jyp9AgRhJ7Vlnbre9BxdpCyT0-TQEM
+		so resume
+	
+	tommy-williams-resume.netlify.com
+	_layout
+	11ty
+	_data
+	x	?	pug front matter
+	_=> require
+	edit template
+		bumpout views
+	pandoc pdf
+	readme
+
+	=== 1547 -
+		yarn init
+		yarn add -D @11ty/eleventy
+
+  	=== 1647 - resume.json - what a fucking joke
+
+	=== 1724 - develop/resume-pug
+
+			x	tommy-williams-resume.netlify.com
+	_layout
+			x	11ty
+	_data
+			?	pug front matter =>	require
+	edit template
+		bumpout views
+	pandoc pdf
+	readme
