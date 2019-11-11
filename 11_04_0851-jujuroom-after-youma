@@ -1,0 +1,96 @@
+Mon Nov 4 08:51:19 EST 2019-jujuroom-after-youma
+
+yup, continuing to do work
+
+	=== 0910 - yanked all this from last post
+			imma try to edit this shit
+
+		_template
+			mobile
+				flex-direction: column
+			nav 
+				:active
+				? font ?
+				? uppercase
+					header h1 / nav
+			wrapper div flexbox
+				grid 3x4
+				?masonry
+			header/footer
+				always on viewport
+				header
+					h1
+				footer
+					nav
+					+ technomad
+
+		_page / _post - content, main
+			[5] _pages, [2] content dynamic, [3] static content
+				work / archive
+					_post
+						up image resolution
+						nav
+						onTap
+							info + back button
+					pre footer, linkTo next page
+				cv
+		x			studio -> contact
+					change section component
+						h2 header
+							30% left indent
+						50% width
+						40/60
+							education, emplyoment
+							exhibitions
+		x				indent
+				press
+		x			font, small
+			x			? pixel spaces ?
+			x			justified
+		x			easier to read -?font
+		x			spacing
+			x			line height
+			x			kerning
+			x			serif
+					2 column
+				contact
+		x			studio <= cv
+		x			linkify the links
+		x			form
+			x			element padding
+			x			margin
+			x			center
+			x			width, padding ?wrapper?
+		x			buttonify left 4 studio, email, call, text
+					2col
+					use up whole page
+
+		later	
+			image(s)
+				load ?prefetch
+				img scaler
+					input folder
+						transform
+							output folder
+				3 quality points
+					low med high
+					info overlay
+						overlay -info -back
+				3 image sizes
+					prefetch all SMALL on index page
+					lazy load all MED
+					on _post, prefetch HIGH
+			SEARCH ENGINES
+			netlifycms
+			h1-W logo
+
+	=== 1536 - w2d
+
+		nav 
+			header
+				under h1
+			footer
+		
+	=== 1800 - taking a break to couch to 'whiteboard'
+
+

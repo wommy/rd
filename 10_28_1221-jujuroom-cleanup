@@ -1,0 +1,52 @@
+Mon Oct 28 12:21:00 EDT 2019-jujuroom-cleanup
+
+what it do
+
+	=== 1302 - whiteboard
+			https://photos.google.com/photo/AF1QipOeICh5Xmc-bsH-BR2UyAbK7vkuLtyn_1Z8qJiw
+			https://photos.google.com/photo/AF1QipMVzDho5mjZ_o9rxc2Xs2ej1DYwgceq420H6X8t
+
+		w2d
+			aeb
+				cutout most netlifyCMS
+					keep work/art
+					cutout most config.yml
+				nav.json
+				css
+					mobile
+					desktop
+				build component - carousel
+					container
+						nav
+							button
+								prev
+								next
+						imglist
+
+	=== 1311 - guess im gonna build that
+
+		=== 1506 - whiteboard https://photos.google.com/photo/AF1QipN5rEcI2fnMXxwKzu_fMjCyXDkqOZ4RV0wniUQR
+
+			aeb
+				finalize nav
+					h1
+						annabrabant
+					nav
+						work
+						archive
+						cv
+						press
+						contact
+					div
+						ig
+						copywrite
+
+				header
+					ANNA BRABANT
+					work archive cv press contact
+					ig copywrite
+
+				main
+					include carousel
+
+		=== 1720 - broke nav, need to go to AA

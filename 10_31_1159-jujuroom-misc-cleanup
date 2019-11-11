@@ -1,0 +1,108 @@
+Thu Oct 31 11:59:35 EDT 2019-jujuroom-misc-cleanup
+
+happy halloween what it do
+
+	=== 1201 - whiteboard last evening https://photos.google.com/photo/AF1QipMncPmUu9X5siRy84HUfbGHrJk5X0Y1TlcVM1Xy
+
+		AEB todo
+			wrapper div flexbox
+				grid 3x4
+			mobile
+				flex-direction: column
+			img scaler
+				input folder
+					transform
+						output folder
+			netlifycms
+
+	=== 1244 - todo squid https://photos.google.com/photo/AF1QipPStgaUy1N0JsLgVi4iNK9Y3yQx-DYVa3Yw2KRe
+
+		nav :active
+		? font ?
+		? uppercase
+			header h1 / nav
+
+	===> h1 W logo
+
+		image(s)
+		footer
+
+		_post
+			nav
+			content
+				margin-left: 30%
+			footer
+
+		main content
+			image load ?prefetch
+
+		h1 header
+			nav -> footer
+
+		header/ footer always on viewport
+			+ technomad
+
+		_page / _post
+
+		_pages [5]
+			2 content dynamic
+			3 static content
+
+		_post
+			cv
+				studio -> contact
+				change section component
+					h2 header
+						30% left indent
+					50% width
+					40/60
+						education + emplyoment
+						exhibitions
+					indent
+			press
+				2 column
+				font, small
+					? pixel spaces ?
+					justified
+			contact
+				studio <= cv
+				2col
+				linkify the links
+				form
+					element padding
+					margin
+					center
+					width, padding ?wrapper?
+			work
+				_post
+					up image resolution
+					nav
+					onTap
+						info + back button
+
+			3 quality points
+				low med high
+				info overlay
+					overlay -info -back
+			
+			contact
+				buttonify left 4 studio, email, call, text
+				use up whole page
+
+			press
+				easier to read -?font
+				spacing
+					line height
+					kerning
+					serif
+
+			3 image sizes
+				prefetch all SMALL on index page
+				lazy load all MED
+				on _post, prefetch HIGH
+
+			work
+				pre footer, linkTo next page
+			
+			SEARCH ENGINES
+

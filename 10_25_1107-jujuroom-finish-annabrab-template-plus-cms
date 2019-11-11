@@ -1,0 +1,63 @@
+Fri Oct 25 11:07:55 EDT 2019-jujuroom-finish-annabrab-template-plus-cms
+
+yeaaaah boi, pretty pumped actually
+
+	=== 1128 - tryna add the config.yml into admin head
+
+	=== 1241 - reworked technomad_cms so that netlifycms_admin svelte w 11ty
+		did it on annabrab, tryna merge it back into technomad_cms
+		merge successful
+
+	=== 1324 - gonna finangle annabrab-template
+		
+	=== 1436 - did it!, lots more todo
+		cms, add works
+
+	=== 1630 - lots 2 report
+		merged cms => technomad_11ty-template
+		merged technomad_11ty-template => develop
+
+	=== 1827 - run around from brennan
+
+		working on AEB
+
+		=== 1827 - whiteboard https://photos.google.com/photo/AF1QipNr_GbpbRXsmBjIWt-GxVlhS7a8DIMQMW3KavOb
+
+			clean car
+		x		checkupon speeding ticket
+			brennan
+			shower
+
+			AEB
+				cms ++ work
+			resume
+				events template
+				base -> pkg.json
+			tm_jekyll
+			wommy-www
+			hempwoodCBD
+			freedomtoons
+				liquid
+				yt_api
+				netlify
+
+		redo
+			clean car
+			brennan
+			shower
+
+			AEB
+				work -> carousel
+					->	archive
+				cv -> posts
+				press frontmatter
+				form -> contact
+				nav <- netlifycms
+
+				carousel -> work, archive
+				cv -> posts
+			x		press frontmatter
+			x		form -> contact
+				nav <- netlifycms
+
+				

@@ -1,0 +1,376 @@
+Tue Oct 29 09:42:33 EDT 2019-jujuroom-cleanup
+
+yoyoyo annebrab, tryna upload a cheap master
+
+=== 1048 - copied all the photos to photos folder
+	https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s
+
+	_template
+		-mobile
+			header
+				hamburger
+					work
+					archive
+					cv
+					press
+					contact
+				ANNA BRABANT
+				top_left_square.img
+			{{content}}
+			footer
+				<img id="LnkBr00imageimageimage" alt="Instagram - Black Circle" data-type="image" itemprop="image" style="width: 36px; height: 36px; object-fit: cover;" src="https://static.wixstatic.com/media/e1aa082f7c0747168d9cf43e77046142.png/v1/fill/w_72,h_72,al_c,q_80,usm_0.66_1.00_0.01/e1aa082f7c0747168d9cf43e77046142.webp">
+				© 2017 by Anna Brabant 
+		-desktop
+			
+
+	pages
+		work - photo https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipPNP9A4cWYR7fkZGF3bX6grqlR8JQRG9j5_PzRx
+			carousel
+				_template
+					back
+					heart
+					img
+						-click 2 fullscreen - lightbox		
+					title
+					subtitle
+					subtitle2
+					date
+				_data
+					data https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipO8r2d3bZjhDOkSw87Imbh4hEnRrtBlsIeqg3yq
+						1
+						acrylic and oil pastel on linen
+					Untitled https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipMuo-exEXD7-0bemPEN-vNeKIF8of2EHGt-wBZU
+						2
+						pastels, ink
+						monoprint
+						2019
+					idk https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipMgouppF-x9E_itNBPQgLuN4GcLF60ludRL_G2K
+						1
+						collage on canvas
+						2019
+					Barely Sipped https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipNnDLdqsKEPYPNchtPeSmK_H4oRPd7yAF57S3Ih
+						3
+						charcoal, oil, acrylic on canvas
+						2018
+					Flu https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipMRW52KDEZpyKltKSFI0uuQjXzB5JmZT1g8VSMP
+						2
+						oil and graphite on canvas
+						2018
+					Rivers https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipMzApT0S_Y9_QMnSTeqz1Rl1vo2HZLJDU1ZHezb
+						0
+						oil on canvas
+						2017
+					Error I https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipPE1IUvPDFNrsxkMKuq5OMDb5K-XM0APPYA1Sum
+						1
+						oil and graphite on canvas
+						2017
+					Error II https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipPE1IUvPDFNrsxkMKuq5OMDb5K-XM0APPYA1Sum
+						2
+						oil on canvas
+						2017
+					Markings https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipMKy7ZVyb7CvldHM-zfreRbbLSVkghZOmqJQBLW
+						0
+						oil on canvas
+						2016
+					Swarm https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipPB2Tt9saJlRGDh7vi52TiQ2Zv0dsiqYTjIT6yO
+						0
+						oil, collage, paste, glass on canvas
+						2016
+					Untitled https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipMEfRYyDjNugTRO7SlD8xij-HhcpZamKoxdh_oV
+						0
+						oil, house paint on canvas
+						2016
+		archive - photo https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipMtp5IS3C_zpfOWdbYC8sThIKm3YSz1sE6nHeod
+			_template
+				grouping- carousel, 2x row
+					each img
+						-click 2 lightbox
+			_data
+				monoprints
+					1	https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipOJ3ZoDJHYgCFDBXQVkICwbd1VTUo8VokLuCdQC
+					2	https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipM2Qy02EcLLvCW3Kcp-Vq4pE5-stu-S5eFDP19h
+					3	https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipOdTQdosnvsiA7rDf2ho7485lvdd4s1H7i9SOdV
+					4	https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipMRy2onDpHHWHa-VFE7rlx3quh6fsGxRolRDwxW
+				undergrad
+					cognition https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipOuyZ9QSE6RxUdUnz7zgWLJ4fbDXjNbAoDXI-Rj
+					- https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipP-TNQ7yu2G9ZimbFEUEE6KZdvh4nrwYNma3rch
+					the universe is expanding! https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipMIQV0BVADdlzep1Wip96hWlVRF5odz3YsW3XxA
+					- https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipPIldAr36uEpcD_s0nvwl9gw7vvSyf7n9iPxcL8
+					unda pressha https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipNKRvrAZu_FGF0RvYJ2N5KbzD-i9AIihi0hBz0x
+					wading https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipMLbfrd0k5bAKI5K_eJ9mdCLg0X_zaiarCC3lGz
+					fluid https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipORfs48aeiZn87r2jXbLg5_bTGbNeploHvvl3B5
+				- untitled
+					1 https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipOs4L15h-Il2Bnq_2cqsM08taTh822mY_FySSSd
+					2 https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipOtGLjeH6BLyXEU4_gmZLsMEq69yyzBYjs0c7AY
+					3 https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipPa3MAENkDfr4xmeujNgx49a13onLAjaaFpm0FH
+					4 https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipP7ONopqT9NuLvwxr2wgAANzsJeKYpkgdOPWk8q
+					5 https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipOC5qYqf6kkJ33qP5_Aefgv6KgWS65ZFG2n-CVv
+					6 https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipOYuDF1TIoQ3lNUfyGLD7AisGVVEKqRQy43Sp6r
+					7 https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipOwwzvBbBt4jOuLI5UwSw0BImSqWYjHswJGeECA
+		cv - photo https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipOhkCr4AaCYImvxSFq_pF46V5xL_1H3b7AbnQZA
+			ANNA BRABANT
+
+			STUDIO: 2144 Bagley St
+							Detroit, MI
+
+			___-EDUCATION-___
+
+			2013-DEC BFA Fine Arts-Emphasis in 
+			Painting, Western Michigan University,
+			Kalamazoo, MI
+			2009-Jun Lake Shore High School, St.
+			Clair Shores, MI
+
+			___-EXHIBITIONS-___
+
+			2019-JUN Anna Brabant:Paintings and
+			Prints, Ferndale Public Library, Ferndale, MI
+			2016-JAN New Works: Anna
+			Brabant, Detroit, MI
+			2015-SEPT Grimm Group Show, Junction
+			Hall, Detroit, MI
+			2015-JUL RiOT, Seraphine Collective Group
+			Show, UFO Factorry, Detroit, MI
+			2014-MAR Paintings by Anna Brabant, Piata
+			y Oro, Kalamazoo, MI
+			2014-JAN  Print--Works: Group Show,
+			DeVries Gallery, Kalamazoo, MI
+			2013-NOV Being, Solo Exhibition, DeVries
+			Gallery, Kalamazoo, MI
+			2013-APR Paintings by Anna Brabant:
+			Saniwx Gallery, Kalamazoo, MI
+			2012-OCT ArtPrize: Gwen Frostic School of
+			Art Exhibition, Grand Rapids, MI
+			2010-SEPT Gwen Frostic School of Art
+			Foundation Show, Kalamazoo, MI
+
+			___-EMPLOYMENT-___
+
+			2015-PRESENT
+			Third Man Records-Detroit
+
+			2013-2015
+			Total Loss Services Corportion
+
+		press 
+				- photos
+					https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipNguHSJ9lIlFQAXMFbkA7CMF9DY3P8xndJI9Hmq
+					https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipNQd6o-4Iy_Fm75dR95EHHGZGKqVZbZ7iOF7tmX
+
+			JULY 2019-
+
+			Anna Elise Brabant | Artist Exhibition
+			Jun.16 - Aug. 10
+			Reception on Thurs., Aug. 1
+			6pm-8pm
+			Ferndale Library
+			222 E. Nine Mile Rd
+			248-546-2504
+
+			Visual Artist Explores Impact of Natural vs. 
+			Manmade Compositions at Ferndale Library
+			Reception for Anna Elise Brabant's New
+			Exhibition on Thu., Aug. 1 | 6pm
+
+			FERNDALE, Mich. (May 31, 2019)--
+			Audiences for the new exhibition at the 
+			Ferndale Libray may feel as though they're 
+			encountering unique elegance among 
+			pieces that were excatated for caustic 
+			laboratory research. Visual artist Anna Elise 
+			Brabant orbits both the industial and the 
+			organic in her coloful and imaginative 
+			renderings, pivoting from the natural and the 
+			manmade, the florid and the geometric, the 
+			molecular and the mechanical. The library's 
+			Art & Exhibition Committee hosts a 
+			reception, with refreshments and music, and 
+			a chance to meet the artis, on Thu., Aug. 1 
+			at 6pm. Brabant's work will be display 
+			from Jun. 16 through Aug. 10.
+
+			Brabant is a painter and visual artist based 
+			in Detroit. She earned a BFA in Painting from 
+			Western Michigan University in 2013 and 
+			has been working out her studio in 
+			Corktown ever since. Her first solo show was 
+			nine years ago at the Gwen Frostic School of 
+			Art Foundation in Kalamazoo. Since then, 
+			she's show works t the UFO Factory in 
+			Corktown, the Junction Hall Gallery in 
+			Southwest Detroit, and the DeVries Gallery 
+			in Kalamazoo. When she's not working on 
+			her art, she's amid a hotbed of creativity and 
+			inspiration, with a day job in the Cass 
+			Corridor at Jack White's Third Man Records 
+			store/vinyl pressing plant.
+
+			Brabant approaches a canvas almost like a 
+			lucid dreamer, mixing the element of chance 
+			with intention; the synthesis, arrangement, 
+			and improvisation are the crux of the way 
+			her work is conveived and produced-- 
+			arriving at a vision rather than determinedly 
+			searching. Brabant uses multi mediums 
+			from oils and acrylic, ink and graphite, 
+			producing minimal, abstract paintings and 
+			prints that wind up accentuating line and 
+			form. She finds new provocative froms 
+			within both organic shapes and curls and 
+			purposeful, planned renderings.
+
+			As you can see with certain pieces, Brabant 
+			draws inspiration from science and 
+			microscopy, data graphs, topography and 
+			old maps, computer glitches, and natural 
+			decay. She uses varies applications to mix a 
+			palette of muted, chromatic hues, soft blues, 
+			and pinks with stark beige. Brabant 
+			intentionally circumvents and overly- 
+			conscious awareness of what comes next 
+			for each piece, amid creation. She also 
+			thrives when she gets her hands on 
+			uncommon materials and tools, 
+			experimenting with printing, rolling, burning, 
+			and collaging.
+
+			Contact: Jeff Milo, Ferndale Library 
+			Marketing
+			[jeffmilo@ferndalepubliclibrary.org](mailto:jeffmilo@ferndalepubliclibrary.org)
+
+		contact - https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s/photo/AF1QipM3-bv29cQ4WvTTRZGhMOj4mcmfqd8_A2NJBvkk
+			ANNA BRABANT
+			Detroit MI, 48202
+			
+			Tel: 586-879-7738
+
+			brabantannae@gmail.com
+
+			form
+				input type='text' placeholder='Name *' required
+				input type='text' placeholder='Email *' required
+				input type='text' placeholder='Subject' 
+				textarea placeholder='Message'
+				button type='submit' Send
+
+		=== 1139 - thinking i finished with the copy, gonna rip	
+		=== 1150 - actually finished now, put photo_links
+
+		=== 1212 - gonna put up master
+		=== 1427 - finishing up master
+		=== 1432 - just need to do some style, maybe js, maybe troubleshoot some liquid
+		=== 1449 - looking it over
+
+		=== 1753 - wrapping up
+			think i figured out the template, still needs some magic tho
+
+			gonna push it
+
+		=== 1941 - gonna finish it
+			what the actual fuck do i need to do
+
+			pages 
+				work/
+					layout: info
+				archives/
+					layout: bare
+
+			=== 1955 - whiteboard from this afternoon
+				https://photos.google.com/photo/AF1QipNBKlZzMhcsAb_KNLSeug72N7jstH1aSX6bWUsT
+
+				mobile
+					nav.json
+					carousel
+
+				footer
+					copywrite
+					instagram
+					? nav
+
+				css
+					@min width 1000
+					2 panel main
+					nav
+
+				copy press exactly
+				copy mobile exactly
+
+				MOBILE SITE
+
+					wut it do
+				
+				work - carousel
+				archive
+				cv
+				press
+				contact
+
+				work
+					data
+					untitled
+					idk
+					barely slipped
+					flu
+					rivers
+					error i
+					error ii
+					markings
+					swarm
+					untitled
+
+				archive
+					monoprints
+						1-4
+					undergrad
+						cognition
+						-
+						the universe is expanding!
+						-
+						unda pressha
+						wading
+						fluid
+					untitled
+						1-7
+		
+		=== 2012 - redo
+		
+			pages 
+				work/
+					layout: info
+				archives/
+					layout: bare
+
+			work
+				data
+				untitled
+				idk
+				barely slipped
+				flu
+				rivers
+				error i
+				error ii
+				markings
+				swarm
+				untitled
+
+			archive
+				monoprints-[1-4
+				undergrad-[
+					cognition
+					untitled1
+					the universe is expanding!
+					untitled2
+					unda pressha
+					wading
+					fluid
+				untitled-[1-7
+
+			carousel => flexbox
+
+				annabrab/work
+				annabrab/archives
+				annabrab/archives/monoprints
+				annabrab/archives/monoprints-[1-4]
+				annabrab/archives/undergrad-
+				annabrab/archives/untitled-[1-7]
+
