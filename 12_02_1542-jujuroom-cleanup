@@ -1,0 +1,59 @@
+Mon 02 Dec 2019 03:42:28 PM EST-jujuroom-cleanup
+
+howdy yall
+
+	=== 1606 - watched some youtube about the raspi into ipad pro
+
+	=== 1728 - emailed bae, netlify should work now
+
+	=== 1735 - brooks desktop design
+
+		header
+			home color
+			remove search
+			shop cart
+			transparent background
+
+		footer
+			info
+			order
+			social
+			newsletter
+			form
+
+		shop/product
+			sub_header
+				breadcrumbs + prev/next
+			2 col
+				image + image_nav
+				everything else
+
+		shop
+			hover
+				name, price
+
+		misc
+			spacing: intra-elements
+			font
+			icons
+			jQuery
+
+		wommy tweaks
+			product_nav
+				jQuery
+					select color == 4 pages into 1
+					change history 
+			header
+				remove home: shift tarpley over; bigger
+				shop + cart
+				max-width: tied w/ footer
+			product-sub_nav
+				max-width
+				redo
+					breadcrumbs + nav
+					? active
+			? different nav for 1080
+			
+	=== 1820 - pockets.pizza setup
+
+	=== 2145 - quitting

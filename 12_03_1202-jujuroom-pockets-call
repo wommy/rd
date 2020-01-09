@@ -1,0 +1,24 @@
+Tue 03 Dec 2019 12:02:58 PM EST-jujuroom-pockets-call
+
+gonna call pockets, set up his dev environment
+
+	=== 1421 - just got off the phone with pockets, that was so much work
+		gonna upload his portfolio
+
+	=== 1432 - installed browser-sync; needed sudo bc global
+
+	=== 1442 - guess im working on this
+
+	=== 1542 - motherfucker crashed on me
+
+	=== 1631 - notes on pockets.pizza
+
+		template
+			blue_ish_color
+				header, footer
+				background_image / white
+			navigation
+				page number
+				previous / next
+					jQuery
+			
