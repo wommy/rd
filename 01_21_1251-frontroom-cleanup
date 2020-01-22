@@ -1,0 +1,252 @@
+Tue 21 Jan 2020 12:51:25 PM EST-frontroom-cleanup
+
+waddup rd, cleaning up tabs, tryna get to work
+
+	=== 1335 - dunno if i can use arch just yet
+		? should probably pivot to debian
+
+	=== 1336 - i wanna create blogs on some website
+		? wommy or technomad
+			probably TM
+		
+	=== 1341 - gotta cleanup my github
+		gotta use TM
+
+	=== 1429 - 
+		merged all the freedomtoons repos into one
+		make a clients repo, pushed clients into it
+
+	=== 1441 - 
+		tryna go thru oldest repos to organize them,
+			quite a bit of polution here
+	
+	=== 1459 - 
+		branched technomad-jekyll_template into technomad
+
+	=== 1517 - 
+		branched into technomad
+			technomad-template 
+			technomad-jekyll_theme
+			c9_webpack-technomad
+			c9_npmbp-technomad
+			spike-technomad
+			technomad_spike_datocms
+			technomad-gatsbifyCMS
+			technomad_www
+			technomad_11ty_ejs
+			technomad_phtml
+			technomad_pug
+			technomad_express
+			technomad_cms
+			technomad_bash
+			technomad_pelican
+			technomad_next
+			technomad_gatsby
+			technomad_webpack
+			technomad_react
+			technomad_sanity
+			technomad_ejs
+			technomad_blogposts
+		=== 1635 - I THINX IM FUXN DUN
+			dart
+
+	=== 1651 - 
+		TODOs
+			days of the week
+				read
+			ss github-repos,-branches #tablet
+			=== 1714 - started on this
+
+	=== 1806 - 
+		repo list; #TODO add branches
+			clients
+				cutepanda
+				freedomtoons
+				annabrab
+				pockets.pizza
+				tarpley.us
+				hempwoodCBD
+				thehousecycle
+				lulu_cakes
+				jeff
+				brent_portfolio
+				ericJS
+				jekyll-ogp
+			rd
+				2019_04
+			dotfiles
+			projects
+				adopt_me
+				sem-js
+				static-pokedex
+				learnjextjs-demo
+				datocms-gatsby-portfolio
+				postcss-present-env-www
+				w3w
+				blog
+				gatsby-source-youtube
+				funSpike
+				restaurant-template-cms
+				test_hugo
+				test_forestry
+				rovin_funneler
+				hugo_test
+				oley_revive
+				react-for-beginners-starter-files
+				kaldi-hugo-cms-template
+				roommate
+				starter
+				kanban_app
+				webpack-react-test
+				test_app3
+				test_app2
+			technomad
+				_jekyll
+				_blog
+				_11ty
+				_handlebars
+				_olde
+				_technomad
+				npm_bp_c9-technomad
+				jek2jade
+				jekyll-lanyon
+				danielle_cms
+			wommy
+				-technomad_11ty
+				-www
+				_jekyll
+				.github.io
+				w0m.io
+				resume
+				mixture-portfolio
+
+	=== 1844 - history
+		jekyll added a blog
+			go back to 
+		mixture
+			was adding content
+			? why didnt i middleman
+		mixture/
+			wommy-www
+			11ty
+
+	=== 1915 - github history
+		mixture_portfolio
+			__olderTests
+			_clients
+				8cell
+				drewScalercio
+				thinkubator
+				wingchun
+			portfolio
+				__mobile
+				_v-0.1
+				_v-1.0
+				_v-1.1
+				_v-current
+		projects/
+			test_app2
+				test_app3
+			webpack-react-test
+			kanban_app
+		clients/
+			jekyll-ogp
+		projects/
+			starter
+		clients
+			Roommate
+		TM/
+			npm_bp_c9
+				_template
+				thinkubators
+				karen
+				technomad
+				wommyio
+				linkedingroups
+				jekyll-lanyon
+				samsara
+		wommy/
+			jekyll-lanyon
+		TM/
+			jek2jade
+		projects/
+			kaldi-hugo-cms-template
+		wommy/
+			wom.io
+		projects
+			react4beginners
+		clients/
+			oley_revive
+		wommy/
+			.github.io
+		projects/
+			hugo_test
+		clients
+			rovin_funneler
+		projects
+			test_forestry
+			test_hugo
+			restaurant-template-cms
+			funSpike
+		clients
+			ericJS
+		projects/
+			gatsby-source-youtube
+		wommy/
+			blog
+			w3w
+		clients
+			postcss-present-env-www
+		projects
+			datocms-gatsby-portfolio
+			learnnextjs-demo
+		clients
+			brent_portfolio
+		dotfiles
+			2019_04
+		wommy
+			_jekyll
+		clients
+			jeff
+			lulu_cakes
+			thehousecycle
+		wommy
+			-www
+		technomad
+			_technomad
+			_olde
+		clients
+			static-pokedex
+		tm
+			_handlebars
+		clients
+			danielle_cms
+			hempwoodCBD
+		wommy
+			/resume
+		tm
+			_11ty
+			_blog
+		clients
+			semjs
+		tm
+			_jekyll
+		projects
+			adopt_me
+		dotfiles
+		clients
+			tarpley.us
+			pockets.pizza
+		wommy
+			-technomad_11ty
+		rd
+		clients
+			annabrab
+			freedomtoons
+			cutepanda
+		=== 1956 - ? done
+			gonna dart
+		=== 2003 - didnt dart yet, gonna
+			gotta write a blog about organizing this
+
+
