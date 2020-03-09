@@ -1,0 +1,77 @@
+Wed 22 Jan 2020 12:59:45 PM EST-frontroom-cont
+
+so im continuing yesterdays
+
+i got all these repos up, need a little organization
+
+	new blogpost
+	repolist
+		? redo ? better github => wommy
+	technomad_jekyll
+		master + dev
+		olde
+		11ty + posts
+		== posts need to be a pagination collection
+	mixture
+		== wommy == portfolio == client/
+	technomad_blog .req _11ty, _blogposts
+		== this is the future
+		? how to stitch into clients
+	technomad.media
+	wommy.io
+	jekyll_lanyon/_posts
+	npm_bp_c9/clients
+
+=== 1307 - so those are my tabs/repos open
+	wut 2 do wit dem
+
+	new blogpost => tm_jekyll
+	repolist => better github => wommy
+	tm_jekyll 
+		== posts look so good
+		>> resolve master, dev ;; del olde
+		?? where does 11ty and posts fit in?
+			? 11ty the jek
+			? split posts
+		>> fix pagination
+		>? tm_blog
+	tm_olde
+		>> olde > master ?? wtf spike
+	wommy-www
+		== revisit mixture
+		// master, dev, 
+			== lots of noise in the commits
+			== trouble pulling in mixture_originals
+		==>> fix mixture originals, ?? pull in correctly
+			== few hiccups ?? create new repo and do this correctly?
+			== fucked_up setting_up branch/jekyll
+		// jekyll, jek2jade, npmbp
+		// spike, feature/nav
+		xx compositor.json 
+		// npmbp, npmbp2, 11ty 
+		== not that much todo really, kinda wanna keep it to display
+		-- if i had to redo it
+			>> pull in mixture correctly
+			>> 2jek, 2jade, 2npmbp ; 2spike
+			xx dont do github_pages, compositor.json
+			>> spike: .gps my_style, .nav
+			>> design
+		-- 11ty should be able to handle mixture, jekyll, npmbp
+	mixture
+		==>> __olderTests
+		==>> _clients
+		portfolio: v0,1,2.. ==>> _clients
+	tm/_blogposts ==>> clients/tm/content
+	tm_blog >> _11ty, _content
+	wommy.io
+		>> jekyll_lanyon ==>> blog
+	npm_bp_c9 //develop/ _template, clients/
+=== 1418 - need a dart break, gonna look this over once more
+=== 1427 - finished looking over, gonna dart
+=== 1438 - fohreel nao
+
+=== 1447 - 
+	wut2do
+		>> create new repo, pull in mixture originals
+	=== 1634 - 
+		decided not not get into this rn

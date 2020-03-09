@@ -1,0 +1,34 @@
+Mon 03 Feb 2020 11:24:37 AM EST-frontroom-linuxreport
+
+gonna try to knock this out
+
+=== 1322 -
+	gonna type out a md for keith
+
+	design
+		-- mobile
+			header
+				config
+				logo.img
+				subtitle
+			main
+				card
+					header
+						a
+							logo.img
+					div
+						a
+		-- desktop
+			header
+			main
+				3 col
+
+	=== 1336 - 
+		gotta code this
+	=== 1502 - 
+		submitted some PRs, gonna rip
+=== 1835 - 	
+	no clue what im doing
+	keith accepted one of my PRs, now i need to rebase all my branches onto the new master
+=== 2304 - 
+	no clue what i did, but i got it done

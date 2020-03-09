@@ -1,0 +1,60 @@
+Sat 01 Feb 2020 11:35:16 AM EST-frontroom-misc_cleanup
+
+feb 1 lets go baby
+
+i would like to repair kde neon today
+
+=== 1249 - 
+	crashed
+=== 1311 - 
+	i dunno what to build
+=== 1318 - 
+	think i gotta clear tabs
+=== 1340 - 
+	gonna logout
+=== 1343 - 
+	still cleaning up tabs
+=== 1508 - 
+=== 1534 - 
+	just gonna write down some of the projects im doing
+
+	annabrab
+		== i would like to list some todos
+			>> desktop layout
+			>> header nav
+				>> move stuff to footer
+				>> nav.active
+			>> cloudinary
+			>> caitlinfoster.net
+			>> dynamic title
+				== 11ty_docs
+					data-frontmatter
+					data-frontmatter-customize
+					gray-matter	
+
+	freedomtoons
+		>> video_card
+		>> SPA
+			>> home (videos)
+			>> about
+			>> donate
+			>> links
+			>> contact
+	mix_11ty
+		>> terencemckenna-reddit_link
+=== 1719 - 
+	just got back from swinging flytrap 2 talk 2 pauli
+=== 1803 - 
+	workin on keith
+
+	=== 1828 - 
+		LinuxReport
+			>> template layout
+			>> .column, .row:after
+				__ flexbox
+			>> header
+				__ button
+				__ img
+				__ desc
+			>> main
+				3x: sitebox

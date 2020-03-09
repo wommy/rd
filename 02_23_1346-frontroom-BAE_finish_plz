@@ -1,0 +1,211 @@
+Sun 23 Feb 2020 01:46:25 PM EST-frontroom-BAE_finish_plz
+
+gotta copy from yesterday
+
+	rm readme
+	rm netlifyCMS	
+
+		nav => header
+
+		nav-thick => nav; ~ header-thick, footer
+
+		layout _skinny, _thicker
+			indentation
+
+		^	header => _base
+		^	_base => _post
+
+		header-thick => header; ~ _template, _page
+
+	>	fontawesome <= _page
+		
+		_template => _default
+			squash
+		
+		layout: _page, _post
+			indentation
+
+	_static => __static
+		^	fixup
+
+	*.html => pages/*.liq
+	+ /pages.json
+	-	layout from pages
+		+	index.html
+	+	index permalink
+		^	index pagination
+
+	work/ => _data/work
+		work => works
+		~	index
+	archive/ => _data/archive
+	-	-	/archive.json
+
+	_thicker => /works
+		pagination
+		^	/works data_nesting
+	
+
+	new_imgs
+	.11ty => config
+	misc_css
+	contact form
+
+=== 1410 - 
+pushed
+	pick 3f6e59e rm readme
+	pick 2f9ae46 rm netlifyCMS
+	pick d715f08 11ty.config arrow function
+
+
+
+how 2 do
+
+
+	template redo
+		pick b61876c _i/ nav => header
+
+
+		pick 1d8e125 _skinny, _thicker: layout:_post
+			pick b776882 _skinny indentation
+		pick 78432b4 _i/ _base => _post
+		pick a956f3f _i/ header => _base
+
+
+		pick 2a556a4 _i/ nav-thick => nav; :dep header-thick, footer
+		pick 0c05eff _i/ header-thick => header; :deps _template, _page
+		pick 8d54c14 mv fontawesome to proper script location
+
+
+		pick 1f4bb5e mv _template to _default
+		pick ef8f83a _template fontawesome <= _page
+
+		pick f5895ec squash _default
+		pick d9d1415 _page, _post _default
+		pick 1c65be7 _page, _post indentation
+
+
+		pick e082c90 _i/_thicker => pages/works
+		pick dfca6de _i/_thicker => pages/works
+		pick 3c978de fixup works proper data nesting
+
+		pick 4ae4ae0 _data/ work => works
+		pick fbd67b3 /index work => works
+
+
+__static
+	pick b74b69a # This is a combination of 2 commits. # This is the 1st commit message:
+	pick df332db merge conflicts
+
+	how to do
+		new branch - feat/__static
+		cherry-pick
+		squash merge
+
+	needs:
+		posts, pages
+
+
+later
+	dir reorganize
+		pick 3ccfba8 mv *.html => pages/*.liq, /pages.json
+		pick 1d9e04e work/ into _data/work
+		pick 798983f archive/* => _data/archive
+
+		pick a64ff3d rm layout from pages
+		pick 6f2e9ec index permalink
+		pick 5d1d2e9 rm index pagination
+
+
+
+end cherry-picks
+	pick fdbc563 moved a little css from one to another
+	pick e0a077f contact form, modernized
+
+	pick a521af7 added new images into works, quick
+
+=== 1549 - 
+
+pick ad4427d nav => header
+r 01a335e _skinny, _thicker: layout:_base
+e df90406 _base => _post
+r 342a32f header => _post
+
+pick 8f3854f fontawesome _page => _template 
+f d6a2829 mv fontawesome to proper script location
+pick b6a55ba _template => _default
+reword 0554230 remove _page parts from _default
+
+pick 7484a46 _page, _post _default
+s b8126a7 _page, _post indentation
+
+pick 4adacf0 _i/ nav-thick => nav; :dep header-thick, footer
+
+pick 1f8f42d _i/ header-thick => header; :deps _page
+
+
+pick df8610a mv *.html => pages/*.liq, /pages.json
+pick 5e7b7f5 work/ into _data/work
+
+pick 1c14220 _static => __static
+
+pick 8ab2d28 archive/* => _data/archive
+
+pick 4c47bac rm layout from pages
+pick e41026d index permalink
+
+pick 34af9be _i/_thicker => pages/works
+pick 6363afc _i/_thicker => pages/works
+pick 67a04ca _data/ work => works
+pick 6654319 /index work => works
+
+pick ef8f044 rm index pagination
+pick 8b317dc fixup works proper data nesting
+
+pick 9f65a24 added new images into works, quick
+pick e12dd86 moved a little css from one to another
+pick da143aa contact form, modernized
+
+=== 1747 - 
+
+	fontawesome => _template
+	_template => _default
+		rm header, main
+	_page, _post :req _default
+	
+pick 3f15db1 fontawesome _page => _template
+pick 4d94f21 _template => _default
+pick 7a78d47 _default rm header, main
+pick b403c9d _page, _post _default
+
+
+pick bf0c30c nav-thick => nav; :dep header-thick, footer
+pick 8396466 header-thick => header; :deps _template, _page
+
+pick 0232890 mv *.html => pages/*.liq, /pages.json
+pick 9a0f602 work/ into _data/work
+pick ea02f5b _static => __static
+pick 69af2e6 archive/* => _data/archive
+pick 5fa1c92 rm layout from pages
+pick 16d5e27 index permalink
+pick bd48835 _thicker => pages/works
+pick 3938391 /works pagination
+pick 50deea8 _data/ work => works
+pick ab827d8 /index work => works
+
+pick 00f4b44 rm index pagination
+pick 74b54f7 fixup works proper data nesting
+
+pick 5d78de7 added new images into works, quick
+pick 69cf5c0 moved a little css from one to another
+pick d0dfa79 contact form, modernized
+
+=== 1838 - 
+	zachs here,
+	made some pushes
+	
+		_post
+		_default
+		- -thicks
+
+	

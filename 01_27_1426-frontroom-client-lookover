@@ -1,0 +1,80 @@
+Mon 27 Jan 2020 02:26:24 PM EST-frontroom-client-lookover
+
+starting
+
+=== 1426 - starting watching an 11ty vid
+
+=== 1504 - started annabrab//feature/pages
+	deleted readme and netlifyCMS.admin
+	moved pages into pages
+	== think im gonna delete some crap
+	>> double check work/, archive/ are not needed
+	== i think all these bitches r empty; knew that was too good to be true
+=== 1519 - 
+	commit'd
+	== about to do the same for archives
+=== 1643 - fucked everything up, 
+	gotta redo file_folder_structure
+	>> layout chaining
+	---	current layout:
+		__static
+		_data
+			archive
+			works
+		_includes
+			__bae.css
+			__base.css
+			_base.liq
+				head
+				header
+				main
+				footer
+			_template = _base
+				head+
+			_page.liq = _base
+				head++
+			_post = _base
+				header: nav-back
+			_thicker = _post
+				main: Card for_in
+					img
+					h2
+					if :: desc ?
+			_skinny = _post
+				main: Card for_in
+					img
+					h2
+					for tag in tags
+			head
+				base
+				++
+			header
+				title_logo
+				nav
+			nav
+				sitelist
+			nav-back
+				btn.back
+			footer
+				nav
+				nav.footer
+		archive
+		pages
+			pages.json
+			index
+			work
+			archives
+			cv
+			press
+			contact
+	---
+=== 1714 - gonna dart n tink about this
+=== 1730 - really gonna dart
+=== 1748 - ok so
+	commit'ing bae
+=== 1815 - 
+	commit'd
+	>> templating
+=== 2341 - 
+	did a bunch of commits
+	gonna work on works

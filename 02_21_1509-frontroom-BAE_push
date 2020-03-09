@@ -1,0 +1,179 @@
+Fri 21 Feb 2020 03:09:38 PM EST-frontroom-BAE_push
+
+gotta push anna's junk
+
+=== 1553 - 
+	this is not fun or easy,
+	edit'd a commit, corrupted it, fix'd that
+	trying to tackle this huge feat/page_layout
+
+_	remove readme
+_	remove netlifyCMS
+_	[pages].html => pages/.liquid 
+_	pages.json
+	
+^	touched up _data/work
+	del work[s].md
+
+^	del _static/config.yml
+	mv'd _static => __static
+
+	touched up _data/archive
+	del archive[s].md, archive.json
+
+^	rm'd layout, title from pages/
+^	added index permalink
+
+	_templates
+		_template, _page
+			merged as _default
+			fontawesome <= _page
+		_base => _post
+		_page
+			:ext _default
+			inc header-thick => header
+		_post <= _base, header
+			:ext _default
+	^ + main wrapper
+		_skinny
+			:ext _post
+		_thicker
+			:ext _post
+	_includes
+		nav => 
+			header =>
+				_base =>
+					_post
+		nav-thick => nav
+			:header-thick
+			:footer
+		header-thick => header
+
+^	.11ty, /index
+	: __static
+^	pages.json
+
+^ _skinny, _thicker, /archive
+	: __static
+	/archive
+	: rm pagination
+
+	.11ty shortcode card <= _thicker
+^	_default indentation
+^	_post main wrapper <= _skinny, _thicker
+	_thicker => /works
+^	pages/ returned titles
+	_index
+		rm'd pagination
+		mv'd _data/ work => works
+^	pages.json rm'd title
+	/works pagination w card
+
+=== 1821 - 
+	oh jeez gotta rebase this
+
+	1
+		A	- readme
+		B	- netlifyCMS
+				+ 3
+		C *.html => pages/*.liquid
+			+ /pages.json
+	2
+		D - work/* 
+			+ _data/work.json
+	3
+		E	_static => __static
+		^B
+			- netlifyCMS
+	4
+		F	- archive/*
+			+ _data/archive.json
+	5
+		^C
+			- layout
+			+	/index : permalink
+		-	title
+	6
+		G
+			~	_i/ nav => header
+		H
+			~	_i/ header => _base
+		I
+			~	_i/ nav-thick => nav
+				~	header-thick
+				~ footer
+		J
+			~	header-thick => header
+				~	_template
+				~	_page
+		K
+			~	_i/ _base => _post
+		^9
+			+ main_wrapper
+		L
+			~ :ext _post
+				~	_skinny
+				~	_thicker
+		M
+			+ _default
+				<= 
+					_template
+					_page
+					_post <= _base
+				+	fontawesome
+			^	9
+			~ :ext _default
+				~	_page
+				~	_post
+	7
+		^E
+			.11ty
+			/index
+		- /pages.json
+	8
+		^E
+			_skinny, _thicker, /archive
+		N	/archive 
+			- pagination
+	9
+		^M _default
+			- indentation
+		^K _post 
+			+ main_wrapper
+		O	_thicker
+			~ .11ty
+			~ /works
+			~ _data/ work => works
+			~ /index
+		^10	feat/card_back2_works
+		- +	[pages]/ :title
+		^N	/index
+			-	pagination
+		- - /pages.json :title
+	10
+	11
+		^9.1
+	12
+	13
+	14
+
+=== 1948 - 
+	that took fuckin forever
+	gonna dart, hol about to show
+
+=== 1959 - 
+	is it better to rebase top to bottom or vice versa
+
+
+
+
+
+
+
+
+
+
+
+
+
+

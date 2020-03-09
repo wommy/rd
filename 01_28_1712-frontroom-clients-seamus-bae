@@ -1,0 +1,50 @@
+Tue 28 Jan 2020 05:12:51 PM EST-frontroom-clients-seamus-bae
+
+wanted to start one in toledo
+
+=== 1723 - 
+	markdownit linkify'd seamus
+	tryna wrap annabrab
+=== 1802 - got it working
+	kinda wanna filter it
+=== 2013 - 
+	got the filter done,
+	tried to paginate archives, not working
+	gonna push
+=== 2042 - 
+	gotta rebase anna => dev
+	switching to seamus
+	>> card-video
+	>> template
+		>> header
+		>> footer
+=== 2220 - 
+	linkify'd markdownit
+	moved pages/
+	templates, _page + cleanup
+	shortcode
+	merged style
+	>> header
+		>> nav
+			>> home, about, donate
+				?? SPA
+	>> redesign card
+		???
+			div
+				h3
+				img
+		???
+	>> footer
+	===
+		h1
+		videos
+		about
+		donate
+		footer
+			links
+			contact
+			social_media
+			form
+	===
+=== 2228 - gonna dart
+=== 2241 - think im gonna SPA this ::happy::

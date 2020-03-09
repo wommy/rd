@@ -1,0 +1,25 @@
+Wed 04 Mar 2020 01:16:56 PM EST-hollystu-freedomtoons-imgs+modal
+
+here we go
+
+=== 1526 - 
+	did a fuckton of pushes
+
+	nav .html => liquid, ~_default
+	11ty.__static imgs: menu, banner
+	theme color
+	main width
+	img alt info
+	banner imgs
+	menu img height spacing
+	.toon-wrapper
+	rm header padding
+	specified main header
+	add main flex column
+	moved video header
+	wrapper in header
+	commented out video desc
+	added style article width flex
+	added ads
+	finished /videos
+

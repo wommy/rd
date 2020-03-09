@@ -1,0 +1,33 @@
+Tue 04 Feb 2020 10:32:07 AM EST-frontroom-little_LR-little_FT
+
+i want to do the proper templating for LR
+
+=== 1116 - 
+  crashed
+=== 1345 - 
+	bunch of PRs to LinuxReport
+	gonna start on seamus after dart
+
+=== 1701 - 
+  keith merged my junk
+	gonna dart
+=== 1725 - 
+	freedomtoons todo
+		shortcode: reference const element
+			v2
+		fix header
+			title + nav
+			main
+		SPA
+			header
+			home = videos
+		 ?? order
+			about
+			donate
+			footer
+				links
+				contact +email +social
+=== 2316 - 
+	got alot of seamus done before keith sent me on a bug chase
+	still need to finish up seamus
+

@@ -1,0 +1,191 @@
+Sat 22 Feb 2020 01:52:20 PM EST-frontroom-cont-finish_anna_commit
+
+here we go boyos
+
+gotta consult with yesterdays notes
+
+=== 1724 - 
+	omg i think i did it
+
+commits
+	
+	rm readme
+	rm netlifyCMS
+^
+	mv *.html => pages/*.liquid
+	/pages.json
+
+	work/* => _data/work
+
+^	fixup netlifyCMS
+
+	_static => __static
+
+	archive/* => _data/archive
+
+	index permalink
+	^	bump this down
+
+	rm layout from pages
+
+	nav => header
+	header => _base
+	nav-thick => nav, ~ header-thick, footer
+	_base => _post
+	layout:_post _skinny, _thicker
+		_skinny indentation
+	header-thick => header, ~ _template, _page
+	_template fontawesome <= _page
+		fontawesome to proper location
+	_template => _default
+	layout: _default _page, _post
+		indentation
+
+^	squash static
+^	squash static
+	
+^	squash default
+
+	_thicker => /works
+		pagination
+	
+	_data work => works
+
+	/index work => works
+
+	new_img
+
+	.11ty => config
+
+	misc css
+
+	contact form modernized
+
+^	index pagination
+
+^	works data
+
+=== 1752 - 
+	so i wrote all these commits down,
+	gotta relook over them
+
+=== 1834 - 
+	did a second rebase, dev3
+	gotta undo dev2
+
+=== 1847 - 
+	think im gonna skip this,
+	? incrementally add to dev
+
+current commits
+	
+	rm readme
+	rm netlifyCMS	
+
+	_static => __static
+	^	fixup
+
+	*.html => pages/*.liq
+	+ /pages.json
+	-	layout from pages
+		+	index.html
+	+	index permalink
+	^	index pagination
+
+	work/ => _data/work
+		work => works
+		~	index
+	
+	archive/ => _data/archive
+	-	-	/archive.json
+
+
+		nav => header
+		^	header => _base
+		^	_base => _post
+
+		nav-thick => nav; ~ header-thick, footer
+
+		layout _skinny, _thicker
+			indentation
+
+		header-thick => header; ~ _template, _page
+
+	>	fontawesome <= _page
+		
+		_template => _default
+			squash
+		
+		layout: _page, _post
+			indentation
+	
+
+	_thicker => /works
+		pagination
+^	/works data_nesting
+	
+	new_imgs
+
+	.11ty => config
+
+	misc_css
+
+	contact form
+
+=== 1953 - 
+	think i figured it out
+
+	rm readme
+	rm netlifyCMS	
+
+		nav => header
+
+		nav-thick => nav; ~ header-thick, footer
+
+		layout _skinny, _thicker
+			indentation
+
+		^	header => _base
+		^	_base => _post
+
+		header-thick => header; ~ _template, _page
+
+	>	fontawesome <= _page
+		
+		_template => _default
+			squash
+		
+		layout: _page, _post
+			indentation
+
+	_static => __static
+		^	fixup
+
+	*.html => pages/*.liq
+	+ /pages.json
+	-	layout from pages
+		+	index.html
+	+	index permalink
+		^	index pagination
+
+	work/ => _data/work
+		work => works
+		~	index
+	archive/ => _data/archive
+	-	-	/archive.json
+
+	_thicker => /works
+		pagination
+		^	/works data_nesting
+	
+
+	new_imgs
+	.11ty => config
+	misc_css
+	contact form
+
+
+
+
+
+	

@@ -1,0 +1,128 @@
+Fri 07 Feb 2020 01:41:15 PM EST-frontroom-clean_n_push-freedomtoons
+
+here we go boyos
+
+=== 1407 - 
+	so what am i doing here
+
+	my branch is called feat/shortcode_const
+	i should stage and push that fs
+	
+=== 1420 - 
+	== so this is super convoluted
+	xx change card
+	11ty.js
+		== way too many changes
+		- shortcode >> require
+		- const md-it ^ outside of func
+		- export >> arrow func
+			eleventyConfig >> config
+		- filters >> arrow funcs
+		- shortcode: form-netlify
+	yt_api.js
+		- cleaned url
+	- rm _includes/__index_style.css
+	huge tweaks to _inc/__style.css
+		>> revisit
+	_inc/_default.liq
+		- rm'd __index.style
+		- rebuilt
+			head = same
+			inc header
+			main.flex
+			inc footer
+			comment'd todo, .env
+				## 	=== 1450 - installing vim plugins correctly, vim-liquid && emmet-vim
+	- rm _inc/_page
+	- redid _inc/header
+		- h1 >> a h1 
+		- nav
+			- rm h2 menu
+			- home >> ^^^
+			- rm more freedom links
+			- mv social media >> footer
+				## === 1501 - todo CSS
+					header nav
+						.active = underline && disabled
+						:hover
+						put back in videos, contact 
+						h1 && videos = width: 50%
+				##
+	-	git mv pages/donate.md >> donate.liq
+	index.liq
+		-	mv div.grid-list >> ^ main.flex
+		-	changed card geoff >> simple
+		-	mv env.dev, todo >> _default
+	-	git mv pages/links >> _data/links.json
+	-	pages/pages.json :: layout: page >> default
+	-	pages/videos.liq :: card >> {{content}}
+	untracked
+		_inc/card.js
+		_inc/donorbox.liquid
+		_inc/footer
+		_inc/form-netlify.js << from annabrab
+
+# === 1535 - blogpost :: oneflow
+
+=== 1536 -
+	gonna dart 
+-	__ style
+=== 1545 - 
+	pushed a bunch of commits
+=== 1609 - 
+?? what do i got left
+	.11ty.js
+	rm __index.style
+	__style
+	_default
+	rm _page
+	header
+	pages/
+		index
+		.json
+		videos
+	untracked
+		_inc/
+			card.js
+			footer
+			form-netlify.js
+?? this in turning into what
+	.11ty.js
+		_/card.js
+		_/form-netlify.js
+		pages/videos
+	__index.style
+		_default
+	__style
+		_default
+		& so much more
+	_default
+		__index.style
+		__style
+		header
+		_page
+		footer
+	_page
+		_default
+		pages.json
+	_header
+		_default
+	page/index
+		__style
+	pages.json
+	pages/videos
+		_/card
+		.11ty
+	_untracked
+		_/card
+			.11ty.js
+		_/footer
+			_default
+			_/form-netlify
+		_/form-netlify
+=== 1629 - i think i got this
+	branch was called shortcode const but i removed card
+	if i just change pages/index
+	add incl relevant style
+=== 1651 - gotta do it the hardway, because its historical
+=== 1832 - finished feat/shortcode_const
