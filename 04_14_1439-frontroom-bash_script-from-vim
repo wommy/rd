@@ -1,0 +1,75 @@
+Tue 14 Apr 2020 02:39:39 PM EDT-frontroom-bash_script-from-vim
+
+i need to redo all this
+
+=== 1440 - 
+	" need to change this too
+
+so what do it do now
+
+``` bash	
+	#!/bin/bash
+	# ask user for location and title
+
+	read -p 'location? ' loc
+	read -p 'title? ' title
+
+	echo $(date)-$loc-$title >> $(date +"%m_%d_%H%M")-$loc-$title
+	vim $(date +"%m_%d_%H%M")-$loc-$title
+```
+
+ dont want to launch vim, its easy to pick in netwr
+
+ i just want to create a file based on
+ 	date, location
+
+``` md
+Tue 14 Apr 2020 02:39:39 PM EDT
+	frontroom
+	
+bash_script-from-vim
+```
+
+	? output markdown? ;_;
+
+	_	place.sh
+		
+		asks for place
+
+		takes date
+			echos >> $(date + "%m_%d_%H%M)
+				
+wait i can break this up more
+
+date.sh 
+	probably can be an alias
+
+
+
+	``` bash
+		echo $(date) >> ~/rd/$(date +"%m_d%_%H%M).md
+	```
+
+	second echo - ? subj?
+
+	``` bash
+		read -p 'subj? ' subj # works for place and topic
+		echo $('	'+subj) >> $(date +"%m_d%_%H%M)
+	```
+
+=== 1514 - 
+
+alias rd-new = echo $(date) >> ~/rd/$(date +"%m_d%_%H%M).md
+
+alias rd-subj = read -p 'subj? ' subj >> ~/rd/$(date +"%m_d%_%H%M).md
+
+=== 1540 - typed it up, trying it out
+
+=== 1908 - 
+	giant waste of time
+
+	mike client colin
+
+	need to clean tabs
+
+

@@ -1,0 +1,167 @@
+Fri 03 Apr 2020 04:21:21 PM EDT-holly_fr-quarantine_day6-BAE_cloudinary
+
+used holly's mac to image magick it
+now gonna install the plugin
+
+=== 0213 - 
+	rarebits
+
+	_template
+		header
+			logo
+			nav
+				shop
+				about
+				custom order
+				news
+		main
+		footer
+			shipping + returns
+			subscribes to our newsletter
+			input + submit
+			copywrite
+
+	home/shop
+		product_page
+			breadcrumbs
+			title
+			img
+				front
+				back
+			price 
+			paragraph
+			form
+				variant
+				quantity
+				purchase
+			share
+				fb
+				twitter
+				tumblr
+		featured
+			sterling silver
+				death's head moth necklace
+				fuck ring
+				skull stacking ring
+				coffin stacking ring
+		chrysocolla
+			title + intro paragraph
+			filters + grid
+				all
+					bracelets
+						chrysocolla cuff
+							x10
+					necklaces
+						chrysocolla necklace
+							x6
+					rings
+						chrysocolla ring
+							size
+								5.5
+								6
+								6.5
+								7
+								8
+								8.5
+								9
+								9.5
+								10
+								10.5
+								11
+								11.5
+								12
+		no. 8 turquoise
+			title + intro paragraph
+			filters + grid
+				all
+					necklaces
+						pendant necklace
+					rings
+						ring
+						ring
+						ring
+						ring
+		white buffalo turquoise
+			title + intro paragraph
+			filters + grid
+				all
+					bracelets
+						cuff
+						cuff
+					necklaces
+						talon pendant
+						pendant
+					rings
+						ring
+						ring
+						ring
+		more stones
+			filter + grid
+				picture
+				title
+				price
+			all
+				bracelets
+					kingman teardrop cuff
+					morenci turquoise teardrop cuff
+					variscite teardrop cuff
+				earrings
+					kingman hoop earrings
+				necklaces
+					morenci turquoise pendant
+				rings
+					kingman turquoise ring 
+						size
+							6
+							8
+							9
+					moonstone ring
+						size
+							5
+							5.75
+							8
+		sterling silver
+			filter + grid
+				picture
+				title
+				price
+			all
+				necklaces
+					death's head moth necklace
+					lightning bug necklace
+					atlas moth necklace
+				rings
+					fuck ring
+					skull stacking ring
+					coffin stacking ring
+		sale
+			grid
+				picture
+				title
+				price
+			mexican fire pal shooting star necklace
+			brass and silver arrowhead necklace
+			brass and silver arrowhead 
+			brass and silver arrowhead 
+	about
+		img
+		title
+		subtitle
+		paragraph
+		footer
+		ig - fb
+	custom order
+		custom order request form
+			name
+				first
+				last
+			email
+			subject
+			message
+			submit
+		showroom
+			address
+			map
+	news
+		title
+		date - author

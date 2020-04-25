@@ -1,0 +1,72 @@
+Thu 26 Mar 2020 11:16:12 AM EDT-frontroom-quarantine-1_day-ft_mom
+
+watched a bunch of tailwind vids
+	https://www.youtube.com/playlist?list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR
+		designing with tailwind
+
+=== 1119 - tryna work on some anna
+
+		looking at photos
+			https://photos.google.com/album/AF1QipM1Qj2xtuZ_Rd1YxqIt8ashXsNvYXr-4n5lXm6s
+
+		photos
+
+			pages 
+				:mobile, :desktop
+					1 - index, work: 1; 36
+					2 - archive
+					3 - cv
+					4,5 - press
+					6 - contact
+				:desktop
+					36 
+			
+
+			archive :modal
+			7-10 monoprints
+			11-17 undergrad
+			18-24 untitled
+
+			work
+			25-35
+
+=== 1140 - jk, redid all that
+
+	photos
+
+		pages[]: index, archive, cv, press, contact
+			a mobile
+			b desktop m
+			c desktop l
+
+		hamburger
+			:closed
+			:open
+
+		works[]: 
+				data, untitled monoprint, idk, barely sipped, flu, 
+				rivers, error 1, error 2, markings, swarm, untitled
+			preview
+				img
+			:desktop
+
+		archive[]: 
+			monoprints[], undergrad[], untitled[]
+			
+=== 1222 - so what am i doing?
+
+	config.11ty
+
+=== 1250 - read so much about 11ty-1
+	what do i need to config?
+
+=== 1456 - that was the devil, didnt get anything done
+	config'd 11ty
+
+=== 1630 - typed out anna again
+	break n dart
+
+=== 1814 - didnt dart; watched a functional video by the tailwind guy
+	found out that hawksworth eleventail
+
+
