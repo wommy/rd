@@ -1,3 +1,18 @@
+hey seamus
+
+i wanted to thank you for the money
+and i wanted to apologize for my own disorganization with the billing
+
+
+
+a $500 bill is huge for me
+usually like 200-400
+so i wanted to apologize for slapping you with that
+there was a $300 pay period that covered dec and jan
+i did two edits in february and those are the ones you didnt like
+i still think you really need a narrative and i think a singple page would be good for that
+
+
 ### yo seamus!
 
 thanks for the money!
