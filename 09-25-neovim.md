@@ -22,7 +22,7 @@ so i downloaded neovim: `sudo pacman -S neovim`
 
 `set shiftwidth=2`
 
-[3][3]
+  [3][3]
 
 [how to do the links][4]
 

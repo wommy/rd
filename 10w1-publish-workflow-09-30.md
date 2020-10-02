@@ -20,3 +20,11 @@ meh
   i dont think going back and editing the past is that good
   i think i should just move forward with new information
 
+1936
+-
+  accidently just deleted something
+  think it had to do with vimwiki
+-
+  just reformated RD
+    20q1-3, 10w1-$topic-%M-%D.md
+
