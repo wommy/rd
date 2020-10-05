@@ -1,30 +1,34 @@
-# ask user for location and title
-
-location = input('location? ')
-#print(location)
-title = input('title? ')
-#print(title)
+# ask user for topic
+topic = input('topic?: ')
 
 # import datetime
 import datetime
 
-# format date - MM_DD_HHMM
-date = ''
-date += datetime.datetime.now().strftime('%m')
-date += '_'
-date += datetime.datetime.now().strftime('%d')
-date += '_'
-date += datetime.datetime.now().strftime('%H')
-date += datetime.datetime.now().strftime('%M')
-# print(filename)
+# new time
+time = datetime.datetime.now()
 
-# new file name w/ format: 'date-location-title'
-filename = date+'-'+location+'-'+title
+# for quarter
+q = str( int( int( time.strftime( "%W" ) ) / 13 + 1 ) )
+# for week in quarter
+wm = str( int( int( time.strftime( "%W" ) ) % 13 + 1 ) )
+
+# format for filename - YYq#-MMw#
+filenameTime = time.strftime('%yq')+q+time.strftime('-%mw')+wm
+
+# new file name w/ format: filenameTime-title.md
+filename = filenameTime+'-'+topic+'.md'
 
 # create new file with filename
-f= open(str(filename),"w+")
+f= open(filename,"w+")
 
-# write long date to file
-f.write(str(datetime.datetime.now())+'-'+location+'-'+title)
+# write frontmatter to file
+f.write('''---
+topic: '''+topic+'''
+time: '''+time.strftime('%m-%d %H%M')+'''
+place:
+rambles:
+---
+
+''')
 f.close()
 
