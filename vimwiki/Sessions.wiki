@@ -1,0 +1,16 @@
+* 10/03 - tryna plot some sessions
+  * wommy.io
+  * dev.technomad.media
+  * github
+    * rd
+    * repos
+    * repos-tms
+    * wommy/?tab=repos
+    * technomad_jekyll
+      * /dev
+    * technomad_blog
+    * technomad_blogposts
+      * /road-to-subdirectory
+    * blog_technomad
+    * jegan_mones-stock
+    * 

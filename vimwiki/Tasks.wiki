@@ -1,0 +1,59 @@
+=09-25=
+  - [ ] write component for video embed, yt
+  - [X] alias nvim
+
+  - [ ] hit up @renzo about xampp and php
+
+  - [X] syslink nvim dotfiles
+
+  - [X] cleanup repo /dotfiles master branch
+  - [X] renamed old repo, created new
+  - [ ] fixup old dotfiles repo, integrate new
+
+=09-30=
+
+call
+  - [ ] joliet
+  - [X] obriens
+
+errands
+  bike <= stavi
+  @microcenter
+    1TB
+      Rsync
+	Neon
+	Roy
+	  ram
+	  gpu
+	    psu
+  monoprice
+    aux cord
+    ethernet
+    
+=10-03= 
+- /brave-bookmarks/10w1/ dump 10/03 yt + old ff & more
+  %% this one is weird
+  - [ ] brodie
+  - [ ] yt tech
+  - [ ] old ff tech
+  - [ ] USB3 read write arch
+  - [ ] git-join-two-files : TMJ combine _data into file
+  - [ ] renzo flash router
+  - [ ] github dump
+  - [ ] suspend problems
+  - [ ] sqlite / deno
+  - [ ] arch programs
+  - [ ] sanity
+
+=10-07=
+- @MeganJones
+  - [X] screenshot ig convo
+  - [X] vim-surround
+  - [X] update dotfiles readme
+  - [ ] i3 => dwm
+
+=10-19=
+- mpj + piano state machines
+  - [ ] ? vimwiki diary
+	- [ ] transparent terminal
+	- [ ] 
