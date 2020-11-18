@@ -56,4 +56,17 @@ errands
 - mpj + piano state machines
   - [ ] ? vimwiki diary
 	- [ ] transparent terminal
-	- [ ] 
+
+=11-16=
+%% so im putting up blue stickies, xref sm,m,Moleskin
+	- [ ] MISC
+		- [ ] ? preact in next tms
+		- [ ] nerdtree <= plug
+		- [ ] snowpack <= ryan
+		- [ ] luke smith $10 paypal scripts
+	- [ ] SEAMUS
+		- [ ] bill
+		- [ ] async
+		- [ ] writup email
+		- [ ] client design brief
+		- [ ] 
