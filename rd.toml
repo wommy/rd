@@ -1,11 +1,18 @@
-11-23
-	' i spent all this fucking time doing nothing all the time
-# 1630 some todos
-	i just wanna type
-	am i writing too much?
-	shouldnt i just be writing all my blogshit in one file?
-		isnt that the whole point of rd?
--[ ] write in one file
+[[ 1123 ]]
+  1630 = [
+    { title = 'some todos' }
+    { todos  }
+  ]
+	  # i spent all this fucking time doing nothing all the time
+    todos:
+      -[ ] write in one file
+
+    ]
+    content: """
+    i just wanna type
+	  am i writing too much?
+    shouldnt i just be writing all my blogshit in one file?
+		  isnt that the whole point of rd?"""
 	im so confused
 
 i need some hotkeys
@@ -23,20 +30,15 @@ i need some hotkeys
 
 -[?] toml
 
-# 1744
+# 1744 =
   big nope to .toml
 
 -[ ] shift focus to the blog
 
 # 1753
-  -[ ] write a script to functionally process this
-  -[ ] trackdown all my blogs
+-[ ] write a script to functionally process this
 
-
-# 1840
-  -[ ] setup netlify
-
-
+-[ ] trackdown all my blogs
 
 
 
