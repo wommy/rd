@@ -46,11 +46,11 @@
   - [ ] hotkeys
 
   ## 1700
-  - need to work on alot of stuffs
+  need to work on alot of stuffs
 
   ## 1711
-  - this is why we just learn how to type faster
-  - this is supposed to be some type of idea board right?
+  this is why we just learn how to type faster  
+  this is supposed to be some type of idea board right?
 
   - [ ] ? toml
 
