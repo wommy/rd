@@ -39,7 +39,7 @@
   am i writing too much?  
   shouldnt i just be writing all my blogshit in one file?  
 
-    isnt that the whole point of rd?
+    ? isnt that the whole point of rd
     
   - [x] write in one file ' im so confused
 
