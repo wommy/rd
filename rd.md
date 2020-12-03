@@ -25,7 +25,7 @@
   - [ ] raspi4 ' explaining computers FOR kit with cooler
 
   ## 1655 ' tasks were always right
-  - [ ] change i3-gaps scratchpad 
+  - [x] change i3-gaps scratchpad 
   
   ## 1707 ' sometimes its nice to write a quick note
   im really trying to come up with the right ways to use each medium, digital analog computer notebook, i feel like its hard
@@ -41,7 +41,7 @@
 
     isnt that the whole point of rd?
     
-  - [ ] write in one file ' im so confused
+  - [x] write in one file ' im so confused
 
   - [ ] hotkeys
 
@@ -52,7 +52,7 @@
   this is why we just learn how to type faster  
   this is supposed to be some type of idea board right?
 
-  - [ ] ? toml
+  - [x] ? toml
 
   ## 1744 ' big nope to .toml
   - [ ] shift focus to the blog
