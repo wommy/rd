@@ -52,7 +52,7 @@
   this is why we just learn how to type faster  
   this is supposed to be some type of idea board right?
 
-  - [x] ? toml
+    ? toml
 
   ## 1744 ' big nope to .toml
   - [ ] shift focus to the blog
