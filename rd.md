@@ -39,20 +39,20 @@ i need some hotkeys
   
   this is supposed to be some type of idea board right?
 
--[?] toml
+- [ ] ? toml
 
 ## 1744
   big nope to .toml
 
--[ ] shift focus to the blog
+- [ ] shift focus to the blog
 
 ## 1753
-  -[ ] write a script to functionally process this
-  -[ ] trackdown all my blogs
+  - [ ] write a script to functionally process this
+  - [ ] trackdown all my blogs
 
 
 ## 1840
-  -[ ] setup netlify
+  - [ ] setup netlify
 
 
 
