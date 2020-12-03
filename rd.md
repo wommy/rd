@@ -1,4 +1,4 @@
-## 11-24
+# 11-24
   - [ ] lukesmith mail server
 
   ### hard rambles
@@ -13,6 +13,8 @@
 - [x] tasks were always right
 - [ ] change i3-gaps scratchpad 
   
+  ## 1707 sometimes its nice to write a quick note
+    ' im really trying to come up with the right ways to use each medium, digital analog computer notebook, i feel like its hard
 
 ## 11-23 
 ' i spent all this fucking time doing nothing all the time
@@ -26,7 +28,7 @@
 
 i need some hotkeys
 
- [  ]: hotkeys
+- [ ] hotkeys
 
 
 ## 1700
