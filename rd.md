@@ -1,3 +1,48 @@
+# 12-04
+
+## 1807 ' workin @ky's
+
+  diggin this new workflow
+
+    ? todo = what
+  
+  - [ ] publish to netlify
+  - [ ] create /rd
+
+  ^ working on this
+
+## 1817 ' first snag
+
+  so im trying to set up this blog  
+  ive already been tinkering with the whole setup  
+  i believe that my previous snags with both _blog and -blog had to do with the correct nesting? subdirs, submodules?
+
+  i think the solution i came up had to do with req'ing in rd instead of a sep /content
+
+    lets try to set that up
+  
+## 1823 ' ? overwrite _blog or -blogs?
+
+  so my THREE current repos are:
+  - https://github.com/wommy/technomad-blog
+  - https://github.com/wommy/technomad_blog/tree/feature/building_blogposts_with_11ty
+  - https://github.com/wommy/technomad_blogposts
+
+  first thing i noticed right away is that _blog is in a feature branch, which while progressive, the master is blank,  
+  so lets fix that
+
+    ? mv _blog/feature => _blog/master
+
+  we are also going to do something with the old blogposts
+
+    ? mv to rd
+
+  lastly, 
+  
+    combine _blog & -blog
+  
+  dunno how to do this, gonna have to think on this for a bit
+
 # 12-02
 
 ## 2243 ' workin at ky's
