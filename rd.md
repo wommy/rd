@@ -43,6 +43,56 @@
   
   dunno how to do this, gonna have to think on this for a bit
 
+## 1841 ' later
+
+  - [ ] cleanup projects_current
+
+## 1851
+
+  - [x] tm_blog feat => master
+
+## 1854
+
+  so what im seeing is  
+  i have four repos open:
+  - https://github.com/wommy/technomad-blog
+  - https://github.com/wommy/technomad_blog
+  - https://github.com/wommy/technomad_blogposts
+  - https://github.com/wommy/rd
+
+  how these are going to combine is  
+  right now, _blogposts is a submodule of _blog  
+  i need to move that to and replace it with rd
+
+  -blog is mostly up to date, need to replace /content w/ /rd
+
+  ### how does this really work:  
+
+  -blog is newer _blog  
+  rd is newer _blogposts, which is /content in -blog
+
+  - [ ] _blogposts => rd
+  - [ ] rd => -blog
+  - [ ] -blog => _blog
+
+## 1927 _blogposts => rd
+
+  im struggling with this because its not really a normal operation  
+  i need to break it down into simpler steps
+
+  currently im referencing: https://github.community/t/adding-a-folder-from-one-repo-to-another/781/2
+  
+## 1949
+
+  i think i instead want to use https://gist.github.com/smdabdoub/17065c348289158277b5
+
+
+
+
+
+
+
+
 # 12-02
 
 ## 2243 ' workin at ky's
