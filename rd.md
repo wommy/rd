@@ -1,6 +1,43 @@
-# 12-04
+# 12-12 | creating a basic theme
 
-## 1807 ' workin @ky's
+## jujuroom fr4nk3n
+
+  ### 2249 
+
+  still digging this new workflow  
+  hopefully this never gets old
+
+  already have some TODOS
+
+  ## todo - shelfed - later
+
+  - [ ] make blogpost from last rd post
+
+  ^ this looks like shit, how do i fix?
+
+  anyway,  
+  if i want to splice off a chunk of the rd,
+  i need to do diz: https://devblogs.microsoft.com/oldnewthing/20190919-00/?p=102904
+
+  i dont think i have the balls to do that right now  
+  how do i shelf? 
+
+  hopefully that works
+
+  whats the real focus
+
+  ### 2253 ' sometimes im a g
+
+  whats my plan here
+
+  ### 2301 ' reformated a smidge, gonna pushit
+
+
+# 12-04 | merge repo into another keeping history
+
+## workin @ ky's
+
+  ### 1807 ' workin @ky's
 
   diggin this new workflow
 
@@ -11,7 +48,7 @@
 
   ^ working on this
 
-## 1817 ' first snag
+  ### 1817 ' first snag
 
   so im trying to set up this blog  
   ive already been tinkering with the whole setup  
@@ -21,7 +58,7 @@
 
     lets try to set that up
   
-## 1823 ' ? overwrite _blog or -blogs?
+  ### 1823 ' ? overwrite _blog or -blogs?
 
   so my THREE current repos are:
   - https://github.com/wommy/technomad-blog
@@ -43,15 +80,15 @@
   
   dunno how to do this, gonna have to think on this for a bit
 
-## 1841 ' later
+  ## 1841 ' later
 
   - [ ] cleanup projects_current
 
-## 1851
+  ### 1851
 
   - [x] tm_blog feat => master
 
-## 1854
+  ### 1854
 
   so what im seeing is  
   i have four repos open:
@@ -66,7 +103,7 @@
 
   -blog is mostly up to date, need to replace /content w/ /rd
 
-  ### how does this really work:  
+  #### how does this really work:  
 
   -blog is newer _blog  
   rd is newer _blogposts, which is /content in -blog
@@ -75,18 +112,18 @@
   - [ ] rd => -blog
   - [ ] -blog => _blog
 
-## 1927 _blogposts => rd
+  ### 1927 _blogposts => rd
 
   im struggling with this because its not really a normal operation  
   i need to break it down into simpler steps
 
   currently im referencing: https://github.community/t/adding-a-folder-from-one-repo-to-another/781/2
   
-## 1949
+  ### 1949
 
   i think i instead want to use https://gist.github.com/smdabdoub/17065c348289158277b5
 
-## 2117 ' IT WORKED
+  ### 2117 ' IT WORKED
 
 
 
