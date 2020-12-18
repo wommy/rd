@@ -1,3 +1,84 @@
+# 12-17 | 
+
+### frontroom fr4nk3n
+
+  ##### 1850
+
+  #### rambles
+
+  starting up i guess
+
+  i think the real move is that 11ty starter,  
+  i guess you can that jstl.11ty.js
+
+  i gotta have the build 
+
+# 12-14 | creating a basic theme 2
+
+### jujuroom fr4nk3n
+
+  ##### 1332 
+  
+  #### rambles
+
+  didnt get anything materially done last time  
+  wanna try out awesome  
+  gotta figure out polybar and rofi  
+  thatll take way too long
+
+  guess im making this theme
+
+  ##### 1336 
+
+  #### whats the first step
+
+    ? new technomad
+    ? system links
+
+  so im looking at minima, jekyll base theme
+
+    ? list = page template
+
+  ##### 1346
+
+  new repo /technomad-theme from TMS
+
+  ##### 1355
+
+  am i really using parcel?
+
+  ##### 1412
+
+  i think im using parcel  
+
+  just gonna try this new thing before i go back to 11ty
+
+  probably should work on anna
+
+  google sheets api
+
+  maybe with parcel
+
+  ##### 1421 
+
+  im going thru like three waves:
+
+  1. rofi / polybar
+  2. parcel
+
+  ##### 1733 ' i guess ive been doopin
+
+	- [x] fucked with a bunch of WMs, rofi
+	- [x] bookmark stuffs NTP
+
+	- [ ] parcel  
+  - [ ] strapi + 11ty
+
+  ##### 2227 ' got mr kabob
+  
+  - [ ] how did i get into libreoffice base
+
+
 # 12-12 | creating a basic theme
 
 ## jujuroom fr4nk3n
@@ -32,6 +113,19 @@
 
   ### 2301 ' reformated a smidge, gonna pushit
 
+  ### 2303 ' i came in here to ?
+
+## create a basic theme
+
+  ####  whats my reference?
+
+  ### jekyll's default, minima  
+  
+  hopefully gonna improve it a bit,
+
+  ###### ? string it out over a few posts
+
+  ##### 2308 ' am i going crazy with the formatting?
 
 # 12-04 | merge repo into another keeping history
 
