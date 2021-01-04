@@ -1,3 +1,25 @@
+# 2021 - 01 - 04
+
+### frontroom franken
+
+  ##### 1606
+
+  new year!  
+  guess i should blob a little  
+  melissa talked to me a little bit  
+  it was nice, even tho her nastiness shone thru
+
+  ## TODO ' form for 5th.dim.det
+
+  ## TODO ' music page , submodule
+
+
+  
+
+
+
+
+
 # 12-28 | blogpost - olde 2 vue
 
 ### frontroom fr4nk3n
