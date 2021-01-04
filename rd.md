@@ -1,3 +1,126 @@
+# 12-28 | blogpost - olde 2 vue
+
+### frontroom fr4nk3n
+
+  ##### 1409
+
+  yup so here it goes
+
+  i guess im porting olde 2 vue
+
+    whats the first step?
+  
+  im trying not to fork repos, instead import em
+
+  so im guessing that?
+
+  ##### 1455
+
+  ive been in a loop  
+  whats the structure?
+
+    i think i need to 
+  
+  - [ ] put 11ty-vue into TMS
+  - [ ] start a template from that
+  - [ ] ? somehow push that to technomad olde
+
+  here goes nothing
+  
+  ##### 1503
+  
+    ^ this might be next, i just wanna build olde rn
+    ? how do i do that
+  
+  new branch? probably bad moves
+
+  ##### 1509 ' this feels so wrong
+
+  ##### 1520
+
+  so i finally got something up  
+
+  ##### 1539
+
+  i dont think moving off olde-v0 is the truth,  
+  i think i do alot of cleanup in v1
+
+  ##### 1603
+
+  i have no clue what im doing wrong here  
+  11ty vue just isnt compiling how i thought it would
+
+  do i type it in by hand?  
+  thats pretty much always a stupid move
+
+  ##### 2218
+
+  did most of the vue docs  
+  still need to figure out 
+
+  ##### 2227
+
+  just talked to kels, lil of vanrych
+
+  the vue lesson was very weird today,  
+  im trying to do olde in vue  
+  or olde 2 vue
+
+  ##### 2307 
+
+  so i dicked around this repo:
+  https://github.com/wommy/olde-vue-11ty
+
+    post which articles i followed
+
+
+  
+
+# 12-18 | blogpost - rambles
+
+  ##### 1531
+
+  so im super glad i fucked with sanity,  
+  for a second there, i thought i was gonna regret passing on it
+
+  im feelin big weird
+
+  i do think that sanity is too much
+
+  remapping a single thing like how the listitem displays is a bitch  
+  you have to build that yourself  
+
+  plus its all going to their server  
+  huge no
+
+  i instead think focus needs to fall on making strapi ez-pz
+
+  if we could make a good component workflow,  
+  then we could build our own sanity-like frontend
+
+    build own sanity workflow
+
+  ? buttercms  
+  ^ HA! their pricing, still!
+
+  ##### 1549
+
+	we need to build the components
+
+	##### 1601
+	
+	whats the move here  
+	we need to build the components
+
+	react is sweet and all,  
+	but if you can create vanilla components, thats where the moneys at
+
+	jesus
+
+	i think mongos good too
+
+	it cant be that hard to run
+
 # 12-17 | 
 
 ### frontroom fr4nk3n
