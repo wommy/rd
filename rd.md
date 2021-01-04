@@ -9,9 +9,44 @@
   melissa talked to me a little bit  
   it was nice, even tho her nastiness shone thru
 
-  ## TODO ' form for 5th.dim.det
+  ## TODO ' 5th.dim.det form
 
   ## TODO ' music page , submodule
+
+  what would a music page entail
+
+  it would legit be a CMS because i'd just push to an endpoint
+
+  saving a commit, 
+
+  it would be that atlas endpoint?
+
+  i wanna just echo and add a line of text
+
+  i gotta see if that mongo is fast enough
+
+  and then i just need to do some serverless
+
+  as if thats so hard, HA
+
+  i could just do a sqlite3 db with strapi on the linode
+
+    remember 5thdimdet form
+    maybe this first
+  
+  the music page would be same as the todo page  
+  just a different category
+
+  the sql db needs to go up first
+
+  a netlify form could be quick or not,  
+  if i snag, ill swap
+
+  ## 5th dimension DET form
+
+  #### how 2 start
+
+  clone a repo
 
 
   
