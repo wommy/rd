@@ -49,11 +49,63 @@
   clone a repo
 
 
+
+  ## update stack for vue
   
+  ##### 1635
+
+  this should be easy  
+  i already have that other repo for it
+
+  ##### 1652
+
+  looks like i have 2 branches across 3 repos  
+  @_@
+
+  ##### 1833
+
+  ' i did mom jump on the compy and then ky called
+
+  gotta look up the next mailchimp thang
+
+  ##### 1901
+
+  FOUND IT
+
+  ##### 2003
+
+  cleaned up brave backup  
+  bunch of other bookmark junk
+
+  ##### 2009
+
+  ## linode w/ keith, strapi
+
+  ##### 2034
+
+  got keiths key working, i believe  
+  https://www.linode.com/docs/guides/use-public-key-authentication-with-ssh/
+
+  
+  ## start strapi
+
+  ##### 026
+
+  got strapi all set up, incl dev server
 
 
 
 
+
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
 
 # 12-28 | blogpost - olde 2 vue
 
