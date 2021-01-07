@@ -1,3 +1,32 @@
+# 01-04 - 
+
+### frontroom fr4nk3n
+
+  ##### 1457
+
+  working on knex, sqlite3 junk
+
+  i should just do the pg tutorial shit
+
+  ##### 1933
+
+  watching some trumpy news
+
+  did the knex, got maria set up  
+  got workbench to output the ERD
+
+
+
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+
 # 2021 - 01 - 04
 
 ### frontroom franken
@@ -92,20 +121,6 @@
   ##### 026
 
   got strapi all set up, incl dev server
-
-
-
-
-
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
 
 # 12-28 | blogpost - olde 2 vue
 
