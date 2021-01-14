@@ -1,3 +1,64 @@
+# 01-13 | frontroom fr4nk3n
+### rambles 
+#### 1550 ' from Moleskin
+
+	whats the workflow i need
+
+	- [ ] click a button
+	- [ ] button triggers get()
+	- [ ] get() returns promise of re-render
+
+### how is this actually working
+#### 1556
+
+	11ty the build script
+
+	when data runs, i want it to save the data to a file >> SEEDS  
+	does that mean i want to seed? is seeding a step?
+
+		? ask keith
+	
+### never ask keith, 1648
+
+	so i create the schema,
+
+	i just need to think functionally
+
+		? tuskey
+
+### wrote dillon email ' 2015
+
+	gonna eat, doubt ill be back
+
+
+
+
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+
+# 01-08
+
+### frontroom fr4nk3n
+
+	##### 1252
+
+	so what am i doing
+
+	#### sql serverless
+
+	##### 1523
+
+## set up bash alias mpv into dotfiles
+
+	was trying to loop final frontier XD
+
 # 01-04 - 
 
 ### frontroom fr4nk3n
@@ -14,18 +75,6 @@
 
   did the knex, got maria set up  
   got workbench to output the ERD
-
-
-
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
 
 # 2021 - 01 - 04
 
