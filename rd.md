@@ -1,5 +1,5 @@
 # 01-16 | frontroom fr4nk3n
-### rambles , 2026
+  ### rambles , 2026
 
   how we do
 
@@ -36,7 +36,7 @@
   ^= super schema
   super schema :: _id, createdAt
   
-### 2123 ' watchin wings , wrote another dillion email
+  ### 2123 ' watchin wings , wrote another dillion email
   
   these dillon emails need to be turned into blogposts  
   that selected individuals gets to comment on
@@ -47,14 +47,41 @@
   link the backend to atlas,  
   invite dillon, keith, nessa, amit
   
-### 2145 ' wings just scored , need to set up this strapi
+  ### 2145 ' wings just scored , need to set up this strapi
 
   could run the mongo on my own server  
   need to look into express
   
-  
-  
+  larkin scored
 
+  logging this schema is needed,  
+  if anything thats what i need to do
+  
+  setting up the blog is important too
+  
+  it could go either way, mongo or gSheets
+  
+  i like mongo's defaults, it would be great for a log
+  
+  i dunno why the log, feel fucked either way, might as well have it
+  
+  ### 2240 ' dooped around the house , watchin the preds
+
+  thought id set up this stratlas
+  
+  ### 2251 ' setting up the stratlas
+
+  i could point this at the linode EZPZ  
+  thats a good feel, thanks keith
+  
+  new repo, stratlas
+
+  ### 150 ' set up stratlas with .env , took fucking forever
+
+  wrapping up
+  
+  i need to resend out invites
+  
 ---
 # ---  
 ---
