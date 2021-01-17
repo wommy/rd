@@ -1,6 +1,72 @@
+# 01-16 | frontroom fr4nk3n
+### rambles , 2026
+
+  how we do
+
+  im watching the wings, they just scored,  
+  im trying to get megan to help me model
+  
+  i just looked up some mongo bs  
+  i know theyre lik ethe new rising company, but  
+  i dont understand the void they fill,  
+  i know that MySQL databases are a little too anal,  
+  but i also know that most nosql databases resolve to sql
+  
+  
+  im just curious about the arrangement,  
+  i know postgres, PG is its own thing too,  
+  
+  i hate keiths tryton,  
+  i need to be able to script everything,  
+  
+  speaking of, i have some written notes, pseudocode,  
+  that i need to digitize, from memory:  
+  
+  - create database ,, username | jegan
+  - create table ,, log
+  - log 
+    
+  this is super weird because ive never done this before ' 2045
+  
+  what do i need to do,
+  create a schema
+  
+  new schema
+  add _id,
+  ^= super schema
+  super schema :: _id, createdAt
+  
+### 2123 ' watchin wings , wrote another dillion email
+  
+  these dillon emails need to be turned into blogposts  
+  that selected individuals gets to comment on
+
+  so whats the move
+  
+  set up a strapi,  
+  link the backend to atlas,  
+  invite dillon, keith, nessa, amit
+  
+### 2145 ' wings just scored , need to set up this strapi
+
+  could run the mongo on my own server  
+  need to look into express
+  
+  
+  
+
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+
 # 01-13 | frontroom fr4nk3n
-### rambles 
-#### 1550 ' from Moleskin
+### ramble , 1550 , from Moleskin
 
 	whats the workflow i need
 
@@ -8,8 +74,7 @@
 	- [ ] button triggers get()
 	- [ ] get() returns promise of re-render
 
-### how is this actually working
-#### 1556
+### how is this actually working , 1556
 
 	11ty the build script
 
@@ -18,7 +83,7 @@
 
 		? ask keith
 	
-### never ask keith, 1648
+### never ask keith , 1648
 
 	so i create the schema,
 
@@ -26,22 +91,10 @@
 
 		? tuskey
 
-### wrote dillon email ' 2015
+### wrote dillon email , 2015
 
 	gonna eat, doubt ill be back
 
-
-
-
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
 
 # 01-08
 
