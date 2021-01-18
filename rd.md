@@ -1,3 +1,28 @@
+# 01-17 | frontroom fr4nk3n
+  ### keith sql, 1729
+  
+  wassup ladies n germs
+  
+  so ive been working with keith for a couple hours now,  
+  im been working on my sql schema and data shape and all that
+  
+  i thought i should start writing here because  
+  this might be better than that log
+
+  ### 1900 ' quit restart , working with keith
+  
+  
+
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+
 # 01-16 | frontroom fr4nk3n
   ### rambles , 2026
 
@@ -82,16 +107,6 @@
   
   i need to resend out invites
   
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
-
 # 01-13 | frontroom fr4nk3n
 ### ramble , 1550 , from Moleskin
 
