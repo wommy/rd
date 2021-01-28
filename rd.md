@@ -11,7 +11,7 @@
 
   ### 1900 ' quit restart , working with keith
   
-  
+  ### 1944 ' creating jegan-stock-log 
 
 ---
 # ---  
