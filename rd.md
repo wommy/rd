@@ -1,3 +1,114 @@
+# 02-07 | frontroom fr4nk3n
+
+ ## learning react , 2013
+
+  i need to start blogging again,  
+ 	aka i probably need to focus on publishing these
+
+ 	 	how to publish these
+	
+  ### todo , publish blog
+  ### todo , learn fauna
+
+## 2016 , building technomadmedia in react
+
+interesting, should i publish the blog to fauna,  
+i do want markdown but this might be a nice intermediary step,  
+probably not the more i think about it
+
+the blog shall be next
+
+  ### todo , jegan react component
+  ### todo , annabrabant.com
+
+gotta type dunno about what
+
+## TECHNOMADMEDIA IN REACT , 2035 
+
+publish the old blog,  
+i gotta dig it out the fucking graveyard  
+thats later, first is just 
+
+setting up a basic blog layout
+
+its almost like i have a guide somewhere on how to do these things 
+
+## 2110 ?	writing clients( anna, seamus, megan ).email
+## 2134 ! completed anna , ? jegan next
+## 2135 ? email jegan 
+
+
+	
+
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+
+# 02-01 | frontroom fr4nk3n
+ ### cacao tree mongo , 1357
+ 
+ protein
+  protein fuel
+    blueberry, banana, almond mylk, almond butter, cinnamon, hemp protein, spirulina, date, maca, omega blend, kale
+    10.50    
+  post-workout protein
+    banana, coconut mylk, ginger, tumeric, date, hemp protein, omega blend, cashew butter
+    10.50
+  high vibe
+    banana, almond mylk, date, raw tahini, omega blend, spirulina, maca, romaine
+    9.49
+  breakfast blend
+    banana, almond mylk, almond butter, cacao powder, omega blend, maca, romaine
+    9.49
+  spice of life
+    banana, almond mylk, cacao power, cayenne, cinnamon, maca, date, omega blend, romaine
+    10.50
+  cold brew
+    cold brew coffee, almond mylk, banana, cacao powder, cashew butter, date, omega blend
+    10.50
+  mango muscle
+    mango, banana, almond mylk, tahini, cinnamon, maca, omega blend, brown rice protein, date
+    10.50
+ superfruit
+  sunshine
+  inner warmth
+  ambrosia
+  orange creamsicle
+ green
+  bee green
+  on a beach n hawaii
+  chia green
+ elixirs
+  root power
+  refresh
+  exhale
+  i-thrive
+  daily tonic
+  
+  ### 1527 ' megan stock
+  
+  ### 1546 ' netlify serverless
+
+# 01-26 | frontroom fr4nk3n
+## todo , 2041 , dillon site, blog conversations, dillion brooks
+	### rambles , 2039
+
+	it feels like forever since i typed in this,  
+
+	i need to , added todo
+
+	but i also need to get this serverless set up
+
+	gotta set the axios up with 11ty,  
+	thatll return me a data object,  
+	write the list
+
 # 01-17 | frontroom fr4nk3n
   ### keith sql, 1729
   
@@ -12,16 +123,6 @@
   ### 1900 ' quit restart , working with keith
   
   ### 1944 ' creating jegan-stock-log 
-
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
 
 # 01-16 | frontroom fr4nk3n
   ### rambles , 2026
@@ -122,6 +223,53 @@
 
 	when data runs, i want it to save the data to a file >> SEEDS  
 	does that mean i want to seed? is seeding a step?
+
+		? ask keith
+	
+### never ask keith , 1648
+
+	so i create the schema,
+
+	i just need to think functionally
+
+		? tuskey
+
+### wrote dillon email , 2015
+
+	gonna eat, doubt ill be back
+
+
+# 01-08
+
+### frontroom fr4nk3n
+
+	##### 1252
+
+	so what am i doing
+
+	#### sql serverless
+
+	##### 1523
+
+## set up bash alias mpv into dotfiles
+
+	was trying to loop final frontier XD
+
+# 01-04 - 
+
+### frontroom fr4nk3n
+
+  ##### 1457
+
+  working on knex, sqlite3 junk
+
+  i should just do the pg tutorial shit
+
+  ##### 1933
+
+  watching some trumpy news
+
+  did the knex, got maria set up  
 
 		? ask keith
 	
@@ -500,53 +648,6 @@
 
   ### 2253 ' sometimes im a g
 
-  whats my plan here
-
-  ### 2301 ' reformated a smidge, gonna pushit
-
-  ### 2303 ' i came in here to ?
-
-## create a basic theme
-
-  ####  whats my reference?
-
-  ### jekyll's default, minima  
-  
-  hopefully gonna improve it a bit,
-
-  ###### ? string it out over a few posts
-
-  ##### 2308 ' am i going crazy with the formatting?
-
-# 12-04 | merge repo into another keeping history
-
-## workin @ ky's
-
-  ### 1807 ' workin @ky's
-
-  diggin this new workflow
-
-    ? todo = what
-  
-  - [ ] publish to netlify
-  - [ ] create /rd
-
-  ^ working on this
-
-  ### 1817 ' first snag
-
-  so im trying to set up this blog  
-  ive already been tinkering with the whole setup  
-  i believe that my previous snags with both _blog and -blog had to do with the correct nesting? subdirs, submodules?
-
-  i think the solution i came up had to do with req'ing in rd instead of a sep /content
-
-    lets try to set that up
-  
-  ### 1823 ' ? overwrite _blog or -blogs?
-
-  so my THREE current repos are:
-  - https://github.com/wommy/technomad-blog
   - https://github.com/wommy/technomad_blog/tree/feature/building_blogposts_with_11ty
   - https://github.com/wommy/technomad_blogposts
 
