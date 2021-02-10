@@ -13,38 +13,53 @@ heres an example from your etsy:
 	
 ![nested list component](./imgs/gimp3-component-cropped.png)
 
-``` html
-<!-- above component -->
-
-<header>Featured items<header>
-<List forEach=Featured[2] />
-	<List_Item />
-		<img =/path/to/image.png>
-		<header =title>
-		<price =price*discount>
-		<shipping =true>
-	</>
-</>
-
-```
-
 ``` js
-featured: [{
-	image: './lighter-pair.png',
-	title: '2 Pack Art Lighters (choose your design...',
-	price: 18,
-	discount: .1,
-	shipping: true,
-},{
-	image: './lighter-mushroom.png',
-	title: 'Mushroom Lighter',
-	price: 10,
-	discount: .1,
-	shipping: true,
-}]
+// featured list with two objects
+const featured = [
+	{
+		image: './lighter-pair.png',
+		title: '2 Pack Art Lighters (choose your design...',
+		price: 18,
+		discount: .1,
+		shipping: true,
+	}, {
+		image: './lighter-mushroom.png',
+		title: 'Mushroom Lighter',
+		price: 10,
+		discount: .1,
+		shipping: true,
+	}
+]
+
+// give the List_Item a shape
+const List_Item = ({ image, title, price, discount, shipping }) => `
+	<List_Item>
+		<img src=${image}/>
+		<heading>${title}</heading>
+		<div>${price*discount}</div>
+		<div>${shipping}</div>
+	</>
+`
+
+// iterates over List, applies shape to each data object
+const List = data => List_Item(data) 
+
+// outputs the above
+export default = `<>
+	<header>Featured items<header>
+	${ List( featured ) }
+</>`
 ```
 
-so what i want to do is 
+i want to create two components: `List` and `List_Item`
 
-create you two components: a List and a List_Item
+what i need from you: 
 
+- [ ] ListItem shape for example: ` List_Item: [ image, title, price ] `
+- [ ] values for each of those properties
+
+
+
+so what i need:
+
+item schema:
