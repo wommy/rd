@@ -1,5 +1,117 @@
 # 02-07 | frontroom fr4nk3n
 
+## updating technomad.media
+
+[its been a long time, i shouldnt have left you](https://www.youtube.com/watch?v=B8KNOTZRN4Q)
+
+but srsly, lets [jack](https://www.youtube.com/watch?v=m0EiujcV3Tg)
+
+so i know its been a long time,  
+i guess i tried to make a post in sept, and in dec
+
+##### im not trying to be a music blog, or am i?
+
+## todo - dig up those posts 
+
+### whats the actual move , 1620
+
+so im glad i have all this context, i just need to make it somehow
+
+i guess im going to use 11ty, i did just install it globally,  
+which is a big honor, so thank you zach
+
+the technomad-stack, or TMS is usually my spring point
+
+##### [heres a banger from last night](https://www.youtube.com/watch?v=eL9_QYxvI5k)
+
+i heard about this new internet protocol called gemini, i heard its like gopher
+## todo - blog about setting it up
+
+ok back to it, 
+
+so im using a global install of //11ty.dev
+
+so how do i want to export it?  
+im thinking of making a public folder, that 11ty exports to  
+visavis old apache
+
+i just realized the other day that 11ty has a preconfigured server
+theres so much server stuff that, once configured, would work
+## todo , blog , 11ty mail server and serverless
+
+### 11ty , 1637
+
+whats 11ty's default template again?  
+the generic theme
+
+### found it //github.com/11ty/eleventy-base-blog , 1640
+
+i think im just gonna use it
+
+### its so hard to detail all the steps i just did , 1652
+
+i cloned the site, with the //cli.github.com
+
+and then pushed it to netlify with the //cli.netlify.com
+
+now its live at //www-technomad-media-blog.netlify.app
+
+## todo , DNS stuff for technomad.media
+
+### so its up and live , 1655
+
+### from thought about to published in < 20 mins
+
+### put your own content on it , 1657
+
+im so glad im typing this right now,  
+because it gives me something to upload 
+
+### symlink this folder to the blog somehow , 1659
+
+so right not these two files are in two separate places,  
+and thats actually a great thing
+
+one of the mistakes of computing is putting things together
+
+personally have had this happen to me
+
+we gonna fix this with git submodules  
+and i know thats a scary sentence, but trust me
+
+### git submodules , 1703
+
+- https://git-scm.com/book/en/v2/Git-Tools-Submodules
+- https://www.atlassian.com/git/tutorials/git-submodule
+- https://github.blog/2016-02-01-working-with-submodules/
+- https://careerkarma.com/blog/git-submodules/
+
+git submodules is the same as a sym link
+
+i have a dotfile repo that i learned symlinking for  
+https:/github.com/wommy/dotfiles#symbolic-links  
+which in turn links to  
+https://linuxize.com/post/how-to-create-symbolic-links-in-linux-using-the-ln-command/#creating-symlinks-to-a-directory  
+which details pointing to a directory, which is what we want for the blog too
+
+### let get this working local , 1724 , taking a runto break 
+
+
+
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+
+# 02-07 | frontroom fr4nk3n
+
  ## learning react , 2013
 
   i need to start blogging again,  
@@ -36,19 +148,6 @@ its almost like i have a guide somewhere on how to do these things
 ## 2110 ?	writing clients( anna, seamus, megan ).email
 ## 2134 ! completed anna , ? jegan next
 ## 2135 ? email jegan 
-
-
-	
-
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
 
 # 02-01 | frontroom fr4nk3n
  ### cacao tree mongo , 1357
