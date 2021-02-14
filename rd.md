@@ -1,3 +1,33 @@
+# 02-13 | frontroom fr4nk3n
+## misc tasks, just opening this , 1810
+
+set up the linode again
+## todo , SSH scripts , scripts
+
+i think im gonna fuck with this knexjs package,  
+i do need to get jegan some shape, i could just slam thru all her objects  
+strapi is just a react admin over knex and bookshelf,  
+maybe poke at bookshelf for a few mins 
+
+## todo , encrypted partition
+## todo , nextcloud
+
+so i think i need to go the sql route with keith,  
+although i think the mongoose route offers some compromises
+
+
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+
 # 02-07 | frontroom fr4nk3n
 
 ## updating technomad.media
@@ -95,20 +125,6 @@ https://linuxize.com/post/how-to-create-symbolic-links-in-linux-using-the-ln-com
 which details pointing to a directory, which is what we want for the blog too
 
 ### let get this working local , 1724 , taking a runto break 
-
-
-
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
 
 # 02-07 | frontroom fr4nk3n
 
