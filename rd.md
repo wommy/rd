@@ -1,3 +1,37 @@
+# 02-17 | frontroom fr4nk3n
+
+## continuing the technomad blog , 1517
+
+i believe i last left off with the symlinking of the blog
+
+separating the content and the build tool is important,  
+it allows me to update the build tool separate from any site it powers  
+also allowing me to create middleware per site basis,  
+
+i just need to push some bullshit into the 11ty for rn,  
+i can separate that shit out later
+
+### taking longer than i thought , 1543
+
+walking thru the 11ty starter, slapping em all in an 11ty/  
+`mv $VAR /11ty`
+
+### that took alot longer than i thought  , 1631
+
+![its-working](https://i.giphy.com/media/BoBOKNtlR8rTi/giphy.webp)
+
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+
 # 02-13 | frontroom fr4nk3n
 ## misc tasks, just opening this , 1810
 
@@ -14,19 +48,6 @@ maybe poke at bookshelf for a few mins
 
 so i think i need to go the sql route with keith,  
 although i think the mongoose route offers some compromises
-
-
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
 
 # 02-07 | frontroom fr4nk3n
 
