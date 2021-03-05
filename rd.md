@@ -1,3 +1,133 @@
+# 03-04 | kycp fr4nk3n
+
+### rambles , 1136
+
+just starting up, tryna nCMS
+
+### cleaning up some youtube , 1308
+
+### 1440 , having trouble focusing
+
+should i set up a headless wordpress?
+
+### 1503 , comments
+
+should i use netlifyCMS?
+
+maybe fauna?
+
+new table from posts?
+
+## wommy.io , 1615
+
+guess im gonna bust into this
+
+#### 1622
+
+so do i want to import the technomad-stack?  
+nah, make a new branch first
+
+i dont think i want to do the submodule just yet,  
+i think i need to do the symlink first
+
+i also want to start from scratch,  
+this is so hard
+
+so i want to use tms
+
+### 1702 , tms version push
+
+## 1811 , blogpost , oneflow
+
+i have these oneflow tweaks i need to document
+
+### 2022 , finished tms 3.0.1 , starting wommy.io
+
+### 2137 , got the submodule working, working on olde wommy.io content meow
+
+
+
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+
+# 02-27 | kycp fr4nk3n
+
+## technomad-netlifyCMS , 1202
+
+Q.Q , a bunch of shit got deleted, ive been working for hours 
+
+ok soooooo
+
+technomad-netlifyCMS needs to be a submodule  
+this is going to be a pain to configure but its needed
+
+think im going to start with jegan, because thats what im most familiar with
+
+### 1530 , i3 alacritty
+
+### 1602 , tmux sessions
+
+so im writing this readme?
+
+so i have to build two things at once,  
+building 1 thing is hard enough 
+
+gonna rip 
+
+i think its actually 3
+
+# 02-26 | kycp fr4nk3n
+
+## 1118 , rambles, cleanup, organization
+
+## 1233 , finished up some jegan, hour of work
+
+## 1930 , kys , back from juju/dillon , gonna hit some jegan? netlifyCMS
+
+## 2010
+
+so whats the problemo
+
+i need to spin up a netlifyCMS  
+but everything relies on it
+
+i kinda want to start with anna  
+? is that weird?  
+thats going to bring in a whole bunch of new problems with components and cloudinary
+
+maybe i should just work on another branch of jegan's etsy
+
+just how i spin up a new TMS, i want to spin a technomad-netlifyCMS from a template repo  
+i want to then submodule in the TMS so i can keep components
+
+so whats the workflow,
+
+repo from template , tm-nCMS  
+? guess i should make that
+
+## making technomad-netlifyCMS , 2024
+
+turns out i already made that 10 days ago
+
+maybe i need to pen and paper for a second
+
+## back from mlskn , 2046
+
+i think i need to write a how to pull in the submodule
+
+## HOWTO submodule , 2047
+
+submodule sucks, its always such a bitch to setup
+
 # 02-17 | frontroom fr4nk3n
 
 ## continuing the technomad blog , 1517
@@ -19,18 +149,6 @@ walking thru the 11ty starter, slapping em all in an 11ty/
 ### that took alot longer than i thought  , 1631
 
 ![its-working](https://i.giphy.com/media/BoBOKNtlR8rTi/giphy.webp)
-
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
 
 # 02-13 | frontroom fr4nk3n
 ## misc tasks, just opening this , 1810
