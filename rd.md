@@ -1,3 +1,141 @@
+# 03-16 | frontroom fr4nk3n
+
+### 1400 ,
+
+just off the phone with kyle  
+talked with brenda  
+talking with keith  
+about to hop back into kyle project
+
+### 1616 , did so much
+
+working on kyles
+
+so whats the move
+
+require in tms
+
+### 1653 ,
+
+need to put something up in the kyle repo
+
+### 1753 ,
+
+lots of incremental, still need to do alot more
+
+- [ ] TMS , upgrade tailwind
+- [ ] products ~> brands
+- [ ] 
+
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+
+# 03-15 | frontroom fr4nk3n
+
+### 1241 , rambles, cont css
+
+### 1311 , DONE , scss ~> css
+
+## TODO , redo css
+
+things i notice right away
+
+1. -screen
+2. .min
+3. .v#
+
+the easiest is the version
+
+- moved the scss to style
+- noticed screen2 is a feature
+- noticed im only using mins
+
+i need to get rid of the versions
+
+### 1417 , actually got rid of min w pretter,
+
+### unify the css
+
+thats such a ridiculous statement
+
+they look like three separate files, but its just one
+
+need to git merge them together
+
+### 1509 , DONE , feat/merge-style
+
+more things i did wrong
+
+- [ ] mobile first
+- [ ] two headers
+
+### 1609 , theres so much wrong
+
+i dunno even where to start
+
+i gotta get this shit out a pug  
+even tho pug is alot closer to react
+
+### 1621 , mobile first
+
+i should move these  
+some to data, some to their own page
+
+### 1810 , kyle-chicagoRoots
+
+this is so crazy
+
+### 1831 , making technomad stack template
+
+---
+
+# 03-13 | frontroom fr4nk3n
+
+### 1136 , starting up , gonna swing vanrych somewhere
+
+### 1436 , back, tryna code before runty appt
+
+### 1441 , wommy.io ? css ? header
+
+it seems like theres alot i need todo
+
+## todo , header component
+
+## todo , css consolidation
+
+### css , 1452
+
+- app.scss ~> app.css  
+
+  units? 1 rem and 1.5 and .75?
+
+# 03-11 | frontroom fr4nk3n
+
+### rambles , tough start, hungover from brenda date , ~1200
+
+### 1715 , tryna kill all these backed up yts
+
+://youtu.be/watch?v=T5zJ8Q4R8tI
+nb , hexdsl
+
+between this and the bookmarker, buku
+
+### 1927 , did a whole bunch
+
+gotta replace smerge with gitqlient  
+gotta figure out the icon sizing issue
+
+half did polybar
+
 # 03-04 | kycp fr4nk3n
 
 ### rambles , 1136
@@ -44,20 +182,6 @@ i have these oneflow tweaks i need to document
 ### 2022 , finished tms 3.0.1 , starting wommy.io
 
 ### 2137 , got the submodule working, working on olde wommy.io content meow
-
-
-
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
 
 # 02-27 | kycp fr4nk3n
 
