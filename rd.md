@@ -1,3 +1,51 @@
+# 03-18 | frontroom fr4nk3n
+
+### 1850 , tabs cleanup
+
+- [ ] keepassxc
+- [ ] netlify-todo
+- [x] buku
+- [ ] nb
+- [ ] rofi
+- [ ] polybar
+
+### 2053 , i do need some todo
+
+i need something to look back on
+
+### 2147 , tnMBlog
+
+i should be able to submodule the content  
+it should be in the jekyll build
+
+the stuff i did in chicago in december, technomad-blog &_blog, its real good  
+what i planned on doing with 11ty starter was jekyll
+
+### 2212 , 
+
+- [x] first post ~> published false
+- [x] published on netlify
+
+### 2310 , on a roll
+
+### 2331 , kyle hit me up with the csv
+
+### keith , 2351 , py-pandas
+
+- ``
+
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+
 # 03-16 | frontroom fr4nk3n
 
 ### 1400 ,
@@ -26,18 +74,6 @@ lots of incremental, still need to do alot more
 - [ ] TMS , upgrade tailwind
 - [ ] products ~> brands
 - [ ] 
-
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
 
 # 03-15 | frontroom fr4nk3n
 
