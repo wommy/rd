@@ -1,3 +1,220 @@
+# 03-26 | frontroom fr4nk3n
+
+### rambles , 1038
+
+so what am i getting into rn?  
+i would like to put some wommy stuff up,  
+perhaps blog, todo, or even goals
+
+or maybe some kyle stuff now that he hit me up
+
+### kyChi clean data , 1110
+
+so right now the data is split between  
+kyle chicagoroots and keith py-pandas
+
+## TODO , 1112
+
+- [ ] unify kyChi and pyPanda
+
+do you know what i really need to do,  
+list my repos
+
+## TODO , 1115
+
+- [ ] repos
+
+### , 1152
+
+these dependabot alerts are actually fucking me  
+need to find a fix for these
+
+- [x] made rd-todo
+
+this is interesting because it isnt bound by time
+
+so whats does repos need?
+
+first of all, there are two repos,
+
+how to combine two repos?
+
+### , 1346 , xp5
+
+- [x] configure wifi
+- [x] dock to top
+- [x] keyboard, esc and caps, l ctrl and l alt
+- [x] sleep settings
+- [x] refresh mirrorlist
+- [x] sudo pacman -Syu
+
+### 1510 , ?Q?
+
+- ? [ ] ? is tms a global, a cli?
+
+### 1515 ,
+
+- [ ] write recipe for new boy spin-up  
+  ? [ ] alias
+  - [x] tmst
+    - [ ] new branch
+
+### 1525 , tms , versioning , oneflow
+
+master is dev  
+release is master  
+hotfix on master
+
+i need to juggle multiple releases
+
+### 1553 , 
+
+i thought i always got oneflow,  
+the shared naming convention, master, messed me up  
+
+i think i learned this before, yet unlearned it
+
+### smerge TMS , 1622
+
+i think i just need to talk this thru
+
+- [ ] , ? , .gitignore , tailwind output
+
+#### 2.0
+- [x] readme
+- [x] .11ty.js
+  - [x] .njk~>.html: 
+    - [x] header, index, base
+
+#### 2.1
+- [ ] tailwind , bump up folder
+  - [ ] package.json
+    - [ ] yarn.lock
+
+#### 2.1.1
+- [ ] .11ty/: rm .njk
+- [ ] rm yarn.lock
+- [ ] pkg.json/scripts
+
+- [ ] _inc ~> _compo
+- [ ] _static
+- [ ] 
+
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+# ---  
+---
+
+# 03-24 | frontroom fr4nk3n
+
+### DONE , 1201
+- [x] [wommy-rewrite](github.com/wommy/wommy-rewrite)
+
+### DONE , 1434
+- [x] [index.html ~> index.md](github.com/wommy/wommy-rewrite)
+- [x] [header tweaks](github.com/wommy/wommy-rewrite)
+
+whats next
+
+## TODO , 1443 
+- [ ] make analysis of wommy
+
+### DONE , 1523 
+- [x] [todo page](github.com/wommy-www/dev-11ty/todo.md)
+
+## IDEA symlink , 1541 
+
+i need to symLink content somehow
+
+so what i was thinking, is i could either  
+symlink the 11ty folder up to content, or  
+move it up as part of the init, and then symlink it back down
+
+one of these has to work
+
+### DONE , 1600
+- [x] create a new folder  
+```
+mkdir tms-symlink_test; cd tms-symlink_test;
+git init;
+```
+- [x] redo above as `tms/dev/feat/`
+- [x] [index.md](https://github.com/wommy/technomad-stack/commit/4ac247d0a8dda7fe46faafe148a5fe5f8b981b35)
+- [x] [_Base.html](https://github.com/wommy/technomad-stack/commit/701136897502b40541b45096b46566483a782d11)
+- [x] [Header.html](https://github.com/wommy/technomad-stack/commit/9e20bdbfe6c4be423c7e2542feba829955192382)
+- [x] [cleaned up loop in header](https://github.com/wommy/technomad-stack/commit/5b498d61ec37238b8f903ccf8ef4e8d6574af15e)
+
+## TODO , 1641
+
+- [ ] wommy-rewrite
+
+originally was a TMST, dont think thats gonna work  
+think i need to write submodule instruction
+
+- [ ] TMST dev
+- [ ] push tms/dev to master
+
+how do i do this again? [oneflow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow)  
+so i have a dev branch, with it i need to create a release  
+releases have tags
+
+### rambles , 1731
+
+so i think the key to maintaining TMS lies in the branches
+
+the default branch needs to be dev  
+master just holds the releases  
+
+so i create a repo, and its dev, i make 1, 2, 3, 4, 5 commits  
+i think i want to create a merge commit into master 
+
+i guess i need to cleanup my branching
+
+## TODO , 1742
+- [ ] cleanup branches
+
+is the naming important?
+
+## TODO , 1824
+- [ ] wommy/goals  
+      daily / weekly
+- [ ] wommy/todo  
+      byProj
+- [ ] wommy/blog
+
+what do i want to write about?
+
+### 1902 ,
+this fucked me up last time, its why i abandoned, was it tmst?
+
+### DONE , 2326 
+- [ ] installed manjaro on 1m4c
+
+# 03-22 | frontroom fr4nk3n
+
+### 1839 , some details about the last few days
+
+so kyle hit me up about this chicago roots website  
+it was super fun to mash that data, i might hit that again a lil bit
+
+so ive been thinking of trying react on some simple SPAs,  
+and i think i have a few repos that fit the bill  
+the first of which is my repos repo
+
+## 1905 , TODO , repos needs to be a page on wommy
+
+### 1906 , wommy nav needs a redo hard
+
+i think i did super well with yung seamus, in the commit area  
+that means i can do it well
+
 # 03-18 | frontroom fr4nk3n
 
 ### 1850 , tabs cleanup
@@ -31,20 +248,6 @@ what i planned on doing with 11ty starter was jekyll
 ### 2331 , kyle hit me up with the csv
 
 ### keith , 2351 , py-pandas
-
-- ``
-
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
 
 # 03-16 | frontroom fr4nk3n
 
