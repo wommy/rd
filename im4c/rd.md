@@ -32,6 +32,10 @@ trying to update tms, did a whole lot upstairs
 - [x] export EDITOR=nvim
 	- [x] git add .; git commit; init ${this.computerName};
 	- [x] git push; `github.com/wommy/rd`
+- [x] paru --botomup mpv youtube-dl signal-desktop
+
+
+
 
 
 
