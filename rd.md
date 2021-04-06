@@ -1,3 +1,271 @@
+# 04-06 | frontroom fr4nk3n
+
+### rambles , 1253
+
+so keith asked me to spin up a quick page for that automotive  
+which got me working on TMS
+
+i think i know what i need to do, it all has to do with versioning,  
+i think i want to rebase from root  
+which is the scariest sentence, lowkey
+
+if i did that how would i do it?
+
+### rebase --root , 1255
+
+fork , total commits: 45
+
+01 - git init  
+  readme  
+  yarn add 11ty,  
+    package.json  
+    yarn.lock  
+    gitignore  
+  index  
+
+02 - html ~> pug  
+  index .html ~>  
+    _blank  
+    _template  
+    index.pug  
+
+03 - ver bump, -D ~> -S
+
+04 - 0.0.1  
+  package.json
+
+05 -  
+  readme  
+  package.json
+
+06 -  
+  .eleventy.js  
+  _includes/  
+    _blank  
+    _template  
+  index  
+  init.sh  
+  package.json  
+  views/  
+    _includes/  
+      _critical.css
+
+07 - 0.0.2  
+  package.json
+
+08 - technomad-cms
+
+09 - 0.1.0  
+  package.json  
+    yarn.lock  
+  views/_inc/_template  
+
+10 - netlifycms core  
+  gitignore  
+  admin/  
+    config.yml  
+    index.html  
+  package.json  
+    yarn.lock  
+
+11 - basic 11ty  
+  eleventy.js  
+    .gitignore  
+    package.json  
+      yarn.lock
+  admin/  
+    config.yml
+    index  
+  views/  
+    index
+
+12 -  
+  eleventy.js  
+  admin/  
+    config.yml  
+  views/  
+    index.md  
+    _inc/  
+      _template
+
+13 - 
+  .eleventy.js  
+    package.json  
+      yarn.lock
+  views/  
+    _includes/  
+      _template  
+      post  
+    index  
+    tm_blogposts/
+
+14 - 0.2.0
+  package.json  
+  views/  
+    _includes/  
+      __critical.css  
+      _header.liquid  
+      _template.liquid  
+    index.md
+
+15 - 
+  11ty.js  
+  init.sh  
+  package.json  
+    yarn.lock  
+  postcss.config.js
+  src/
+    11ty/  
+      _includes/  
+        _base.njk
+        header.njk
+      css/tailwind.css
+      index.njk  
+    tailwind.css  
+
+16 - 0.3.1  
+  package.json  
+    yarn.lock
+    
+17 - 0.3.2
+  src/11ty/_includes/_base.njk
+
+18 - 1.0.0
+  11ty.js  
+  README  
+  package.json  
+    yarn.lock  
+  postcss.config.js  
+  src/  
+    _includes/_base.njk  
+    style.css
+
+19 - 1.0.1
+  src/11ty/css
+
+20 - 1.1.0
+  11ty.js  
+  package.json  
+  src/11ty/ ~> 11ty/
+
+21 - 1.1.1
+  11ty/_includes/  
+    _base.njk  
+    header.njk
+
+22 - 2.0.0
+  .11ty.js  
+  11ty/  
+    _includes/  
+      _base .njk ~> .html  
+    css/ style.css  
+  README  
+  package.json  
+    yarn.lock
+
+23 - 2.0.1
+  .11ty.js
+  .gitignore
+  package.json
+  11ty/css/style.css
+
+24 - 
+  .11ty.js  
+  package.json  
+  11ty/
+    _includes ~> _components
+
+25 - tms-index
+
+26 - tailwindcss/jit  
+  postcss.config.js
+  package.json  
+    yarn.lock
+  11ty/static/css/style.css
+
+27 - 11ty/_components/_base
+  
+28 - 11ty/index.md
+
+29 - 11ty/_components/_base ~> _Base
+  index.md
+    
+30 - 11ty/_components/header ~> Header
+  _Base
+
+31 - 11ty/_components/Header
+
+32 - tailwind ~> post.css
+
+33 - init 2.1
+
+34 - 11ty njk ~> html
+
+35 - rm njk
+
+36 - package.json / scripts
+
+37 - rm yarn.lock
+
+38 - _base/header.njk~>.html
+
+39 - static passthru
+
+40 - tailwind jit
+
+41 - _inc ~> _components
+
+42 - content
+
+43 - 36
+
+44 - 37
+
+45 - 38
+
+### recap , 1411
+
+ok so,
+
+first of all, theres alot of hidden branches  
+way too much to tackle now
+
+it seems like if i follow the SEMVER correctly, there wont be much rework  
+i do need to redo v0 and v1, let alone v2,  
+but it seems like most of my majors can be minors; and my minors, patches  
+which is super good news
+
+i think imma just do a weird fork branch to get keith up
+
+
+
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
 # 03-26 | frontroom fr4nk3n
 
 ### rambles , 1038
@@ -99,18 +367,6 @@ i think i just need to talk this thru
 - [ ] _inc ~> _compo
 - [ ] _static
 - [ ] 
-
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
-# ---  
----
 
 # 03-24 | frontroom fr4nk3n
 
