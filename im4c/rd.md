@@ -1,3 +1,62 @@
+# 04-05 | im4c basement
+
+- [x] paru alacritty
+
+- `mpv $LINK --no-video` [link](://reddit.com/r/linux/comments/35botl/tip_use_mpv_youtubedl_as_streaming_audio_player/)
+
+- [x] [alacritty as konsole](https://www.addictivetips.com/ubuntu-linux-tips/set-program-defaults-in-kde-plasma-5/)
+
+## this is packing 
+
+![](https://media2.giphy.com/media/3owzWgnMr5vS37fBsc/giphy.gif?cid=ecf05e4796ihfu89qkq70rbxhv2wx2vcu5dw8grbzd92awh2&rid=giphy.gif)
+
+? what 2 pack tom 
+
+- [ ] clothes
+- [ ] heater
+- [ ] dvi cable
+
+
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+
 # 0326 | im4c basement | 
 
 ### 2021 , rambles
