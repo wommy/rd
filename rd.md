@@ -1,3 +1,29 @@
+
+  
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
 # 04-06 | frontroom fr4nk3n
 
 ### rambles , 1253
@@ -237,32 +263,36 @@ which is super good news
 
 i think imma just do a weird fork branch to get keith up
 
+### TMST_update , 1420
 
+- [x] mkdir
+- [x] git init
+- [x] gh repo create
+- [x] echo '# tmst update | 04-06' > README.md
+- [x] yarn init
+  - [x] echo 'node_modules' >> .gitignore
+  - [x] echo 'yarn.lock' >> .gitignore
+- [x] yarn add -D postcss postcss-cli postcss-import autoprefixer santize.css tailwindcss
+  - [x] postcss.config.js, post.css
+  - [x] echo 'static/style.css' >> .gitignore
+- [x] yarn add -D @11ty/eleventy
+  - [x] .eleventy.js
+    - [x] passthruCopy
+    - [x] input
+    - [x] includes
+    - [x] htmlTemplateEngine
+  - [x] mkdir -p 11ty/_components static
+  - [x] vim 11ty/_components/_html5.html
+    - [x] !, meta:vp, meta:compat, link:style, njk
+  - [x] vim 11ty/index.html
+    - [x] layout, title, h1=title
+  - [x] echo '_site' >> .gitignore
+- [x] package.json
+  - [x] scripts: clean, css, build, dev
 
+## TODO , 1625 , release commit
 
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
+### keith tmst up , 1811
 
 ---
 
