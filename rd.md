@@ -1,6 +1,137 @@
+# 04-28 | fr4nk3n kycp topstairs
 
+### rambles, starting , 1200
+
+ok so i kinda wanna start with resume,  
+i need to start working on wommy
+
+gonna try to cleanup some taskwarrior shit first
+
+### finished the tomas babej video , 1334
+
+gonna try to hit the wommy resume rn
+
+## wommy/resume 
+
+first i need to open it up
+
+### update , 1431
+
+stuffs going well,  
+i pushed old changes,  
+updated tms,  
+
+working on finalizing template changes
+
+### finished template , 1508
+
+what TODO now
+
+### what TODO , 1704
+
+just derped for like an hour
+
+### some notes on resume , 1705
+
+so i replaces the old nav with the resume-nav  
+still need to style it correctly
+
+i need to replace it section by section
+
+  contact
+  education
+  experience
+    design
+    development
+    deployment
+    other
+  hobbies
   
----
+it seems like i just need to start from scratch  
+Q_Q
+
+like how i did with WestMenu
+
+  contact
+    portfolio
+    email
+    4yrGoal
+  
+  edu
+    depaul
+    columbia
+  
+  exp
+    solution people
+    branding
+    clients
+      ? github/repos
+  
+  skills
+    design
+      figma
+    development
+      frontend
+        html
+        css
+        js
+      backend
+        node
+          tms
+            11ty
+            tailwind
+          lesser:
+            webpack
+        lesser:
+          ruby
+          php
+          python
+    database
+      json, yaml
+        mongo
+      lesser:
+        sql: mysql, pg
+    deployment
+      netlify + github
+    other
+      linux, unix
+        vim
+      psych
+  
+  hobbies
+    cycling
+    martial arts
+    techno
+  
+  --- redo
+  
+  about <~ contact
+    portfolio:
+      wommy.io
+      technomad.media
+    email:
+      tom@technomad.media
+    education:
+      depaul, columbia
+    hobbies
+    goal: ?
+
+  experience
+    freelance full-time since 2013
+      github/repos
+  
+  skills
+    frontend
+      ui/ux
+    backend
+    db
+    build/deploy
+    computing
+    psych
+  
+  
+    
+  
 
 ---
 
@@ -22,6 +153,47 @@
 
 ---
 
+# 04-26 | fr4nk3n kycp topstairs
+
+### rambles, cleaning up tabs , 1812
+
+got back from the doctor, got antibiotics  
+not feeling so hot
+
+i have so many things to do, per usual
+
+just watching youtube vids because its low brain power
+
+i want to improve the west menu,  
+i do think i need to create a paired shortcode
+
+## DONE , 1900
+- [x] west-menu TODO s ~> issues
+
+### TODO , 1908
+- [ ] west-menu
+
+### stuck in WestMenu, changing gears , 2032
+
+dunno really what to do
+
+---
+
+# 04-21 | fr4nk3n kycp topstairs
+
+### WoN menu rambles , 1605
+
+yup so im just jotting some notes about the won menu
+
+- [x] fix header , ? west image
+- [x] icons for maps , phone
+- [x] 2 cols for menu
+- [x] menu section, top section for food notes
+- [x] addons
+- [x] west friends
+- [x] specials
+- [x] flex layout for menuItem , $ , price
+  
 ---
 
 # 04-06 | frontroom fr4nk3n
