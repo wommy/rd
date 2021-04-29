@@ -113,21 +113,21 @@ like how i did with WestMenu
       tom@technomad.media
     education:
       depaul, columbia
+        psych, interactive media
     hobbies
     goal: ?
 
   experience
     freelance full-time since 2013
-      github/repos
+    github/repos
   
   skills
     frontend
-      ui/ux
+      design, ui/ux
     backend
-    db
-    build/deploy
+      db
+      build/deploy
     computing
-    psych
   
   
     
