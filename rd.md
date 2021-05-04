@@ -1,3 +1,184 @@
+# 5-4 | fr4nk3n kycp topOstairs
+
+
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+# 5-3 | fr4nk3n kycp topOstairs
+
+### rambles , 1256
+just starting up, i think im gonna do some wommy
+
+### pomodoro , 1321
+finished putting up the repo, tryna install tms now
+
+### pomodoro , 1351
+setting up _Pages.json
+
+### pomodoro , 1416
+
+- got _data/nav to work with _com/Header.html
+- added _Pages/ [ resume, repos, blog ]
+
+gonna dart on break
+
+### pomodoro , 1456
+making blog dir structure
+
+### pomodoro , 1523
+creating article border, focus state
+
+### got `:target` to work, 1541
+
+### think i got tailwind.config working , 1603
+### jk, long break , 1621
+
+### still cant get it, 1702
+
+### fixed it, 11ty delay, tailwind after 11ty in script , 1807
+
+### back from kungfu , 2055
+
+11ty plugin navigation
+
+### moving dirs , 2120
+
+### at a fork , 2153
+
+so i can either do 11ty plugin nav or pagination
+
+### chose plugin nav , 2205
+
+### stuck on ? calling it , 2231
+
+### took it slow, got something working , 2257
+
+### working on styling the nav , 2323
+
+### finished nav as much as i want , 2343
+
+### pagination , 025
+
+### blog.11ty.js , 055
+
+this sucks,  
+but im growing and learning
+
+### getting blog.11ty.js permalink , 121
+
+### stuck on this fuckin js , 146
+
+### got it , 213
+
+---
+
+# 4-30 | fr4nk3n kycp topOstairs
+
+### rambles , 2105
+
+starting a pomodoro  
+gotta start using this more,  
+the other day when i got lost in the json, that was not fun
+
+using this first one to figure out what im gonna do,  
+need to finish some tabs, its like half organized
+
+found my two work panes
+
+### checking in , 2129
+
+so im working on some panes, watching videos
+
+checking out some 11ty junk
+
+gonna keep rollin
+
+#### 11ty --incremental build, 2145
+
+trying it meow
+
+#### break , 2200
+
+think i ran yarn run build from the parent, and fucked my work  
+Q_Q
+
+#### gonna try to fix it , 2205
+
+#### never pushed new tomate , 2215
+
+maybe pivot a second and do some project dependencies
+
+#### break , 2235
+
+emailing luke
+
+#### texting keith, 2255
+
+#### looking over 11ty docs , 2222
+
+#### still going , 2231
+
+#### break , 2357
+
+#### what2do in next tomate , 005
+
+#### reading davidkpianos state machine medium posts , 041
+
+#### im so tired , 115
+
+tasks ~> task
+
+---
+
+# 04-29 | fr4nk3n kycp topOstairs
+
+### rambles , 1335
+
+didnt really get much done yesterday,  
+well i did but it was mostly configs or something  
+got tms set up on wommy/resume  
+still would like to split that out
+
+maybe i should do that now
+
+## split out wommy/resume
+
+### , 1659
+
+dicked around trying to get tasks out of phone  
+fuck regex  
+fuck their export
+
+whats next
+
+i was cleaning tabs
+
+---
+
 # 04-28 | fr4nk3n kycp topstairs
 
 ### rambles, starting , 1200
@@ -128,31 +309,11 @@ like how i did with WestMenu
       db
       build/deploy
     computing
-  
-  
+
+### pushd popd , 2118
+
+---
     
-  
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
 # 04-26 | fr4nk3n kycp topstairs
 
 ### rambles, cleaning up tabs , 1812
