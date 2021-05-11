@@ -1,30 +1,157 @@
+# 5-11 | fr4nk3n kycp topOstairs
+
+### 1138 , rambles
+
+first tomate, just watching some yt
+
+### 1204 , gonna quick restart
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+# 5-7 | fr4nk3n kycp topOstairs
+
+### 1940 , rambles
+
+have no clue what i ended up doing ln
+
+gotta dig that up
+
+### 2126 , mobile sucks
+
+### 2152 , im so spent
+
+---
+
+# 5-6 | fr4nk3n kycp topOstairs
+
+### rambles , 1202
+
+getting started,
+
+gonna do todolist?  
+would like to do taskwarrior, .tasks
+
+### 1226 , trying to push some tms commits
+
+some comments:  
+
+  .11ty.js
+  
+  11ty/
+    _Header
+    _Page
+    index
+  
+  package.json
+    yarn.lock
+    tailwind.config.js
+
+### 1252 , still trying these commits
+
+### 1316 , mostly done
+
+### 1341 , finished tms update, including fixups
+
+### 1432 , tryna figure out what to do next
+
+kinda wanna cleanup repos,  
+might work on todos concurrently
+
+### 1502 , 
+
+repos-tms was already in repos, so i deleted it
+
+updating repos,  
+  TMS, standardizing content 4 TMS
+  
+### 1533 , almost got repos ported to TMS
+
+### 1615 , repos ~> tms DONE
+
+### 1647 , got a mobile v started, whats next?
+
+### 1714 , got repos to deploy on netlify
+
+### 1725 , gotta figure out what todo next
+
+### 1749 , still have no clue what im doing, n2 brainstorm
+
+### 1816 , updating repos/_data
+
+### 1842 , ^ DONE, trying github api
+
+### 1855 , gh_gql-repos.js
+
+### 2042 , gql repos into tags
+
+this is totally a new project huh
+
+### 2201 , found ky battery
+
+### 2206 , annabrab redo
+
+### 2238 , on the about/form
+
+### 2303 , cv
+
+### 2329 , formatting cv
+
+### 2340 , finished ish CV
+
+### 014 , tidying CV
+
+### 033 , gotta stop CV
+
+### 041 , work!
+
+### 058 , work?
+
+### 224 , uploaded current work
+
+### 150 , almost got art up sans images
+
+### 200 , got up _data/art
+
+gotta build the component now
+
+### 225 , think component almost done, finishing touches
+
+### 300 , fuxn around w nav styles
+
+### 345 , working on artwork 
+
+### 436 , breaking for the night, pushing
+
+---
+
 # 5-4 | fr4nk3n kycp topOstairs
 
+### 1519 , rambles, just starting
 
+got the blog up yesterday,  
+still need to netlify it
 
----
+#### 1530 , moved blog .js ~> .html
 
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
+having problems with prose and li styles?
 
 ---
 
