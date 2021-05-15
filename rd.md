@@ -1,3 +1,78 @@
+# 5-14 | kycp fr4nk3n topOstairs
+
+### rambles , 1754
+
+gonna slot netlifyCMS into TMS?
+
+### 1851 , anna cv ~> about
+
+### 1916 , anna cv
+
+### 1925 , gonna squish into redo
+
+### 1951 , grabbin darts
+
+### 2017 , gonna push tms update
+
+### 2042 , netlifyCMS/admin isnt so smooth
+
+### 2132 , got it, working on cv formatting
+
+### 2204 , finished anna enough, gonna push and pivot to jegan
+
+### 2229 , almost done pushing
+
+### 2258 , done pushing
+
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+# 5-12 | fr4nk3n kycp topOstairs
+
+## FOOD BLOG
+
+keep track of good recipes ive done
+
+- [ ] stroganoff shells
+- [ ] swedish meatballs
+- [ ] corned beef and cabbage
+- [ ] hummingbird loaves
+- [ ] sheppards pie
+- [ ] hamburger hash
+- [ ] 
+
+---
+
 # 5-11 | fr4nk3n kycp topOstairs
 
 ### 1138 , rambles
@@ -6,23 +81,46 @@ first tomate, just watching some yt
 
 ### 1204 , gonna quick restart
 
----
+i think i wanna netlifyCMS?
 
----
+### 1255 , this is hard
 
----
+i need something, dunno what
 
----
+so what does anna need?
 
----
+  port to tms
+  forestry ~> netlifyCMS
 
----
+### 1321 , booted up technomad_netlifyCMS
 
----
+### 1347 , i think i got all her art up, checking
 
----
+### 1442 , think its up now, tweaking
 
----
+### 1522 , starting on archive
+
+### 1550 , talked to brooks
+
+### 1714 , working on archives
+
+### 1739 , smushed archives into art w/ tags
+
+### 1832 , need to figure out what to do
+
+### 1858 , still, working on slimmin netlifyCMS
+
+### 1925 , meta?
+
+### 1950 , still meta
+
+### 2015 , cv
+
+### 2106 , trying npm
+
+### 2152 , still npm
+
+### 110 , learned alot
 
 ---
 
