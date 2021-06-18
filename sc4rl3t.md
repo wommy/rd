@@ -28,5 +28,3 @@ after i plugged in the backup a different grub came up,
 i swapped the manjaro and it took.
 
 now im upgrading the new computer
-
-
