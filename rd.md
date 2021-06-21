@@ -1,3 +1,390 @@
+# 06/20 | fr4nk3n jujuroom
+
+## rambles , 2011
+
+### to work on
+
+- [ ] west menu
+- [ ] jegan mongoose
+  - [ ] express
+
+
+
+
+
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+# 05-26 | fr4nk3n kycp topOstairs
+
+### 1131 , rambles
+
+so what am i working on today  
+gonna peep the old tabs
+
+so i think i want to try to set up wommy/blog
+
+### 1146 , first idea
+
+so the first thing i think i need is some kind of inbox
+
+i think i would like some type of push to json,  
+maybe a form input,
+
+for that i think im gonna need the server  
+ssh into the linode!
+
+## in linode
+
+so whats the first thing i need todo
+
+do i want to run my own mongo instance on linode?  
+cant be that hard ,  famous last words
+
+- [ ] 
+
+### 1208 , notes
+
+serverless might be the next step  
+maybe just do deno right now,  
+maybe even adjust that to koa,  
+i got deno working, kinda sorta, but it was messy  
+maybe i should focus on cleaning that up
+
+## clean up deno
+
+### watching mongodb university 001 , 1216
+
+still trying this vim `:set so=30` centering thing
+
+### 1258 , update
+
+think i gotta convert deno's PG to mongo
+
+thats alot
+
+### 1322 , update
+
+i forgot what i was doing,
+
+## wommy/blog
+
+inbox
+
+do i set up syncthing on linode?
+
+### 1451 , DONE , linode syncthing
+
+### ky laundry & back 1447
+
+## 1554 , DONE
+
+wow i did so much
+
+- [x] set up aliash
+- [x] set up termux ssh task
+
+i dont remember what i was working on
+
+### 1601 , porting some TODOs
+
+### 1758 , back from getting video, going to kungfu
+
+---
+
+# 5-20 | fr4nk3n kycp topOstairs
+
+### 1219, rambles
+
+waking up, watching some traversy media tuts, koa, deno
+
+### 1307 , tm deno api
+
+### 1420 , finished it
+
+having problems with thunderclient?
+
+moving onto pg integration
+
+### 1527 , didnt init PG
+
+### 1651 , so many problems
+
+hopefully its postman
+
+### 1934 , found it, an await
+
+gonna PR the repo
+
+### 2017 , submitted a pr
+
+FEELSGOODMAN.gif
+
+### 2124 , update
+
+found some articles to clean it up
+
+will do next
+
+---
+# 5-19 | fr4nk3n kycp topOstairs
+
+### 1628 , rambles
+
+so many parts of my life need an update
+
+this, RD, needs some help,  
+i think rn its displaying some vimwiki case?  
+thats on my vimrc tho right?
+all my vim plugins are messed, esp youcompleteme
+
+wommy is messed
+
+blog is messed
+
+i did get that mongoose tutorial working with express
+
+maybe i should set up my own todolist
+
+### 1651 , update
+
+found a technomad - todo  
+//github.com/wommy/technomad-todo/tree/olde
+
+i was using strapi?
+
+pushed commits; made a new orphan branch dev
+
+about to install new tms
+
+## TODO , make TMST a branch?  
+could be nice for github templating  
+nice install script et all
+
+### 1658 , what would TMST_install.md look like
+
+so im building the new todos and im walking thru my build  
+might as well write it down
+
+## TMST?
+
+1. `echo '# REPO_NAME' >> README.md; git add .; git commit -m 'docs: git init';`
+2. `git submodule add git@github.com:wommy/technomad-stack.git tms; git commit -m 'chore: added tms'`
+3. 
+
+### 1800 , kungfu, some last notes
+
+so i got some ideas
+
+- [ ] ? branch for TMST
+- [ ] i need to set up like an express server 
+
+so i need like a headless express just to processes my node requests
+
+i dont think i need mongoose, i think i can supplant with just the mongo driver
+
+- [ ] fixup: mongo driver app.listen
+
+### 1816 , mongoose folder project heirarchy
+
+app.js
+  external
+    req: express
+    req: mongoose
+  internal
+    req: routes/blog
+        req: express
+        req: controller/blog
+            req: model/blog
+
+some notes:
+
+### 1918 , did alot of tune up
+        
+
+
+## flashback to seamus payment form
+
+---
+
+# 05-18 | fr4nk3n kycp topOstairs
+
+### 1004 , rambles
+
+### 1016 , runnning a node tutorial
+
+### 1028 , quokka
+
+### 1053 , pushing to an array
+
+### 1122 , node
+
+### 1148 , w3schools
+
+### 1156 , netNinja tuts
+
+### 1229 , still
+
+### 1254 , req, res
+
+### 1322 , express
+
+### 1615 , back from ju's
+
+### 1640 , get and post in mongoose
+
+### 1705 , almost wrapping up
+
+### 1730 , still, about to date
+
+### 2126 , finished, watching other videos
+
+### 2229 , messin with mongoose
+
+### 2354 , p tired, thinking of wrapping
+
+---
+
+# 05-17 | fr4nk3n kycp topOstairs
+
+### 1412 , vimtutor follow along with luke
+
+### 1415 , costco reciept
+
+split with JU
+-  6 onion
+-  9 agave
+-  8 lemons
+- 
+- 20 steak
+- - - - - - -
+- 32
+
+split with KY
+- 20 steak
+- 14 pork chops
+- 12 salad
+- 11 falafel
+- 13 pasta salad
+-  7 bagels
+-  8 kraut
+- 13 feta
+-  9 oat
+-  6 tomato
+- 10 berry
+-  7 olives
+- 17 coconutwater
+- 12 paleo
+- 10 aussie
+-  4 rolls
+- 14 sauvblanc
+-  5 greens
+- 15 evoo
+-  6 brussels
+- 227 /2 113.5
+KY
+- 10 dogbag
+
+### 1452 , vim stuffs
+
+### 1537 , finished luke vimtutor
+
+### 1545 , jegan-redo
+
+### 1716 , watching netlifyCMS @jamstackCONF
+
+### 1741 , working on redo, watching LWJ-netlifyCMS
+
+### 1829 , jegan stock knex
+
+### 1838 , knex
+
+so as im playing with netlifyCMS, im having so many ideas
+
+i rewatched a knex tutorial
+
+im going to need to build the database with code,
+
+i would prefer to use JSON > SQL
+
+that way i could store the data in 11ty
+
+i need to figure out some functions
+
+so first
+
+i need to create the table, or file.js
+
+then i need to create a schema
+  schema/{ table | singular }
+
+schema/{table}.js
+  title = string
+
+add row
+
+schema/{table.js}
+  title: string
+  quantity: list 
+    default: 0
+  
+{ table }.quantity.append 0
+
+## TODO, create form
+
+### 1848 , going to kungfu
+
+this sounds like NODE 
+
+---
+
+# 05-16 | fr4nk3n kycp topOstairs
+
+xset r rate 300 50
+
+---
+
 # 5-14 | kycp fr4nk3n topOstairs
 
 ### rambles , 1754
@@ -24,36 +411,7 @@ gonna slot netlifyCMS into TMS?
 
 ### 2258 , done pushing
 
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
+### 007 , mkrepo script
 
 ---
 
