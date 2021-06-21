@@ -1,3 +1,61 @@
+# 06/20 | fr4nk3n jujuroom
+
+## rambles , 2011
+
+### to work on
+
+- [ ] west menu
+- [ ] jegan mongoose
+  - [ ] express
+
+
+
+
+
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 # 05-26 | fr4nk3n kycp topOstairs
 
 ### 1131 , rambles
@@ -72,53 +130,6 @@ i dont remember what i was working on
 ### 1601 , porting some TODOs
 
 ### 1758 , back from getting video, going to kungfu
-
-
-
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
 
 ---
 
