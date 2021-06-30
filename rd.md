@@ -1,3 +1,59 @@
+# 06/30 | fr4nk3n jujuroom
+
+## express traversy , 1241
+
+### setting up ts express
+
+git init; echo '# ' >> README.md; git add .; git commit -m 'chore: git init, readme';  
+gh repo create; git push -u origin dev;
+
+yarn init; yarn add express; yarn add -D typescript ts-node nodemon @types/node @types/express;  
+yarn tsc --init --target es6 --module commonjs --allowJs --checkJs --outDir ./dist --rootDir ./src --strict --esModuleInterop --skipLibCheck --forceConsistentCasingInFileNames;
+echo 'node_modules' >> .gitignore; echo 'dist' >> .gitignore;
+git add .; git commit -m 'chore: ts-express'; git push; 
+
+
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
 # 06/20 | fr4nk3n jujuroom
 
 ## rambles , 2011
@@ -8,54 +64,8 @@
 - [ ] jegan mongoose
   - [ ] express
 
-
-
-
-
-
 ---
 
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
 # 05-26 | fr4nk3n kycp topOstairs
 
 ### 1131 , rambles
