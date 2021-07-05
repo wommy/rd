@@ -1,3 +1,33 @@
+
+
+
+
+
+
+
+# 06-25 | great_room
+## 2309 , jegan stock sqlite
+
+ok so keiths a butthole  
+viewing this file sucks too  
+onto it
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
 # 06-18 | jujuroom 
 
 ## resume/FMR , 1647
@@ -19,22 +49,6 @@ or add my experience to resume
 ### 2008 , added resume-md
 
 gonna quick restart
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
 
 ---
 

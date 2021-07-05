@@ -8,6 +8,10 @@
 - [ ] jegan mongoose
   - [ ] express
 
+## 2128 , vscode remote not working
+
+### pulled up west-menu tho
+
 
 
 
