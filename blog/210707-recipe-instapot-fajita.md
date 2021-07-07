@@ -1,6 +1,6 @@
 # INSTAPOT FAJITAS
 
-## recipe list
+## inspiration
 
 - https://amindfullmom.com/instant-pot-steak-fajitas/
 - https://littlesunnykitchen.com/instant-pot-steak-fajitas/#Instant_Pot_Steak_Fajitas1
@@ -13,32 +13,34 @@
 ## ingredients
 
 1. produce
-	- 4 peppers
-	- 2 onions
-	- garlic
-	- lime
-	- avocado
+	- [ ] 4 peppers
+	- [ ] 2 onions
+	- [ ] garlic
+	- [ ] lime
+	- [ ] avocado
 2. meat
-	- 1.33lb sirloin; topRound, flank
+	- [ ] 1.33lb sirloin; topRound, flank
 3. carb
-	- pita
+	- [ ] pita
 4. seasoning
-	- 1/2 cup beef broth
-	- fajita seasoning
+	- [ ] 1/2 cup beef broth
+	- [ ] fajita seasoning
 
-## my recipe
+## instructions
 
-- medium chopped the onions and peppers
-- thin cut the steak
-- smashed a few garlic
-- beef stock
-- half of fajita seasoning packet
-- 5 min pressure-cook
-- squeezed in lime
-- served on pita, topped with avocado
+- [ ] medium chop peppers and onions
+- [ ] thin cut the steak
+- [ ] smash a few garlic
+- [ ] beef stock
+- [ ] half of fajita seasoning packet
+- [ ] 5 min pressure-cook
+- [ ] 10 min low release
+- [ ] squeeze in lime
+- [ ] serve on pita
+- [ ] top with avocado
 
-## needs
+## improvements
 
-- reduce pressure time
+- reduce cook time, pressure / release
 - cut steak thinner
 - double recipe
