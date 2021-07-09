@@ -1,9 +1,40 @@
+# 07/09 | backyard
+
+## rambles , 1920
+
+so here i am in the backyard
+
+what am i doing exactly
+
+i set up nerdtree, thats nice
+
+im going to git mv rename rd's 
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 
 # 06-25 | great_room
 ## 2309 , jegan stock sqlite
