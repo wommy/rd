@@ -10,6 +10,10 @@ i set up nerdtree, thats nice
 
 im going to git mv rename rd's 
 
+### did that, got a lost in loop , 2114
+
+
+
 
 
 
