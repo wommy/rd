@@ -1,3 +1,52 @@
+# 07/13 | dadchair
+
+## 2108 , conceptualizing strapi routes?
+
+so i need to figure out the methods for strapi
+
+so i need to GET / stocks  
+what do i display?  
+is that the dashboard?  
+
+list of all stock
+
+i think im gonna piggie-back some 11ty on this
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 # 07/09 | backyard
 
 ## rambles , 1920
