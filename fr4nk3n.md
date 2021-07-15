@@ -1,3 +1,60 @@
+# 07/15 | jujuroom
+
+## 1601 , jegan store
+
+soooooooooo, whats up
+
+im trying to work on my filter method
+
+i need to create like a little mini nav that changes display state by filtering results
+
+so what do i need
+
+i need to create a project
+
+
+im already thinking of all these events, im glad i spent the time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 # 7/13 | jujuroom
 
 ## misc rambles , 1455
