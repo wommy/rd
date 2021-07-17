@@ -1,3 +1,49 @@
+# 07/17 | marble
+
+## 006
+
+### alpine, jegan
+
+so i need some buttons
+
+init
+	!auth
+		? /login
+			? username && password
+				? auth: true
+			: /register
+		: /dashboard
+			? Stock
+				? /dashboard { stock }
+				: 'please add some items'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 07/13 | highdive
 
 ## rambles about jegan stock POST info , 2359
