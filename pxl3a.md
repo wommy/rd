@@ -14,8 +14,8 @@ init
 			: /register
 		: /dashboard
 			? Stock
-				? /dashboard { stock }
-				: 'please add some items'
+				? 'please add some items'
+				: /dashboard { stock }
 
 
 
