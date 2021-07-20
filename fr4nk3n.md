@@ -1,3 +1,58 @@
+# 07/19 | jujuroom
+
+## rambles, 1318
+
+### combining the todo APIs
+
+so what does i need todo
+
+## 1537 , DONE
+
+- quick strapi todo
+- alpine fetch
+
+### alpine post
+
+## 2030 , did so much
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 # 07/15 | jujuroom
 
 ## 1601 , jegan store
