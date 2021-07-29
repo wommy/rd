@@ -2,7 +2,25 @@
 
 ## 1620 , warming up
 
-### building rd in strapi
+- TODO building rd in strapi
+
+## 1723 , setting up 11ty and nginx
+
+- changed nginx config  
+
+- `/etc/nginx/sites-available/technomad`
+
+- |
+```
+server { 
+-	root	/???
++	root	/srv/technomad
++	location /todo/ {}
+```
+
+- `sudo yarn build --output /srv/technomad/todo`
+
+
 
 
 
