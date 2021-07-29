@@ -1,6 +1,6 @@
 # setting up 11ty and nginx , 1723 , aunt sams
 
-## [x] [changed nginx config](https://nginx.org/en/docs/beginners\_guide.html)
+## [x] [changed nginx config](https://docs.nginx.com/nginx/admin-guide/web-server/serving-static-content/)
 
 - `/etc/nginx/sites-available/technomad`
 
