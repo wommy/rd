@@ -1,3 +1,49 @@
+# 07/29 | aunt sams
+
+## 1620 , warming up
+
+### building rd in strapi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 07/13 | dadchair
 
 ## 2108 , conceptualizing strapi routes?
