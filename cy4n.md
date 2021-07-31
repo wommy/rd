@@ -19,6 +19,7 @@ so strange how a little accomplishment can breathe momentum
 
 ### gonna buy this yubikey , 2304
 
+### fuckin wit redis , 029
 
 
 
