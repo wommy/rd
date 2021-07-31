@@ -1,3 +1,42 @@
+# rd
+
+## 7/30 | dad chair | 2223 | rambles
+
+oh man im having a bunch of weird feels rn
+
+im glad i wrote that blogpost yesterday,  
+going to aunt sams, just the whole thing was great
+
+### fixed a bunch of junk | 2254
+
+i feel alot better
+
+i finally got to a bunch of things ive been putting off forever
+
+so strange how a little accomplishment can breathe momentum
+
+, im gonna smoke
+
+### gonna buy this yubikey , 2304
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
 # 07/29 | aunt sams
 
 ## 1620 , warming up
