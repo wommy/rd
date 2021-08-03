@@ -1,5 +1,60 @@
 # rd
 
+---
+
+## 08/02 | auntSams
+
+### 1736 , rambles
+
+so what am i getting into here 
+
+think im gonna go over the old redis stuff a lil
+
+- [tm redis in node](https://www.youtube.com/watch?v=oaJq1mQ3dFI0)
+- [tm redis](https://www.youtube.com/watch?v=Hbt56gFj998)
+- [redis: ioredis](https://www.youtube.com/watch?v=H6rikGCYPUk)
+- [ben: redis + graphql node](https://www.youtube.com/watch?v=_Zwqn7FV6ms)
+
+this is what i want to work on
+
+### 2045 , finished ben's redis and graphql
+
+took lots of fudging,  
+- removed express
+- swapped ioredis for node-redis
+- probably more
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 7/30 | dad chair | 2223 | rambles
 
 oh man im having a bunch of weird feels rn
