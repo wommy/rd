@@ -1,3 +1,46 @@
+# fr4nk3n
+
+---
+
+## 08/06 | jujuroom 
+
+### all my shit from yesterday got deleted somehow , 1153
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 07/19 | jujuroom
 
 ## rambles, 1318
@@ -40,18 +83,18 @@ so what does i need todo
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ---
+
+
+
+
+
+
+
+
+
+
+
 
 # 07/15 | jujuroom
 
@@ -69,15 +112,6 @@ i need to create a project
 
 
 im already thinking of all these events, im glad i spent the time
-
-
-
-
-
-
-
-
-
 
 
 
