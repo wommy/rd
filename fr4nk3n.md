@@ -2,10 +2,64 @@
 
 ---
 
+## 08/07 | jujuroom
+
+### 1501 , rambles
+
+what to write..
+
+im watching some sanity videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
 ## 08/06 | jujuroom 
 
 ### all my shit from yesterday got deleted somehow , 1153
 
+gonna disable my todo buttons
+
+### 1237 , got that done, gotta merge it now
+
+### 1400 , merged it, dunno what to do now
+
+### 1544 , sanity todo
 
 
 
