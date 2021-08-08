@@ -19,6 +19,32 @@
 # rd
 
 
+=== ## 9/13 | momChairFR , 1843 | PUG
+
+
+isnt this fucking nuts
+
+i never thought i would be doing pug again
+
+thats the gateway to react right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 === ## 9/6 | dadChair , 2023 | yeaaaahh soooooo
 
 ive been working on wommy-www
@@ -26,22 +52,6 @@ ive been working on wommy-www
 i dunno why im not on fr4nk3n
 
 --- 2252 , got a bunch done on fr4nk3n , sooooooooooooooooo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 === ## 8/30 | basementTable , 1957 | yup
