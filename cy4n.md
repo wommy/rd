@@ -28,6 +28,10 @@ i never thought i would be doing pug again
 
 thats the gateway to react right
 
+i honestly cant believe it
+
+do i really do a preprocessing step in pug and then pipe it into njk
+
 
 
 
