@@ -1,3 +1,66 @@
+# fr4nk3n
+
+---
+
+
+## 08/02 | jujuroom
+
+### rambles , 1245
+
+so i think imma start 11ty from scratch 
+
+i need to focus on the possibility of publishing these
+
+### new project
+
+`mkdir $1; cd $1; git init; gh repo create`
+`echo '# $1' >> README.md`
+`git add .; git commit -m 'init: readme'; git push -u origin dev`
+
+### 11ty from scratch , 1305
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 07/19 | jujuroom
 
 ## rambles, 1318
@@ -31,27 +94,27 @@ so what does i need todo
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 07/15 | jujuroom
 
