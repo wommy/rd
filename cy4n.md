@@ -13,15 +13,20 @@ this is gonna be long and detailed
 1. spin up a new sanity
 2. model content <= DOOZY
 
+```js
 {
-type: 'document',
-name: 'art',
-fields: [
-{ type:'string', name:'name' },
-{ type:'image', name:'image' },
-]
+	type: 'document',
+	name: 'art',
+	fields: [
+		{ type:'string', name:'name' },
+		{ type:'image', name:'image' },
+	]
 }
+```
 
+### 1634 , schema round 2
+
+so art has a type of document
 
 	
 
