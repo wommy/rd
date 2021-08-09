@@ -2,6 +2,41 @@
 
 ---
 
+## 08/09 | dadChair
+
+### 1510 , jeganmones sanity v2
+
+soooooooo whats the fix
+
+this is gonna be long and detailed
+
+1. spin up a new sanity
+2. model content <= DOOZY
+
+{
+type: 'document',
+name: 'art',
+fields: [
+{ type:'string', name:'name' },
+{ type:'image', name:'image' },
+]
+}
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+---
+
 ## 08/07 | dadChair
 
 ### 2239 , jeganmones is now on sanity
@@ -88,8 +123,6 @@ Pages
 	cart
 		!cart 
 
-
-					
 	TODO: mobile this ^
 
 
