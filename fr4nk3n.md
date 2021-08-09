@@ -2,6 +2,29 @@
 
 ---
 
+## 08/07 | jujuroom
+
+### 1501 , rambles
+
+what to write..
+
+im watching some sanity videos
+
+---
+
+## 08/06 | jujuroom 
+
+### all my shit from yesterday got deleted somehow , 1153
+
+gonna disable my todo buttons
+
+### 1237 , got that done, gotta merge it now
+
+### 1400 , merged it, dunno what to do now
+
+### 1544 , sanity todo
+
+---
 
 ## 08/02 | jujuroom
 
@@ -19,47 +42,7 @@ i need to focus on the possibility of publishing these
 
 ### 11ty from scratch , 1305
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # 07/19 | jujuroom
 
@@ -78,43 +61,7 @@ so what does i need todo
 
 ## 2030 , did so much
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # 07/15 | jujuroom
 
@@ -132,44 +79,6 @@ i need to create a project
 
 
 im already thinking of all these events, im glad i spent the time
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
@@ -282,44 +191,6 @@ end mike
 
 ## strapi setup , 1704
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 # 7/12 | jujuroom
@@ -362,45 +233,6 @@ i would like to take some time to think outloud about some things
 
 fuggin clipboard isnt working on server Q_Q
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 # 7/7 | jujuroom 
@@ -421,37 +253,6 @@ did dentist form, getting to work
 ## ate, back on mongoose oauth , 1549
 
 ## got dotenv to work after hours , 1744
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

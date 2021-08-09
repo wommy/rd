@@ -1,8 +1,224 @@
+# rd
+
+---
+
+## 08/07 | dadChair
+
+### 2239 , jeganmones is now on sanity
+
+my god this has been a long time in the making
+
+it still needs some work tho
+
+### jeganmones squarespace site layout
+
+/
+	/components
+		header
+			nav
+				Home
+				Shop
+				Collabs
+				Contact
+			h1
+				.siteTitle
+			nav
+				ig
+				cart
+		footer
+			form-newsletter
+			email-me
+			follow-me
+
+Pages
+	index
+		fold-1
+			callToAction
+				.siteTitle
+				.siteSubTitle
+				btn -> /shop
+			img
+		fold-2
+			hero
+		fold-3
+			featured
+		fold-4
+			about
+		fold-5
+			involved
+				blm
+				lgbtq
+				nature
+	merch
+		h3 pageTitle
+		main
+			aside nav filters
+			art-list.3col
+				art-card
+					art.img
+						?> figcaption
+						.hover 
+							transition2 2nd img
+							quick-view
+								dialog / modal
+									next/prev
+					art.title
+					art.price
+			footer
+				CTA show on etsy
+	collabs
+		CTA collab
+		list
+			published work
+			daughters of darkness
+			bratbox
+			sisterepic
+			put art on billboards
+			tripleaaanimals
+			boop my nose
+			tattoos
+	contact
+		fold-1
+			details
+				.title
+				.subtitle
+			img
+		fold-2
+			form
+	cart
+		!cart 
+
+
+					
+	TODO: mobile this ^
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 08/02 | auntSams
+
+### 1736 , rambles
+
+so what am i getting into here 
+
+think im gonna go over the old redis stuff a lil
+
+- [tm redis in node](https://www.youtube.com/watch?v=oaJq1mQ3dFI0)
+- [tm redis](https://www.youtube.com/watch?v=Hbt56gFj998)
+- [redis: ioredis](https://www.youtube.com/watch?v=H6rikGCYPUk)
+- [ben: redis + graphql node](https://www.youtube.com/watch?v=_Zwqn7FV6ms)
+
+this is what i want to work on
+
+### 2045 , finished ben's redis and graphql
+
+took lots of fudging,  
+- removed express
+- swapped ioredis for node-redis
+- probably more
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 7/30 | dad chair | 2223 | rambles
+
+oh man im having a bunch of weird feels rn
+
+im glad i wrote that blogpost yesterday,  
+going to aunt sams, just the whole thing was great
+
+### fixed a bunch of junk | 2254
+
+i feel alot better
+
+i finally got to a bunch of things ive been putting off forever
+
+so strange how a little accomplishment can breathe momentum
+
+, im gonna smoke
+
+### gonna buy this yubikey , 2304
+
+### fuckin wit redis , 029
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
 # 07/29 | aunt sams
 
 ## 1620 , warming up
 
-### building rd in strapi
+- TODO building rd in strapi
+
+## 1723 , setting up 11ty and nginx
+
+- changed nginx config  
+
+- `/etc/nginx/sites-available/technomad`
+
+- |
+```
+server { 
+-	root	/???
++	root	/srv/technomad
++	location /todo/ {}
+```
+
+- `sudo yarn build --output /srv/technomad/todo`
+
+
 
 
 
