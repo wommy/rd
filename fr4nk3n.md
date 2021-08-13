@@ -1,5 +1,649 @@
 # fr4nk3n
 
+
+
+
+
+
+
+
+
+
+
+---
+
+## 08/13 | jujuroom
+
+### 1422 , reference-able rsync
+
+- [Rsync#Full_system_backup](https://wiki.archlinux.org/title/Rsync#Full_system_backup)
+
+ran this,  
+`rsync -aAXHv --exclude={"/dev/*","/proc/*","/sys/*","/tmp/*","/run/*","/mnt/*","/media/*","/lost+found"} / /path/to/backup`
+
+split my backups into...  
+
+- Documents/
+- w0m/ --exclude=Documents
+- / --exclude=home/+list mentioned above
+
+now i need to move those two other files back
+
+rsync'd 20-10-05/w0m with same command
+
+this feels longer than the root / one
+
+i need some sane defaults to exclude stuff like
+
+- node_modules
+- cache
+
+SO MUCH FASTER
+
+`sudo du -sh */`
+
+8.3G vs 4.3G 
+
+`sudo rsync -aAXHv --exclude={"*/node_modules/*","*/.cache/*"} / /path/to/backup`
+
+turns out i excluded node_modules from the 20-12-24 one,  
+im guessing .cache will help going forward,  
+maybe even a `*/cache/*` | `*/Cache/*` | `*/^cache$/*`  
+i should learn regex
+
+`sudo rsync -aAXHv --exclude={"*/node_modules/*","*/.cache/*","/.cache/","*/cache/*","*/Cache/*"} / /path/to/backup`
+
+^ this cut 20G off my home/  
+2/3  
+66%
+
+without that excludes, home is 270% larger,  
+christ
+
+really need to learn regex
+
+---
+
+## 08/12 | jujuroom
+
+### 1457 , i think all of yesterday got derped
+
+this is like the hundredth time
+
+### 1527 , started to open anna/ back up
+
+### 2110 , switched anna to sanity
+
+wtf went on in there @_@ :P
+
+### 2152 , cleaning tabs up
+
+---
+
+## 08/10 | annabrab => sanity
+
+### 1712 , holy shit
+
+so little recap
+
+anna updated her forestry files 9 days ago,  
+and she borked everything
+
+so a little more diggin,
+
+i have that anna-redo that i did right before i got my tooth knocked out
+
+i need to figure out how to get it to work with the submodule,  
+it shouldnt be that hard,  
+just some npm scripts?  
+whats that one that one that i had to learn for the travmed course?
+
+[shelljs](https://github.com/wommy/technomad-express/blob/dev/package.json#L22)
+
+i have some more ideas,  
+
+i thought i set up a client folder for working with tms
+
+```
+client/
+	_data/
+	_components/
+		_html5
+		_page
+		_post
+		header
+	_pages/
+		default/
+			
+```
+
+more on this later
+
+### 1839 , 
+
+i think i need to get that shx working
+
+does there need to be two commands?  
+an import to tms,
+and export from tms
+
+anyway i just need to see how much is working currently
+
+---
+
+## 08/09 | jujuroom
+
+### 0959 , jegan layout
+
+just writing some rambles here
+
+i should reference that blogpost
+
+### 1044 , jegan stuffs
+
+so i need to model the data,  
+i might just do that here
+
+soooo
+
+Art/
+	bondage bear
+	shoe
+		flamers
+		ruffle socks
+		butterfly
+		leg & boot
+	cow
+		regular
+		chocolate
+		strawberry
+		blueberry
+	lava shroom
+	my plants wear leather
+		white
+		with words
+	lust
+	dont be a dick
+	zodiac
+		aries
+		taurus
+		gemini
+		cancer
+		leo
+		virgo
+		libra
+		scorpio
+		sagittarius
+		capricorn
+		aquarius
+		pisces
+	led zeppelin
+		black
+		white
+	rainbow penis
+		white
+		rainbow
+	skull cone
+	horny
+	praise me
+	play with me
+	devil inside
+	vibin
+	crown of death
+	dead inside
+	skull flame
+	cumfort me
+	live delicously
+	lit
+	be nice of leaf
+	spooky smoke
+	flowers grow
+	witchy crystal
+	deadly flutter
+	light me up
+	skull plant
+		black
+		white
+	mushroom
+		booty
+		booty + titty
+		titty
+
+Merch/
+	lighters
+		shoe
+			flamers
+			ruffle socks
+			butterfly
+			leg & boot
+		cow
+			regular
+			chocolate
+			strawberry
+			blueberry
+		lava shroom
+		my plants wear leather
+			white
+			with words
+		lust
+		dont be a dick
+		zodiac
+			aries
+			taurus
+			gemini
+			cancer
+			leo
+			virgo
+			libra
+			scorpio
+			sagittarius
+			capricorn
+			aquarius
+			pisces
+		led zeppelin
+			black
+			white
+		rainbow penis
+			white
+			rainbow
+		skull cone
+		horny
+		praise me
+		play with me
+		devil inside
+		vibin
+		crown of death
+		dead inside
+		skull flame
+		cumfort me
+		live delicously
+		lit
+		be nice of leaf
+		spooky smoke
+		flowers grow
+		witchy crystal
+		deadly flutter
+		light me up
+		skull plant
+			black
+			white
+		mushroom
+			booty
+			booty + titty
+			titty
+	art print
+		size
+			11x17
+			8.5x11
+			4x6
+		1-38 + zodiac
+	custom portrait
+		type
+			pet
+			nude
+			art
+		color
+			black
+			white
+			shapes
+		size
+			11x17
+			8.5x11
+			4x6
+	misc
+		sticker
+			deadly flutter
+			cumfort me
+			my plants wear leather
+			live deliciously
+			play with me
+			skull plant
+		keychain
+			mushroom
+		tattoo
+			bondage bear
+		pin
+			deadly flutter
+		patch
+			deadly flutter
+		candle
+			1-35 + zodiac
+	Rebels
+		tattoo design
+		custom lighter case + matching art lighter
+		lighter case + matching art lighter
+			light me up
+			horny
+			mushroom
+			live deliciously
+			devil inside
+			cumfort me
+			be nice or leaf
+			praise me
+		custom nude lighter
+		3 mushroom lighters + sticker set
+		lighter wrap
+			1-26
+			zodiac
+		mushroom keychain
+		Art Print
+			11x17
+			1-38 + zodiac
+		custom portrait lighter
+		2 pack mystery lighters
+
+### 1154 , breakpoint, some thoughts
+
+so the original idea to move stuff into art was genius,  
+im going to do one more pass to tighten it up, (titanup)
+
+Merch/
+	misc
+		tattoo
+			bondage bear
+		keychain
+			mushroom
+		sticker
+			deadly flutter
+			cumfort me
+			my plants wear leather
+			live deliciously
+			play with me
+			skull plant
+		candle
+			1-35 + zodiac
+		pin
+			deadly flutter
+		patch
+			deadly flutter
+	art print
+		size
+			11x17
+			8.5x11
+			4x6
+		1-38 + zodiac
+	Custom
+		custon art lighter + case
+		custom lighter
+			portrait
+			nude
+			pet
+		tattoo design
+		custom portrait
+			type
+				pet
+				nude
+				art
+			color
+				black
+				white
+				shapes
+			size
+				11x17
+				8.5x11
+				4x6
+	Rebels
+		art lighter + case
+			light me up
+			horny
+			mushroom
+			live deliciously
+			devil inside
+			cumfort me
+			be nice or leaf
+			praise me
+		mushroom set, 3 lighters + sticker
+		lighter wrap
+			1-26 + zodiac
+		2 pack mystery lighters
+	lighters
+		shoe
+			flamers
+			ruffle socks
+			butterfly
+			leg & boot
+		cow
+			regular
+			chocolate
+			strawberry
+			blueberry
+		lava shroom
+		my plants wear leather
+			white
+			with words
+		lust
+		dont be a dick
+		zodiac
+			aries
+			taurus
+			gemini
+			cancer
+			leo
+			virgo
+			libra
+			scorpio
+			sagittarius
+			capricorn
+			aquarius
+			pisces
+		led zeppelin
+			black
+			white
+		rainbow penis
+			white
+			rainbow
+		skull cone
+		horny
+		praise me
+		play with me
+		devil inside
+		vibin
+		crown of death
+		dead inside
+		skull flame
+		cumfort me
+		live delicously
+		lit
+		be nice of leaf
+		spooky smoke
+		flowers grow
+		witchy crystal
+		deadly flutter
+		light me up
+		skull plant
+			black
+			white
+		mushroom
+			booty
+			booty + titty
+			titty
+
+### 1228 ,
+
+ok so now im gonna try to tackle it from the art perspective
+
+Art/
+	bondage bear
+		tattoo
+	shoe
+		flamers
+			lighter
+		ruffle socks
+			lighter
+		butterfly
+			lighter
+		leg & boot
+			lighter
+	cow
+		regular
+			lighter
+		chocolate
+			lighter
+		strawberry
+			lighter
+		blueberry
+			lighter
+	lava shroom
+		lighter
+	light me up
+		art lighter + case
+	horny
+		art lighter + case
+	mushroom
+		booty
+			lighter
+		booty + titty
+			lighter
+		titty
+			art lighter + case
+			lighter
+	live deliciously
+		art lighter + case
+	devil inside
+		art lighter + case
+	cumfort me
+		art lighter + case
+	be nice or leaf
+		art lighter + case
+	praise me
+		art lighter + case
+	mushroom
+		set, 3 lighters + sticker
+		keychain
+	my plants wear leather
+		white
+			lighter
+		with words
+			lighter
+	deadly flutter
+		sticker
+		pin
+		patch
+	cumfort me
+		sticker
+	my plants wear leather
+		sticker
+	live deliciously
+		sticker
+	play with me
+		sticker
+	skull plant
+		sticker
+	lust
+		lighter
+	dont be a dick
+		lighter
+	zodiac
+		aries
+			lighter
+		taurus
+			lighter
+		gemini
+			lighter
+		cancer
+			lighter
+		leo
+			lighter
+		virgo
+			lighter
+		libra
+			lighter
+		scorpio
+			lighter
+		sagittarius
+			lighter
+		capricorn
+			lighter
+		aquarius
+			lighter
+		pisces
+			lighter
+	led zeppelin
+		black
+			lighter
+		white
+			lighter
+	rainbow penis
+		white
+			lighter
+		rainbow
+			lighter
+	skull cone
+		lighter
+	horny
+		lighter
+	praise me
+		lighter
+	play with me
+		lighter
+	devil inside
+		lighter
+	vibin
+		lighter
+	crown of death
+		lighter
+	dead inside
+		lighter
+	skull flame
+		lighter
+	cumfort me
+		lighter
+	live delicously
+		lighter
+	lit
+		lighter
+	be nice of leaf
+		lighter
+	spooky smoke
+		lighter
+	flowers grow
+		lighter
+	witchy crystal
+		lighter
+	deadly flutter
+		lighter
+	light me up
+		lighter
+	skull plant
+		black
+			lighter
+		white
+			lighter
+	
+
+	?
+		lighter wrap
+			1-26 + zodiac
+		art print
+			11x17
+			4x6
+			8.5x11
+		candle
+			1-35 + zodiac
+
+
+	??
+		2 pack mystery lighters
+
+
+	custom
+		lighter & case
+		tattoo
+		nude lighter
+		portrait
+			pet
+			nude
+			art portrait
+
+	misc
+	Custom
+		custom lighter
+			portrait
+			pet
+	Rebels
+	
+### 1316 , ok im going crazy, switching to Moleskin
+
 ---
 
 ## 08/07 | jujuroom
