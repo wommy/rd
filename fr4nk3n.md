@@ -62,6 +62,10 @@ christ
 
 really need to learn regex
 
+other links
+- [https://docs.npmjs.com/cli/v7/commands/npm-cache](https://docs.npmjs.com/cli/v7/commands/npm-cache)
+- [https://superuser.com/questions/171534/list-the-current-folder-folders-sizes-with-the-terminal](https://superuser.com/questions/171534/list-the-current-folder-folders-sizes-with-the-terminal)
+
 ---
 
 ## 08/12 | jujuroom
