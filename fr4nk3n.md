@@ -12,6 +12,61 @@
 
 ---
 
+## 08/17 | jujuroom
+
+### 1858 , misc rambles
+
+so what am i starting on
+
+guess im looking at west-menu
+
+i think im gonna branch it
+
+### 1925 , some remarks on TMS
+
+#### i think i need to write this down
+
+so  
+how does TMS work  
+right now,
+
+i clone over the src from root into the tms/src
+
+i thought TMS's src was 11ty,  
+im afraid to check how old the tms version is
+
+maybe i should charge into that
+
+### 2019 ,
+
+the more i look into it,  
+it seems like alot of kinda fucked
+
+### 2115 ,
+
+all the overhead for TMS is ridiculous
+
+### 2124 , sanity
+
+so im setting up a sanity for it
+
+looks like i need a
+
+```
+meta
+---
+starters
+sandwiches
+salads/wraps
+pizza
+```
+
+### 2337 , finished west menu port to sanity
+
+going to highdive
+
+---
+
 ## 08/13 | jujuroom
 
 ### 1422 , reference-able rsync
