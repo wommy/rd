@@ -1,13 +1,14 @@
 # todo
 
-## DONE
-
-### 0326
-- [x] made rd-todo
-- [x] kill these dependabot repos
-
 ## TODO
 
+	### q2
+- [ ] redo cyan
+	-	yubikey
+- [ ] 
+
+
+	### q1
 - [ ] repos
 	- [ ] combine the repos
 
@@ -18,3 +19,17 @@
 
 - [ ] netlify
 	- [ ] add new repo to existing as page
+
+
+
+
+
+
+
+
+## DONE 21q1
+
+### 3/26
+- [x] made rd-todo
+- [x] kill these dependabot repos
+
