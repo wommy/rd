@@ -1,6 +1,119 @@
 # rd
 
+
+
+
+
+
+
+
+
+
+
+
+
 ---
+
+## 8/20 | backyardTable
+
+### 1938 , west menu design doc
+
+i just like deleted all this work  
+every time  
+i hate this shit  
+thats why i log into the server
+
+ok so what am i doing
+
+- [x] pushing a todo to rd-todo
+
+false  
+- [ ] working on WestMenu
+
+### 2005 , WestMenu
+
+soooooooooooo
+
+i broke the menu into a few items,
+
+1. header font
+	- ?  Script-1
+2. Serif-1
+	- headers
+3. Serif-2
+	- add ons
+4. Sans-Serif
+
+
+	-??--
+- [ ] fonts & sizes
+	- jot em all down
+
+	delineations
+- header
+- menu
+- subtitle
+- addons
+- tagline
+- spHead
+- spBody
+- disclaimer
+
+	-todo--
+- [ ] DESIGN DOC
+		w/ explanations
+	---
+- [ ] blog markdown
+		- [ ] create own 11ty template
+	---
+- [ ] landscape / portrait
+	---
+- [ ] emphasize WESTFRIENDS
+		& specials
+	---
+
+	MENU
+- columns [4]
+	- Starters
+	- Sandwichies
+	- Salad
+	- Pizza
+
+	ADDONS
+- sauces
+- dressings
+- cheese
+- toppings
+- other
+- meat
+
+	-!!--
+		- [ ] BOXES AS HIGHLIGHT / emphasis
+
+
+	SPECIALS
+- happy hour
+- SMTWThFS
+
+	-??-- 
+		- [ ] boxes VS week order
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+===
 
 ## 08/09 | dadChair
 
