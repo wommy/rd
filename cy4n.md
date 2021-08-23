@@ -12,7 +12,7 @@
 
 
 
----
+===
 
 ## 8/20 | backyardTable
 
@@ -97,20 +97,6 @@ i broke the menu into a few items,
 
 	-??-- 
 		- [ ] boxes VS week order
-
-
-
----
-
-
-
-
-
-
-
-
-
-
 
 
 ===
