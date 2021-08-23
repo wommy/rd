@@ -27,11 +27,15 @@
 
 ---
 ## q2
+
+
+### 8/20
 - [ ] redo cyan
 	- [ ] yubikey
 - [ ] make an app that uses this from api
 	- ? would sanity be better for this?
 
+- West Menu @ rd/cy4n
 
 
 ---
