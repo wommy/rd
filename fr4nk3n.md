@@ -10,6 +10,43 @@
 
 
 
+
+
+
+
+
+---
+
+## 08/20 | jujuroom
+
+### 1456 , westmenu
+
+sooooo
+
+im working on the west menu
+
+what are the problems im having
+
+### 1717 , just pushed something
+
+gonna do another pass,  
+taking some notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## 08/17 | jujuroom
