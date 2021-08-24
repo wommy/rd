@@ -1,3 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # fr4nk3n
 
 
@@ -14,8 +35,102 @@
 
 
 
+===
+
+## 8/24 | jujuroom
+
+### 1259 , rambles, startup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+## 8/23 | jujuroom
+
+### 1015 , rambles, bootin up
+
+yupyupyup,
+
+so i already did a bunch of work like tidying up in prep for today
+
+i really need to at least get started on the bookmark thang
+
+### 1040 , got dracula set up on fr4nk3n
+
+anyway
+
 
 ---
+### 1157 , tryna start this bookmarks
+
+so whats the move
+
+https://www.smashingmagazine.com/2019/10/bookmarking-application-faunadb-netlify-11ty/
+
+
+--- technologies
+
+	-	netlify
+		- gonna use this
+	- fauna
+		- gonna port this to sanity
+	- 11ty
+		- gonna use this
+	- ios
+		- gonna try to PWA this
+
+--- first step, fauna with netlifyDev
+
+- [X] create DB_Bookmarks -> Prod
+	- schema
+		- url
+		- pageTitle
+		- description
+		- tags
+- [X] 11ty install 
+- [X] pulling in data & template
+
+--- 
+### 1404
+
+- [ ] netlify functions
+	- [ ] Pass a URL as a query parameter to our function URL.
+	- [ ] load the URL
+		- [ ] scrape: if title OR description
+	- [ ] format
+	- [ ] push to sanity
+	- [ ] rebuild
+
+---
+### 1409 , break
+
+---
+### 1947 , gotta start
+
+ok so whats happening herrr
+
+[link to repo](https://github.com/brob/netlify-fauna-bookmarks/tree/sanity-data)
+
+
+===
 
 ## 08/20 | jujuroom
 
@@ -31,21 +146,6 @@ what are the problems im having
 
 gonna do another pass,  
 taking some notes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
