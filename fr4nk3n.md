@@ -41,9 +41,33 @@
 
 ### 1259 , rambles, startup
 
+yup sooooo
 
+what i dont like about brobmark  
+1. lots of extra code
+2. verbose functions
+3. depreciated libs
+4. functions that do two things, not one well
+5. 
 
+---
+megan
 
+whats her events i have to model 
+
+---
+bookmarks
+
+what do i have to model
+
+first of all i think i can combine them with the todos  
+make this kind of personal GTD site thang
+
+components  
+- form
+- list
+- item
+- 
 
 
 
