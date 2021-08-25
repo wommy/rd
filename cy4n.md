@@ -1,3 +1,20 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # rd
 
 
@@ -10,6 +27,86 @@
 
 
 
+
+
+===
+
+## 8/24 | dadChair , 2035
+
+so whats this type about
+
+i guess its about software development
+
+i should really do some type of blog cycle
+
+i need to even publish it
+
+--- 2055 , i guess thats working
+
+im in the repo,  
+i can replace nCMS with sanity,  
+i might just push to it,  
+honestly i wouldnt hate a git submodule
+
+i like this 1,2,3 workflow tho yo
+
+hot take, nCMS didnt even get off the ground
+
+--- 2112 , pulled in 11tybaseblog remote
+
+i like this merging method,  
+i guess it would go something like
+
+- use template on the repo
+- pull in the updates on master
+- have a dev fork running
+	- rebase on it perhaps
+
+--- 2131 , whats next
+
+so im just gonna use this template  
+and pull my content in from github maybe?
+
+so what did i actually change thats worthwhile?
+
+### looking at the smerge
+
+this doesnt look too hard at all,
+
+my commits are split into two,  
+half are actual content, and  
+thats gonna get swapped in from somewhere else, if anything  
+part of the upgrade will be fetching the github api
+
+--- TODO
+- [ ] fetch github api
+
+--- 2227,
+
+i just found so many sites
+
+i really need to implement something
+
+i need to manage my ToDos and my BookMarks  
+my Posts need to be downriver from that
+
+do i import my actual bookmarks  
+maybe once a week
+
+the problem with that is  
+the average person cannot follow that workflow
+
+using web based services is the only thing thats scalable
+
+thats why you do it
+
+--- 2237 , whats the workflow
+
+`POST` to `/$endpoint`
+
+i need two,
+
+--- 2313 , going to highdive
 
 
 ===
