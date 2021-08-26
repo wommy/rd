@@ -37,6 +37,74 @@
 
 ===
 
+
+## 8/26 | jujuroom , 1344
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
+## 8/25 | jujuroom , 1610
+
+so whats the move here
+
+im trying to update the todo alpine
+
+first i need to netlify it
+
+whats even the netlify workflow, its been so long
+
+
+	--- 1700 , ok so pushed todo-tm
+
+next i need to do this netlify thang
+
+i pulled the repo, updated it, pushed it back
+
+what is the netlify workflow
+
+
+	--- 1837 ,
+
+sooooooooooooo
+
+`ntl init` is the tits
+
+i was just checking out https://bryanlrobinson.com/blog/using-11ty-javascript-data-files-to-mix-markdown-and-cms-content-into-one-collection/
+
+i need to figure out how to link sanity 
+
+i think i need to make a technomad collection
+
+
+	--- 1953 , socionics.fyi
+	
+yup 
+
+what do i do with this
+
+- [X] launch a netlify thang
+- [X] 11ty
+	- [X] waiting on you ibrahim
+
+
+===
+
 ## 8/24 | jujuroom
 
 ### 1259 , rambles, startup
@@ -67,22 +135,6 @@ components
 - form
 - list
 - item
-- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ===
