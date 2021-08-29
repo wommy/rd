@@ -19,6 +19,57 @@
 # rd
 
 
+=== ## 8/28 | backYard-bySteps , 1955 | ??
+
+i kinda got most of yesterday done
+
+### yesterday todo
+
+- DONE
+	- [X] FIXUP: action= /api/todo/
+	- [X] - ? - submit the form thru javascript
+	- [X] RN function > todo
+	- [X] export/import sanityClient
+	- [X] FIXUP: `event.body.split`
+
+- TODO
+	- [ ] ...fields
+	- [ ] - ? - url based routing ? post does this : get does that
+	- [ ] redirect: /api/todo /todo/ 301
+
+### TODO push bookmarks
+
+- [ ] bookmark schema
+- [ ] endpoint
+
+an `endpoint` takes `data`
+
+
+--- wtf am i doing , 2007
+
+i found that bookmarklet today
+
+it sends data to an endpoint
+
+so i need to setup that endpoint 
+
+and setup the schema to accept the data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 === ## 8/26 | dadChair , 2100 | sanity & netlify serverless
 
 ### how i got the POST to work
