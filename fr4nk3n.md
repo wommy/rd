@@ -38,22 +38,79 @@
 ===
 
 
+## 8/28 | jujuroom , 1517 , todo-tm
+
+
+### jot
+
+just watch this [video](https://www.youtube.com/watch?v=diqa3Ma7z-4) on jot
+
+the bookmarklet is genius
+
+so whats my TODOs having to do with the bookmarks
+
+or even the TODOs i guess
+
+
+### from `blogpost/08-26`
+
+- [ ] FIXUP: `action="/api/todo/"`
+- [ ] - ? - submit the form thru javascript
+- [ ] ...fields
+- [ ] RN function > todo
+- [ ] export/import sanityClient
+
+the function should
+
+- [ ] pass the document into the client
+- [ ] check for errors
+- [ ] FIXUP: `event.body.split`
+- [ ] ...schema to Form
+
+- [ ] - ? - url based routing ? post does this : get does that
+- [ ] redirect: /api/todo /todo/ 301
+
+
+### so whats actually worth working on
+
+i think the first thing i want to do is work on [decodeURI](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/decodeURI)
+
+or maybe pulling out the sanityClient
+
+--- 1551
+
+- [X] [esbuild in netlify functions](https://youtu.be/UgqpgQhwCyg?t=1799)
+
+
+gonna slice the sanityClient out
+
+--- DONE  
+- [x] [decodeURIComponent](https://stackoverflow.com/a/64440557/5216425) [2](https://www.w3schools.com/jsref/jsref_decodeuricomponent.asp) 
+- [x] [replace +/' '](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/decodeURIComponent#decoding_query_parameters_from_a_url)
+- [x] .trim
+- [x] split out sanity
+- [x] utils dir
+
+--- 2344 DONE bookmark-rough
+
+
+===
+
+
 ## 8/26 | jujuroom , 1344
 
+so iiiiiii deployed the sanity for TM,
+
+it doesnt look too bad rn
 
 
+	--- 1712 , netlify serverless
 
+so whats the move
 
+	--- 1738 , ntl-cli to the resq again
 
-
-
-
-
-
-
-
-
-
+so 
 
 
 ===
