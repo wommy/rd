@@ -38,6 +38,86 @@
 ===
 
 
+## 8/30 | jujuroom , 917 , cleaning up tabs
+
+
+i think i need to set up a client fetch
+
+if i could trigger a rebuild every 24 hours,  
+i could do a client after that  
+baseline on a certain time
+
+i also need to somehow show the bookmarks
+
+the serverless endpoint is already set up
+
+one of the next harder things is gonna be the category toggles
+
+i also want to combine the sanity fetches  
+or rather split out the exports
+
+i have some basic categories already
+
+how do i add a category tho
+
+inbox, dota, food, music
+
+its gotta be a patch
+
+item.onClick => toggle some form
+
+is that later tho
+
+how do i audit / archive
+
+
+--- 1022
+
+so the categories i have are:  
+inbox, dota, food, music
+
+--- 1122
+
+so what is the play
+
+i want to have a row of buttons,  
+clicking the button changes whats active  
+active && show
+
+so im going to write a filter?
+
+--- 1201
+
+this filter is pissing me off
+
+the default state should be all or inbox
+
+clicking a button should change that 
+
+--- DONE , 1247
+
+- [X] bm-filter-rough
+
+--- whats next?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
 ## 8/28 | jujuroom , 1517 , todo-tm
 
 
