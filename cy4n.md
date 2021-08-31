@@ -19,7 +19,37 @@
 # rd
 
 
+=== # 8/30 | basementTable , 1957 | yup
+
+just bought $INTL
+
+dunno if thats a fuck up
+
+need to research more crypto
+
+i need to count my money and makes some moves into defi
+
+monero and eth im guessing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 === ## 8/28 | backYard-bySteps , 1955 | ??
+
 
 i kinda got most of yesterday done
 
@@ -54,20 +84,6 @@ it sends data to an endpoint
 so i need to setup that endpoint 
 
 and setup the schema to accept the data
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 === ## 8/26 | dadChair , 2100 | sanity & netlify serverless
