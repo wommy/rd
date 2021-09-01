@@ -38,6 +38,243 @@
 ===
 
 
+## 9/1 | jujuroom , 1239 , figuring out what to do
+
+cant believe i did so much cacao yesterday
+
+once again andy bell is a genius,  
+i still feel like i can use tailwind with CUBE
+
+i need to work on my postcss build  
+the css workflow is equally as important as the html
+
+probs gonna need to rebuild the cy4n soon
+
+probs gonna need to refactor the cacao data too,  
+i really understood it when it was 90% done,  
+isnt that usual
+
+im glad i took a crack at figma too,  
+its grid tooling is so leet
+
+maybe do some wommy?  
+whens the last time i worked on wommy, #oof
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
+## 8/31 | jujuroom , 1105 , cleaning up todo/marks
+
+--- 1130 , gonna try to cacao a bit
+
+--- 1239 , sooo i typed up a bunch of cacao
+
+settings:
+  open mon - sat
+	closed sunday
+	royal oak, mi
+	est. 2010
+	cacao tree cafe
+	248.336.9043
+	order online at cacaotreecafe.com
+	please notify our staff of any food allergies or sensitivities
+	be aware that we produce our fiid in a facility that frequently uses tree nuts, coconuts, seeds, and some gluten
+	
+menu:
+  salads:
+	  green thumb $9 $11
+			mixed greens, avocado, chickpeas, carrot, broccoli, cherry tomato, cucumber, choice of dressing
+		foodies favorite $10 $14
+			mixed greens, avocado, carrot, broccoli, chickpea, red cabbage, cucumber, cherry tomato, red onion, walnuts, pumpkin seeds, raisin, sunflower seeds & dressing
+		mexican $10 $14
+			romaine, seasoned nut crumbles (almond, walnut, sunflower), cashew sour cream, pico de gallo, avocado, cherry tomato, cucumber and chipotle vinaigrette or ranch dressing
+		caesar $10 $14
+			romaine tossed in caesar dressing with chickpeas, dehydrated croutons (GF), almond flour "parmesan", red onion and cherry tomato try it as a wrap $11
+		farm hand $10 $14
+			romaine, avocado, chickpeas, carrot, cucumber, cherry tomato, broccoli, red onion, candied or garlic walnuts and choice of dressing
+	power bowls
+	  southwest $14
+	  superfood $14
+	  sesame spinch $12
+	  zoodle pasta $14
+	wraps & sandwiches
+	  wrap options
+		burrito $12
+		rainbow wrap $11
+		general tso lettuce wraps $14
+		quinoa salad wrap $11
+		quesadilla $14
+		chickpea salad sandwich $15
+		chickpea salad wrap $11
+	house soups & salad dressings
+	  daily house made soups $4 $6
+			8oz cup or 12oz bowl
+		soup & salad combo $12
+		  small green thumb salad with choice of dressing and cup of soup
+			upgrade your salad $2
+			upgrade to bowl of soup $2
+	house made sauces &amp; salad dressings
+		$1 2oz $1.5 3oz $4 8oz
+	  tahini (sesame)
+		ginger lime
+		maple balsamic
+		ranch (cashew, almond)
+		caesar (cashew)
+		basil miso (cashew)
+		chipotle vinaigrette
+		general tso sauce
+		avocado sauce
+		garden salsa
+  sides & extras
+		please note we prepare everything free of gluten, dairy/eggs and soy. Our sprouted wheat wrap is teh only item containing gluten.
+		we do not have an oven or stove therefore most items are served chulled ( excludes soups & black beans.) we repare our food fresh daily in small batches.
+		black beans $4 $6
+		cole slaw $3 $5
+		chickpea salad $5 $7
+		quinoa salad $4 $6
+		corn chips $3
+		tumeric chickpeas $1.5
+		croutons $2
+		pico de gallo $1
+		avocado $1
+		chips & dip $6
+			nacho cheese, sour cream, salsa or avocado sauce
+		salad dressings & sauces $1 $1.5 $4
+		sour cream or nacho cheese $1.5 $2 $5
+		seasoned nut crumble $3
+			extra taco meat or sesame meat
+		almond "parmsean" $1.5
+		pickled jalapeno $1
+superfood smoothie & beverage menu
+	green
+		bee green $11
+		on a beach hawaii $10
+		chia green $10
+	superfruit
+		orange creamsicle $9.5
+		sunshine $9.5
+		inner warmth $9.5
+		ambrosia $9.5
+	protein
+		protein fuel $11
+		cold brew $10
+		breakfast blend $10
+		mango muscle $11
+		post workout protein $11
+		high vibe $10
+		cinnamon bun $10
+		spice of life $10
+	build your own organic smoothie $8
+		select 3 fruits, a leafy green & liquid
+		fruits
+		greens
+		liquid
+		superfoods $1
+		superfoods $.75
+	additional beverages
+		drought organic cold pressed juice $8
+		neu kombucha $4
+		reed's ginger brew $2.5
+		spring water $2
+		shots 1oz 2oz
+			wheatgrass shots $4 $7
+				fresh juiced local wheatgrass
+			ginger shots $4 $7
+				fresh juiced ginger and lemon juice with umeric and cayenne garnish
+			brought juice immunity shots $2 $4
+				apple, lemon, ginger, tumeric, cayenne, oil of oregano
+			fire breathing dragon $7
+				a blend of wheatgrass and our ginger shot (double shot only)
+	tonics/elixers
+		daily tonic $12
+		roots power $10
+		exhale $11
+		refresh $10
+		i-thrive $12
+		fresh cut thai coconut water $7 $9
+	kids menu
+		kids smoothies $4 $5
+		nut butter & jelly $6
+		chips & dip $5
+		garden salad $4
+		organic juice $2.5 $3.5
+		house made milkd $2.5 $3.5
+
+--- 1735 , 
+got it mostly done,  
+watching some cube css stuff to finish it up
+
+gonna probably have to fixup my css workflow  
+for the tailwind @apply's
+
+--- 1810 , notes on figma, so
+
+both pages have a margin
+	how big, i dunno
+	
+front
+	header
+		main
+		left / right
+	main [3 cols x 4 rows]
+		1x2 salad
+		1x2 bowl
+		1x3 sandwich
+		2x1 soup / dressings
+		3x1 sides
+	
+back
+	
+
+each of the 3 cols are about 190 wide
+
+--- 1854 , figma measurements
+
+width to height ratio seems to be 1.6
+
+im guessing paper size is ledger / tabloid 11x17
+
+in figma  
+	w is 589
+	h is 970
+	margin about 16px
+
+content area 557 x 940
+	
+so i think i need to 1.5x everything
+
+front 
+
+--- 1937 , figma grid lines, ok so it seems like
+
+24px grid kinda lines up
+
+3 cols 9 rows
+
+--- 2020 , how is andy bell such a genius
+
+
+===
+
+
 ## 8/30 | jujuroom , 917 , cleaning up tabs
 
 
@@ -100,19 +337,11 @@ clicking a button should change that
 
 --- whats next?
 
+--- 1654  
+- [ ] todo REF bookmarks
 
-
-
-
-
-
-
-
-
-
-
-
-
+you could have a todo named monofont  
+and it could reference the tabs for that
 
 
 ===
