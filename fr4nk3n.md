@@ -60,6 +60,28 @@ its grid tooling is so leet
 maybe do some wommy?  
 whens the last time i worked on wommy, #oof
 
+maybe vimwiki would be sick too,  
+im glad i found that its md option is actually the way to go,  
+the last thing i want is to have to manage a new filetype
+
+i shoud try to delete a few more vids from the camera folder
+
+i need to somehow push the strapi todos and marks to sanity  
+im curious if im reaching some type of limit
+
+another reason i was so successful yesterday was because of lunch
+
+--- 1310 , wommy-www
+
+this is so much worse than i thought  
+this is probably why i did so many rebuilds  
+this history is straight up comical
+
+--- 1336 , converting the md to pug was the worst idea, thanks jeff
+
+i see now, i dont think i have the mixture inputs, just the output
+
+---
 
 
 
