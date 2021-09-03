@@ -38,6 +38,29 @@
 ===
 
 
+## 9/2 | jujuroom , 1211 , yup starting the day
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
 ## 9/1 | jujuroom , 1239 , figuring out what to do
 
 cant believe i did so much cacao yesterday
@@ -80,24 +103,6 @@ this history is straight up comical
 --- 1336 , converting the md to pug was the worst idea, thanks jeff
 
 i see now, i dont think i have the mixture inputs, just the output
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ===
