@@ -92,7 +92,35 @@ into what?
 
 --- i think i want to work on the nav
 
+--- DONE nav-social
 
+--- TODO css , #oof , first of all, mobile first
+
+--- TODO this is why i was working on generating the Pages
+
+--- 1723 , working on better mix-11ty , so what am i into
+
+	Staged
+	
+		- .eleventy
+		- _includes
+			- Base
+			- nav
+			- Home
+				- introduction
+				- inspiration
+				- hobbies
+					- biking
+					- kungfu
+					- psych
+			- _branding
+			- _clients
+			- _resume
+			- media
+		- index
+
+	--- push?
+	
 
 
 
