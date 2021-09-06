@@ -38,7 +38,59 @@
 ===
 
 
-## 9/2 | jujuroom , 1211 , yup starting the day
+## 9/6 | jujuroom , 1324 , twas workin on wom
+
+soooooo
+
+because these are a little complex, i feel like i need to split these  
+into what?
+
+--- so what are my current sections
+
+	- _includes
+	- assets
+	- branding
+	- clients
+	- experience
+	- experiments
+	- hobbies
+	- home
+	- inspiration
+	- media
+	- models
+	- resume
+	- .eleventy
+	- index
+	- media
+
+--- these should resolve to
+
+	- _includes
+	- assets -> _static
+	- models -> _data
+	- .eleventy
+
+	- content
+		- branding
+		- clients
+		- hobbies
+		- home
+		- inspiration
+		- media
+		- resume
+
+	- pages
+		- index
+		- experience
+			- branding
+			- clients
+			- resume
+		- experiments
+			- feed
+			- grid
+		- media
+
+--- i think i want to work on the nav
 
 
 
@@ -56,6 +108,11 @@
 
 
 
+
+===
+
+
+## 9/2 | jujuroom , 1211 , jess over
 
 
 ===
