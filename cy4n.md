@@ -19,7 +19,29 @@
 # rd
 
 
-=== # 8/30 | basementTable , 1957 | yup
+=== ## 9/6 | dadChair , 2023 | yeaaaahh soooooo
+
+ive been working on wommy-www
+
+i dunno why im not on fr4nk3n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=== ## 8/30 | basementTable , 1957 | yup
 
 just bought $INTL
 
@@ -32,24 +54,7 @@ i need to count my money and makes some moves into defi
 monero and eth im guessing
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 === ## 8/28 | backYard-bySteps , 1955 | ??
-
 
 i kinda got most of yesterday done
 
