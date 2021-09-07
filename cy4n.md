@@ -25,6 +25,9 @@ ive been working on wommy-www
 
 i dunno why im not on fr4nk3n
 
+--- 2252 , got a bunch done on fr4nk3n , sooooooooooooooooo
+
+
 
 
 
