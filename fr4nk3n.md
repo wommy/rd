@@ -38,6 +38,30 @@
 ===
 
 
+## 9/8 | jujuroom , 1125 , wommy nav source files , yuuuuuup, yeah so
+
+i was working on pulling out the includes,  
+on solidifying the template  
+right now its really messy, i have like 15+ for the proj when i think i had like sub 5
+
+the nav is really fucking me, because a double nesting
+
+think i have to do it the right way out the gate,  
+which isnt the worst  
+but i was tryna do a quick n dirty rn
+
+do i want to pull in 11ty-plugin-nav?  
+from what i remember it did exactly this
+
+--- 1313 , 
+
+got some pushes in,  
+far from as easy as i thought
+
+
+===
+
+
 ## 9/6 | jujuroom , 1324 , twas workin on wom
 
 soooooo
@@ -121,21 +145,6 @@ into what?
 
 	--- push?
 	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ===
 
