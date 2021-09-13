@@ -47,6 +47,26 @@ perhaps the first split would be `WORK` vs `FUN`
 `FUN` would be like `DOTA` And `FOOD`  
 while `WORK` would be like this, and the daily projects
 
+### whats the deal with wommy.io
+
+so i finally rebuilt the [mixture docs](docs-mixture.netlify.app)
+
+i think the problem is two fold,  
+1. a super weird `{{ assets }}` filter
+2. a super weird `{{ navigation }}` component?
+
+i might get to use nav11ty  
+also i think i can just use a absolute path
+
+--- 1402 , i should bust into wommy-www soon
+
+--- 1425 , its started 
+
+im trying to move the files into their original places
+
+--- 1535 , did that, now trying to combine some layouts
+
+
 
 
 
