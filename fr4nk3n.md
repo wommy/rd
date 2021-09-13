@@ -38,6 +38,36 @@
 ===
 
 
+## 9/13 | jujuroom , 1124 , rambles sooooooo
+
+### some notes on bmTM
+
+i would like to do a weekly roundup  
+perhaps the first split would be `WORK` vs `FUN`  
+`FUN` would be like `DOTA` And `FOOD`  
+while `WORK` would be like this, and the daily projects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
 ## 9/8 | jujuroom , 1125 , wommy nav source files , yuuuuuup, yeah so
 
 i was working on pulling out the includes,  
