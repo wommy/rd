@@ -32,21 +32,7 @@ i honestly cant believe it
 
 do i really do a preprocessing step in pug and then pipe it into njk
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+--- 2113 , am i running pug before njk?
 
 
 === ## 9/6 | dadChair , 2023 | yeaaaahh soooooo
