@@ -38,6 +38,44 @@
 ===
 
 
+## 9/16 | jujuroom , 1812
+
+what to write about
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
+## 9/15 | jujuroom , 1317 , 
+
+so what am i working on
+
+i mucked with cacao a little  
+i need to redo the food options  
+the data is messy AF, ditto with the html  
+they are dependant so if i fix one, the other will follow
+
+
+===
+
+
 ## 9/13 | jujuroom , 1124 , rambles sooooooo
 
 ### some notes on bmTM
@@ -66,23 +104,16 @@ im trying to move the files into their original places
 
 --- 1535 , did that, now trying to combine some layouts
 
+--- 1549 , closed that all up and pushed, gonna break
 
+--- 1600 , brainstorm
 
+--- 1701 , some notes
 
+with an absolute path, and a dynamic nav
+functionally, the site is done
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+i need to use _sitemap to generate the nav
 
 
 ===
