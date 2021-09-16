@@ -19,6 +19,28 @@
 # rd
 
 
+=== ## 9/15 | dadChair , 2057 | mike's nursery
+
+
+i need to screen shot some things
+
+[neptune seed bank](//neptuneseedbank.com/)
+
+turn it sideways, scale font to 50/75%
+
+screen shots of index, _product
+
+index njk for ea 
+
+_product pug  
+	turn page into components
+
+figma,  
+	grid
+	card
+	list
+
+
 === ## 9/13 | momChairFR , 1843 | PUG
 
 
