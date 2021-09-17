@@ -38,6 +38,29 @@
 ===
 
 
+## 9/17 | jujuroom , 1414 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
 ## 9/16 | jujuroom , 1812
 
 what to write about
