@@ -135,22 +135,6 @@ realized i wanted to clone a disk,
 [e2image](https://wiki.archlinux.org/title/Disk_cloning#Using_e2image)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ===
 
 
