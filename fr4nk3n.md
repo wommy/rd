@@ -44,6 +44,95 @@ what to write about
 
 what does today hold
 
+--- 1852 , killing tabs
+
+i got the chromebook working ln,  
+i still need to repaste it, gonna repaste ROY too
+
+--- 1940 , chiquitita on loop
+
+i dream of a day of checking in tabs
+
+do you think i could sync tabs with my server?
+
+i gotta clean the server up too
+
+cleanin up cyan was super easy
+
+abba at camp, and yoko
+
+me changing the MARX is gonna be a bish
+
+damn did i just come up with a name
+
+cant forget RIVR 
+
+--- 1949
+
+wommy a teaching site?  
+maybe technomad?
+
+you use the site and it provides documentation 
+how to make MARX
+
+need a user login 
+	ditto with mikes
+
+--- 2057 , wommy.io ideas
+
+do something with media page,  
+---
+more list like launching a modal
+
+maybe use the cover image
+
+card component 
+
+```
+should i use this as stock for the blog,
+should i lead with rd
+```
+
+TODO: add a link for rd
+
+---
+
+home is an about page
+
+branding is junk
+
+clients needs a bunch of work
+
+resume does too
+
+experiments does too
+
+and does media
+
+even the fucking menu needs alot of work
+
+rd should come in from the data directory
+
+```
+how do i hit github's api
+```
+
+--- 2138  
+###how to clone a disk
+
+its not rsync, too many options
+
+- [youtube search]( https://www.youtube.com/results?search_query=rsync+partition )
+- [christitus](https://www.youtube.com/watch?v=OEfboN-Nb2s)
+- [luke](https://www.youtube.com/watch?v=iTnWIKHtOnA)
+- [joe collins](https://www.youtube.com/watch?v=O6TxtWGmDHg)
+
+brought up CloneZilla,  
+realized i wanted to clone a disk,
+
+[aw disk clone](https://wiki.archlinux.org/title/Disk_cloning)
+
+[e2image](https://wiki.archlinux.org/title/Disk_cloning#Using_e2image)
 
 
 
