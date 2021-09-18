@@ -19,6 +19,21 @@
 # rd
 
 
+=== ## 9/17 | vegan nacho cheese
+
+https://www.noracooks.com/easy-vegan-nacho-cheese-sauce/
+
+- 2c cashews
+- 3 tbs lemon juice
+- 3 cups of the water
+- .5c nutritional yeast
+- .5 tsp smoked paprika
+- 1 tsp garlic powder
+- 1 tsp onion powder
+- .5 tsp chili powder
+- 2 tsp salt
+
+
 === ## 9/15 | dadChair , 2057 | mike's nursery
 
 
