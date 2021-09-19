@@ -19,6 +19,19 @@
 # rd
 
 
+=== ## 9/18 | dadChair , 1954 | i know nodejs
+
+
+i guess i do
+
+> holy shnikes
+
+i dont see why writing a file from a fetch is all that crazy
+
+what am i trying to pull? a repo  
+whats its shape?
+
+
 === ## 9/17 | vegan nacho cheese
 
 
