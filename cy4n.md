@@ -19,6 +19,56 @@
 # rd
 
 
+=== ## 9/20 | dadchair , 2159 
+
+
+### corn chowder
+
+- miso
+- mirepoix
+- ginger
+- coconut milk
+
+- potatoes
+- white beans
+- yellow carrot 
+- golden beet
+- corn
+
+- onion
+- yellow pepper
+- yellow peas
+- yellow beans
+
+- spinach
+
+### links  
+- https://search.brave.com/search?q=vege+corn+potato+chowder&source=desktop
+- https://www.veggiessavetheday.com/vegan-potato-corn-chowder/
+- https://minimalistbaker.com/simple-summer-corn-soup/
+- https://www.foodandwine.com/recipes/corn-chowder
+- https://search.brave.com/search?q=miso+paste+chowder&source=desktop
+- https://www.bonappetit.com/recipe/miso-corn-soup
+- https://www.101cookbooks.com/slow-cooker-miso-corn-chowder/
+- https://www.epicurious.com/expert-advice/20-ways-to-use-miso-paste-article
+- https://search.brave.com/search?q=yellow+foods&source=desktop
+- https://www.instructables.com/Yellow-Foods-Colorful-cooking-without-artificial-/
+- https://search.brave.com/search?q=golden+beet+soup&source=desktop
+- https://search.brave.com/search?q=golden+beets+instant+pot&source=web
+- https://www.marthastewart.com/346117/golden-beet-soup
+- https://www.lastingredient.com/golden-beet-soup/
+- https://www.bonappetit.com/recipe/golden-beet-soup
+- https://www.floatingkitchen.net/thai-roasted-carrot-and-beet-soup/
+- https://www.olgasflavorfactory.com/recipes/soups/golden-beet-soup/
+- https://www.crowdedkitchen.com/roasted-beet-soup/
+- https://www.epicurious.com/recipes/food/views/golden-beet-soup-240702
+- https://nurturemygut.com/easy-instant-pot-golden-beets.html/
+- https://search.brave.com/search?q=white+beans&source=web
+- https://cooking.nytimes.com/recipes/1019451-spicy-corn-and-coconut-soup
+- https://ohmyveggies.com/vegan-sweet-corn-chowder-with-coconut-milk/
+- https://www.cookingclassy.com/coconut-chicken-corn-chowder/
+
+
 === ## 9/18 | dadChair , 1954 | i know nodejs
 
 
