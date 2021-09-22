@@ -41,6 +41,7 @@
 - yellow beans
 
 - spinach
+- cauliflower rice
 
 ### links  
 - https://search.brave.com/search?q=vege+corn+potato+chowder&source=desktop
