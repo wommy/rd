@@ -16,10 +16,18 @@
 
 
 
-
-
-
 # fr4nk3n
+
+
+===
+
+
+## 9/21 | jujurpp, . 2236 , blah
+
+so i downloaded obsidian
+
+
+
 
 
 
@@ -38,24 +46,23 @@
 ===
 
 
+## 9/18 | jujuroom , 1626 , blah
+
+--- 1723 , fixup'd rd/Blog a lil bit
+
+--- 1859 ,
+
+if i get this GitHub fetch api working, i can redo repos
+
+
+===
+
+
 ## 9/17 | jujuroom , 1414 
 
+--- 1701 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+--- 1921 derpin
 
 
 ===
