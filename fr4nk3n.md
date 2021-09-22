@@ -22,25 +22,101 @@
 ===
 
 
-## 9/21 | jujurpp, . 2236 , blah
+## 9/22 | jujuroom
+
+### 1337 , yup
+
+workin on wommy nav-2
+
+does not feel good
+need to clean some shit up  
+need to borrow media template instead of home  
+that smerge is gonna be so gross
+
+### 1544 , layouts on wommy, tryna condense
+
+
+Home
+	nay ../
+home
+experience
+Branding
+Clients
+Resume
+Feed
+Grid
+Media
+media
+
+nav-Social
+nav-social
+nav-main
+nav-main-media
+nav-mobile
+nav-mobile-media
+nav-new
+
+post
+
+--- 1901 , somehow accrued more
+
+Dot
+	Branding
+	Clients
+Dot2
+	Feed
+	Grid
+	Resume
+Nay
+	Home
+	Media
+	
+	home
+	experience
+	media
+
+nav-Social
+nav-social
+nav-main
+nav-main-media
+nav-mobile
+nav-mobile-media
+nav-new
+
+test
+post
+post-navMobi
+post-navMain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
+## 9/21 | jujuroom, . 2236 , blah
 
 so i downloaded obsidian
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+kinda sucks,  
+ditto with logseq  
+logseq sucks to type out
 
 
 ===

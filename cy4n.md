@@ -33,8 +33,8 @@
 - white beans
 - yellow carrot 
 - golden beet
-- corn
 
+- corn
 - onion
 - yellow pepper
 - yellow peas
