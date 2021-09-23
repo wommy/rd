@@ -22,6 +22,89 @@
 ===
 
 
+## 9/23 | jujuroom
+
+### 1632 , nodecli , im guessing i should be taking notes
+
+- <https://courses.ahmadawais.com/nodecli/>
+
+	--- #20 
+	
+--- 1722 ,
+
+fuggin npm blocked me,  
+prettier isnt working,  
+i have no clue what ive been doing for the past hour  
+yeah i do  
+lost in docs
+
+LETS TRY AGAIN
+
+--- 21  
+
+- chalk for colors
+- log-symbols
+
+- spread operator on options
+
+--- 29
+
+- node version check
+
+=== 40 - 54 cli framework: MEOW
+
+--- 42 , cli helper
+
+- flags default to true
+
+===== 1817 , so many node ideas | JEGAN
+
+	flag for
+
+	- query
+
+		`defaults to query?`
+
+	- command
+		- create
+		- update
+
+
+		for [Products, Materials, Orders ] do
+			get
+			create
+	
+--- 44 , 1827 , --debug
+
+--- 46 , help
+
+=== 1906
+
+--- 57 , data fetching | `this new try catch block is siq: `
+
+	`await-to-js`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
 ## 9/22 | jujuroom
 
 ### 1337 , yup
@@ -87,24 +170,6 @@ test
 post
 post-navMobi
 post-navMain
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ===
