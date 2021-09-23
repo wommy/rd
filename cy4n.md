@@ -17,7 +17,13 @@
 
 
 # rd
+=== ## 9/22 | dadchair , 208
 
+### tryna use obsidian
+
+this is better than logseq
+
+> fuq logseq
 
 === ## 9/20 | dadchair , 2159 
 
