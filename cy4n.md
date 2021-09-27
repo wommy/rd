@@ -17,6 +17,27 @@
 
 
 # rd
+=== ## 9/23 | basement, dadOfficeChair , 1938 
+
+
+- <https://courses.ahmadawais.com/nodecli/>
+
+=== 2144 | just lost 2hrs of notes , upto 82
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 === ## 9/22 | dadchair , 208
 
 ### tryna use obsidian
