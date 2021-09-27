@@ -22,6 +22,31 @@
 ===
 
 
+## 9/24 | jujuroom, slow start
+
+### 1414 , just some youtube rn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
 ## 9/23 | jujuroom
 
 ### 1632 , nodecli , im guessing i should be taking notes
