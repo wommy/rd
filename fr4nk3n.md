@@ -22,6 +22,29 @@
 ===
 
 
+## 9/27 | jujuroom , buncha tings
+
+### 307 | pushed nav-new
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
 ## 9/24 | jujuroom, slow start
 
 ### 1414 , just some youtube rn
