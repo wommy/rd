@@ -22,9 +22,11 @@
 ===
 
 
-## 9/27 | jujuroom , buncha tings
+## 9/29 | jujuroom , jess over, lil wommy.io
 
-### 307 | pushed nav-new
+### 1520
+
+
 
 
 
@@ -45,26 +47,17 @@
 ===
 
 
+## 9/27 | jujuroom , buncha tings
+
+### 307 | pushed nav-new
+
+
+===
+
+
 ## 9/24 | jujuroom, slow start
 
 ### 1414 , just some youtube rn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ===
