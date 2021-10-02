@@ -22,26 +22,37 @@
 ===
 
 
+## 
+
+
+===
+
+
+## 10/1 | jujuroom , some more wommy
+
+### 1723 , jess here, listening to some syntax about svelte
+
+### 2023 | nav11ty
+
+### 2242 | WIP , quitting, jess is pissed
+
+covered alot of ground, have all the tabs open
+
+
+===
+
+
+## 9/30 | jujuroom , fuxxin w/ react bby
+
+### 1454 | feels weirrrrd mane
+
+
+===
+
+
 ## 9/29 | jujuroom , jess over, lil wommy.io
 
 ### 1520
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ===
