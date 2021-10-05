@@ -22,6 +22,36 @@
 ===
 
 
+# 10/05 | jujuroom JESSBDAY
+
+## 1223 | astro, testing it out
+
+starting this out
+
+### 1604 | im not ready for astro
+
+i need to do a few things first, like establish the source files
+
+### 1726 TODO ? swap media and resume
+
+### 1810 wrapping up 
+
+
+===
+
+
+## 10/04 | jujuroom
+
+### 1943 | new branch! mix-11ty-best
+
+#### TODO
+
+- [ ] Collections to .md
+
+
+===
+
+
 ## 10/02 | jujuroom
 
 ### 1900 | wommy.io nav w/ 11ty.url
