@@ -17,6 +17,51 @@
 
 
 # rd
+=== ## 10/26 | dadChair , 1608
+
+> TODO 1608 
+- [ ] chrome extension
+
+currently working on node-cli
+
+trying to get a browser shortcut set up for marx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=== ## 9/23 | basement, dadOfficeChair , 1938 
+
+
+- <https://courses.ahmadawais.com/nodecli/>
+
+--- 2144 | just lost 2hrs of notes , upto 82
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 === ## 9/22 | dadchair , 208
 
 ### tryna use obsidian
