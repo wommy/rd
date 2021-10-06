@@ -22,6 +22,46 @@
 ===
 
 
+## 10/06 | jujuroom
+
+### 1251 | more wommy
+
+### 1348 , having a hard time getting some momentum
+
+feel super blah, took vitamins
+
+what things am i struggling with?  
+i feel like i got three things going on at once
+
+i am spending all this time rebuilding mixture
+
+so i should create a branch 
+
+> 1418 TODO node cli, ncurses frontend  
+i think this could be really powerful  
+ncurses would create dialogs  
+which would walk thru node prompts  
+could be really nice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
 # 10/05 | jujuroom JESSBDAY
 
 ## 1223 | astro, testing it out
