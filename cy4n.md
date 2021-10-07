@@ -17,7 +17,7 @@
 
 
 # rd
-=== ## 10/26 | dadChair , 1608
+=== ## 10/06 | dadChair , 1608
 
 > TODO 1608 
 - [ ] chrome extension
@@ -26,19 +26,7 @@ currently working on node-cli
 
 trying to get a browser shortcut set up for marx
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+--- ### 2311 , AND ALL MY SHIT GOT DELETED AGAIN
 
 
 === ## 9/23 | basement, dadOfficeChair , 1938 
