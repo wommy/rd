@@ -33,6 +33,13 @@ fuck my life sometimes
 i wrote all these cool todo things,  
 soo bs
 
+--- 0219 , boopin
+
+
+
+
+
+
 
 === ## 9/23 | basement, dadOfficeChair , 1938 
 
