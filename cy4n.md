@@ -28,6 +28,11 @@ trying to get a browser shortcut set up for marx
 
 --- ### 2311 , AND ALL MY SHIT GOT DELETED AGAIN
 
+fuck my life sometimes
+
+i wrote all these cool todo things,  
+soo bs
+
 
 === ## 9/23 | basement, dadOfficeChair , 1938 
 
