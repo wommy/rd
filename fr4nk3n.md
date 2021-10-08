@@ -43,6 +43,8 @@ ncurses would create dialogs
 which would walk thru node prompts  
 could be really nice
 
+### 1530 , starting up again
+
 
 
 
