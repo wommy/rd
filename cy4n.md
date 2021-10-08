@@ -35,10 +35,12 @@ soo bs
 
 --- 0219 , boopin
 
+--- 631 , might have hibernate working
 
+--- 0845 , i somehow got it
 
-
-
+missed the luks- prefix on the UUID  
+hopefully my shit wont get deleted anymore
 
 
 === ## 9/23 | basement, dadOfficeChair , 1938 
