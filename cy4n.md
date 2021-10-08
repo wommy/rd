@@ -17,7 +17,35 @@
 
 
 # rd
+=== ## 10/08 | couch , jessTable | 1729
+
+
+- [ ] Times New Roman, 12pt font
+
+- [ ] week of semester
+- [ ] chapter number
+- [ ] ebook source
+- [ ] title
+- [ ] date completed
+- [ ] course point grade
+- [ ] points earned
+- [ ] running tally
+
+--- 
+
+- 1pt
+	- prepU - complete
+- .5pt
+	- quiz - percent
+	- caseStudy - complete
+- .25pt
+	- picmonics - percent
+	- animation - complete
+	- videos - complete
+	
+
 === ## 10/06 | dadChair , 1608
+
 
 > TODO 1608 
 - [ ] chrome extension
@@ -51,20 +79,8 @@ hopefully my shit wont get deleted anymore
 --- 2144 | just lost 2hrs of notes , upto 82
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 === ## 9/22 | dadchair , 208
+
 
 ### tryna use obsidian
 
