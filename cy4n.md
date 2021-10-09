@@ -17,6 +17,14 @@
 
 
 # rd
+=== ## 10/09 | couch , jessTable | 1529
+
+
+so im making a csv for jess
+
+--- 1729 , just goofin on YT, pooped
+
+
 === ## 10/08 | couch , jessTable | 1729
 
 
