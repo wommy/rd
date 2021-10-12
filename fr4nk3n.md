@@ -22,6 +22,28 @@
 ===
 
 
+## 10/08 | jujuroom
+
+### 1702 , picking up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
 ## 10/06 | jujuroom
 
 ### 1251 | more wommy
@@ -44,21 +66,6 @@ which would walk thru node prompts
 could be really nice
 
 ### 1530 , starting up again
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ===

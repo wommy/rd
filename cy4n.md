@@ -28,29 +28,42 @@ so im making a csv for jess
 === ## 10/08 | couch , jessTable | 1729
 
 
-- [ ] Times New Roman, 12pt font
+	- [ ] Times New Roman, 12pt font
 
-- [ ] week of semester
-- [ ] chapter number
-- [ ] ebook source
-- [ ] title
-- [ ] date completed
-- [ ] course point grade
-- [ ] points earned
-- [ ] running tally
+	- [ ] week
+	- [ ] source
+	- [ ] chapter
+	- [ ] category
+		- [ ] grade
+		- [ ] points
+	- [ ] date
+
+	- [ ] tally
 
 --- 
 
-- 1pt
-	- prepU - complete
-- .5pt
-	- quiz - percent
-	- caseStudy - complete
-- .25pt
-	- picmonics - percent
-	- animation - complete
-	- videos - complete
-	
+	- prepU - complete - 1pt
+	- quiz - percent - .5pt
+	- caseStudy - complete - .5pt
+	- picmonics - percent - .25pt
+	- animation - complete - .25pt
+	- videos - complete - .25pt
+
+--- prompts
+
+	- [ ] week
+	- [x] source ALWAYS Karch
+	- [ ] chapter
+	- [ ] category
+		- [ ] grade
+		- [ ] points
+	- [ ] date
+
+--- table headers
+
+| Week# | Book | Chapter# | Assignment | Date Completed | Grade | Points | Total |
+
+
 
 === ## 10/06 | dadChair , 1608
 
