@@ -22,23 +22,123 @@
 ===
 
 
+## 10/25 | jujuroom
+
+### 905 , took a week off, im back bby
+
+### 1027 , just watching YT, dunno what i need or want
+
+only if i had a wommy.io/todo
+
+--- 1235
+
+### scheduled the periodontist
+
+### twerkin on mongdb
+
+need to do some resume stuffs
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## resume
+
+yeah so what is a resume
+
+top has
+
+name
+address 
+
+
+10 paragraphs,
+
+
+julias
+renzos
+
+
+building the project 
+
+walk down the commits
+
+
+my original resume 
+
+walk down the resumes
+
+
+what do i do
+this
+im in linux
+manjaro
+i3, tmux, alacritty
+
+writing in markdown 
+which im going to commit to git
+and push to github
+
+	--- inter active march
+		contact form at the end
+
+	--- node cli
+
+ive recently been learning more node
+
+last year in sept/oct
+
+	--- stroble site
+
+jegan site
+
+node, sql
+
+typescript
+
+express
+
+	--- publish the resume builder on npm
+
+
+
+walk down the github projects
+
+
+
+   --- ## MARX - i need this up to show them
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
 ## 10/08 | jujuroom
 
 ### 1702 , picking up
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ===
