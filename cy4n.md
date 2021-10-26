@@ -74,7 +74,7 @@ i gonna copypasta some of that here, brb
 --- ### 1444 | still at brennans, whats the takeaway from above
 	think imma kill the easy ones first
 	
-### 
+### TODO
 
 	- [ ] resume
 		- [ ] qualities
@@ -104,13 +104,17 @@ i gonna copypasta some of that here, brb
 				- [ ] more recently: 
 					- [ ] typescript, express
 			-	[ ] github projects walkdown
-			
 
-	- [ ] future builds
-		- [ ] !!IMP - MARX - i need this up to show them
-		- [ ] stroble site
-		-	[ ] publish on npm the resume builder
+		- [ ] future builds
+			- [ ] !!IMP - MARX - i need this up to show them
+			- [ ] stroble site
+			-	[ ] publish on npm the resume builder
 	
+	
+		- [ ] newer | 1515
+			- [ ] walkthru app.netlify
+			- [ ] 
+			
 	
 	
 	
