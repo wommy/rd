@@ -17,6 +17,118 @@
 
 
 # rd
+=== ## 10/26 | dadChair , blog | 024
+
+
+shit got deleted, i think the power was the problem
+
+
+--- ### BRENNANS | 1323 , resume
+
+	my whole 10/25 gone, wasnt much, but some notes on resume
+
+looking at my paper notes from yesterday,  
+maybe even see some of fr4nk3n  
+i gonna copypasta some of that here, brb
+
+
+	### resume - what is a resume
+
+		- top has
+			name
+			address 
+			10 paragraphs,
+
+		- hightlight resume project
+			julias
+			renzos
+
+		- building the project 
+			walk down the commits
+
+		- my original resume  
+			walk down the resumes
+
+		what do i do? this
+		-	im in linux
+			manjaro
+			i3, tmux, alacritty
+		- writing in markdown 
+			which im going to commit to git
+			and push to github
+		-	recently NODE
+			last year in sept/oct: jegan site: node, sql
+			more recently: typescript, express
+		-	walk down the github projects
+		 	!!IMP - MARX - i need this up to show them
+
+		--- sidenotes
+			- inter-active march
+				contact form at the end
+				- for live demonstrations
+			-	node cli
+			- stroble site
+			-	publish the resume builder on npm
+
+
+--- ### 1444 | still at brennans, whats the takeaway from above
+	think imma kill the easy ones first
+	
+### 
+
+	- [ ] resume
+		- [ ] qualities
+			- [ ] name
+			- [ ] address
+			- [ ] 10 projects
+			- [ ] interactive
+			- [ ] mobile
+			- [ ] footer contact form
+		- [ ] projectlist
+			- [ ] node cli
+			- [ ] resume project
+				- [ ] users
+					- [ ] julias
+					- [ ] renzos
+				- [ ] walk the commits of building the project
+				- [ ] walk down the resumes, the word doc ones  
+			- [ ] about me - what do i do? this
+				- [ ] linux, manjaro
+				- [ ] i3, tmux, alacritty
+				- [ ] markdown
+				- [ ] commit to git
+				- [ ] push to github
+			- [ ] NODE, recently
+				- [ ] last year in sept/oct
+					- [ ] jegan site: node, sql
+				- [ ] more recently: 
+					- [ ] typescript, express
+			-	[ ] github projects walkdown
+			
+
+	- [ ] future builds
+		- [ ] !!IMP - MARX - i need this up to show them
+		- [ ] stroble site
+		-	[ ] publish on npm the resume builder
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
 === ## 10/09 | couch , jessTable | 1529
 
 
