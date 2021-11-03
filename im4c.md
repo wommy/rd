@@ -1,3 +1,75 @@
+# 04-12 | imac kycp
+
+### going on errands with ky , 1912
+
+## TODO
+- [ ] i3
+- [ ] dotfiles 2.0 , readme past rd
+
+### got back from errands , 0006
+
+kys feeling some type of way,  
+i need to do chairs
+
+## DONE 
+- [x] fish
+
+mpvs giving me some hastle
+
+- [x] discord ripcord
+
+
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+# 04-08 | im4c basement
+
+### packing , 1906
+
+1200	12 x	100
+1000	21 x	50
+0320	16 x	20
+
+0350	07 x	50
+0660	33 x	20
+0050	05 x	10
+0035	07 x	5
+0020	20 x	1
+
+3835
+
+i am finding so many papers that i needed
+
+###  , 1922
+
+### im4c , 2034 , keith tmst , tailwind purge
+
+- [x] paru yarn vifm
+
+---
+
 # 04-05 | im4c basement
 
 - [x] paru alacritty
@@ -16,46 +88,7 @@
 - [ ] heater
 - [ ] dvi cable
 
-
-
 ---
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
 
 # 0326 | im4c basement | 
 
