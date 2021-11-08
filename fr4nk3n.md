@@ -22,6 +22,89 @@
 ===
 
 
+## 11/08 | jujuroom 
+
+### 1658 | danielle's site, design systems
+
+	i need to bounce between this and figma
+
+	
+danielles site has 2 states:
+- mobile
+- desktop
+
+look at the macro and micro of each
+
+### 1708 notes on andybell and chriscoyier
+
+figma
+- palette
+- space
+- typography
+- images
+
+class=" [ block ] [ utility ] [ design token ] "
+
+gorko
+- config
+	- size scale
+	- colors
+
+cube
+- tokens on body
+- global styles on html elements
+
+- h1,2,3
+	fontsize
+- p, li, blockquote
+	ch
+
+	### c composing
+
+- skeletal layout
+- macro
+
+- back to figma
+
+utilites get their own file
+- cols
+- flow
+- wrapper
+
+### with kevin powell
+
+#### composition
+
+micro vs macro
+
+
+### 1841
+
+danielle footer nav
+	home, about, services, contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
 ## 10/25 | jujuroom
 
 ### 905 , took a week off, im back bby
