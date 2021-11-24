@@ -22,6 +22,55 @@
 ===
 
 
+## 11/17 | jujuroom
+
+### 1516 | 
+
+### 1740 | closed so many tabs
+
+### 1752 | cleared SOOO many tabs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
+## 11/15 | jujuroom
+
+### 1438 | tab cleanup
+
+tryna cleanup deez tabs
+
+theres soooo many!!
+
+so theyre mostly youtube,  
+alot are tech related
+
+### 1702 | what am i thinking
+
+so the groups of youtube fall into many categories  
+so many many categories
+
+
+===
+
+
 ## 11/08 | jujuroom 
 
 ### 1658 | danielle's site, design systems
