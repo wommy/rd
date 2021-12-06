@@ -22,6 +22,165 @@
 ===
 
 
+## 12/06 | frontroom
+
+### 1734 | random cleanup + some dani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
+## 12/03 | frontroom
+
+### 1640 | phone call with dani
+
+### 2159 | gary simon - form design in figma
+
+		Form
+			Title
+			Array
+				c( :text Name )
+				c( :email )
+				c( :radio )
+			c( :submit )
+
+		Components
+			Input
+				:text
+				:radio
+				:submit
+
+			html
+				label
+				:type
+				+	error
+					icon
+					text
+			css
+				bg-color
+				border
+				rounded
+				spacing > lobotomized owl
+			state
+				init
+				hover
+				focus
+				active
+				+
+				error
+
+
+===
+
+
+## 11/27 | frontroom
+
+### 1244 | github copilot
+
+### 1515 | dani form
+
+so what should dani's new form look like
+
+```
+
+	name
+	phone?, email?
+	preferred
+		contact method
+		contact time
+	
+
+```
+
+### 1723 | jessDB
+
+when did i last work on jessDB?
+
+github says OCT11
+
+
+### 1839 writing a readme
+
+i need to rewalk thru the code
+
+
+===
+
+
+## 11/25 | jujuroom
+
+### 1357 | figma stuffs for dani
+
+
+===
+
+
+## 11/24 | jujuroom
+
+### 1935
+
+i need to automate this new creation
+
+i got a massage today
+
+came home, doing danielle's site
+
+re cut it up in figma
+
+
+#### todos
+
+- [ ] AUTOMATE : new creation of rd
+	- break it out into its own process
+	- [?] NPM CLI
+
+- [ ] setup a call with dbox
+- [ ] symlinking xprofile
+- [x] alacrity transparency
+	- [?] HOTKEY
+
+
+### 1945 | buncha notebooking, stickies
+
+### 2004
+
+- [ ] tryna move to tablet
+- [ ] tablet stand amazon
+	- https://www.youtube.com/watch?v=AKBmGBOafLU
+		- [ ] https://www.amazon.com/dp/B08P2ZKK2L?tag=tesqu-20&geniuslink=true&th=1
+		- [ ] https://www.amazon.com/dp/B08N6ZRXNB?tag=tesqu-20&geniuslink=true
+	- https://www.youtube.com/watch?v=eoFmVsJbqII
+		- [ ] https://www.amazon.com/Twelve-South-HoverBar-Adjustable-Attachments/dp/B08VYLQS9F?dchild=1&keywords=hoverbar%2Bduo&qid=1622387996&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzVUQwMTFYVlZKV05UJmVuY3J5cHRlZElkPUEwMjU1NjgwM1VRRTc2WllMUzgyVSZlbmNyeXB0ZWRBZElkPUEwODMxNjc3MkQxMVJDOEdNNEdFUSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=sl1&tag=patrickramb0f-20&linkId=a16be464eb0df0a82e144f7838d4ca3d&language=en_US&ref_=as_li_ss_tl&th=1
+	- https://www.youtube.com/watch?v=c9VYP3JDqgI
+
+
+===
+
+
 ## 11/17 | jujuroom
 
 ### 1516 | 
@@ -29,23 +188,6 @@
 ### 1740 | closed so many tabs
 
 ### 1752 | cleared SOOO many tabs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ===
