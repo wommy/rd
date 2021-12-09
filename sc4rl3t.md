@@ -1,3 +1,39 @@
+# scarlet
+
+
+===
+
+
+## 11-30 | dad
+
+### 1808 | rambles on scarlet
+
+nothing to write, 
+
+i need to eat something
+
+insides hurt so bad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
 ## 06-11 | sc4rl3t kykeeler basement
 
 ### 1608 , 
