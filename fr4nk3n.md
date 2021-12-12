@@ -22,33 +22,68 @@
 ===
 
 
+## 12/11 | frontroom
+
+### 2321 | setting back up bragdoc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
+## 12/10 | frontroom
+
+### 1955 | jessDB publishing to bragdoc
+
+things i need TODO
+
+- [ ] refork 11ty-bragdoc
+	- [ ] document vue port
+- [ ] add entry for jessDB
+
+
+===
+
+
+## 12/08 | frontroom
+
+### 1252 | bragdoc port
+
+
+===
+
+
 ## 12/06 | frontroom
 
 ### 1734 | random cleanup + some dani
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ===
