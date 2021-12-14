@@ -76,7 +76,7 @@ i gonna copypasta some of that here, brb
 	
 ### TODO
 
-	- [ ] resume
+	- [x] resume
 		- [ ] qualities
 			- [ ] name
 			- [ ] address
