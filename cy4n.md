@@ -17,6 +17,26 @@
 
 
 # rd
+=== ## 12/14 | kyles, bragdoc | 1159
+
+so im working on this bragdoc, gotta pull this shit up 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 === ## 10/26 | dadChair , blog | 024
 
 
