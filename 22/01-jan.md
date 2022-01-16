@@ -71,6 +71,22 @@ i think i mostly got the wommy dir structure up
 
 still gotta find that NAV component
 
+#### 2229 | pushed rd bc i got scared
+
+#### 2342 | omg so
+
+this is gonna be so huge
+
+found the nav component  
+it was just burried under so many branches
+
+i want to port it to the monorepo, but one step at a time
+
+#### 134 | undid all my pug work
+
+think imma just hardcord in the new nav bar
+
+
 
 
 
