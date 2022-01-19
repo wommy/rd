@@ -31,6 +31,57 @@
 ===
 
 
+## 1/19 | cy4n
+
+### 240 | just got back from highdive
+
+so what amd i writing about
+
+i need to be able to submit a form  
+and that posts to the repo
+
+- `get/`
+- `create/`
+
+there needs to me like an intermediate state,  
+view the markdowm outputted
+
+i could probably do that with a vue refs
+
+kinda like tailwind prose  
+maybe with a modal
+
+---
+
+i dont need a new repo  
+i need a way to spin up a tailwind
+
+all i need in a markdown  
+inputs  
+a modal  
+and a confirm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
 ### 1/18 | fr4nk3n
 
 #### 1557 | resume , list of github repos
