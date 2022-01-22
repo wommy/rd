@@ -62,6 +62,20 @@ a modal
 and a confirm
 
 
+### 1/19 | fr4
+
+#### 1651 | tryna clean up the repos
+
+doing some tabs first
+
+#### 1805 | so i have so much going on 
+
+#### 1919 | tabs under control, pivotTo REPOS
+
+i think i gotta try the first subtree
+
+
+
 
 
 
