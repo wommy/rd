@@ -31,6 +31,36 @@
 ===
 
 
+### 1/25 | fr4nk3n
+
+#### 1846 | blah
+
+i need to set up the CLI for RD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+
 ## 1/19 | cy4n
 
 ### 240 | just got back from highdive
@@ -62,7 +92,7 @@ a modal
 and a confirm
 
 
-### 1/19 | fr4
+### 1/19 | fr4nk3n
 
 #### 1651 | tryna clean up the repos
 
