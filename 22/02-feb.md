@@ -113,30 +113,21 @@ Thomas Williams
 
 - github repos, +150 repos | groups
 
-#### personal / config
+#### list
 - rd
 - dotfiles
-
-#### clients
 - jessDB
-
-#### projects / experiments
 - vue-trav
 - g & m code
-
-#### list
 - tms_mono
 - solid-ts
 - resume
 - pinia
-- metagen
-	- pull requests
+- metagen | pull requests
 - rd_cli
 - slinkity
-- bragdoc
-	- FORK
-- wommy
-	- -www
+- bragdoc | FORK
+- wommy-www
 - TMS
 - repos
 - vitepress_tm
@@ -285,6 +276,186 @@ Thomas Williams
 - test_app3
 - test_app2
 - mixture-docs
+
+
+#### clients
+	- jessDB | @jess
+	- g & m code | @loren
+	- metagen | @PR
+	- bragdoc | @FORK
+		- bragdoc | @wommy
+	@ Dani
+		- intuitiveheartmassage
+		- danielle-cms
+		- intuitive-heart | sanity
+	@ Jegan
+		- jegan-cli
+		- tm_sanity-jeganmones-art
+		- tm_sanity-jeganmones
+		- tm_sanity-jegan
+		- jegan-shop
+		- jegan-stock-sqlite
+		- jegan_stock-ts_knex_express
+		- jegan-redo
+		- jegan_mones-stock
+		- jegan-etsy
+		- jegan-stock
+		- jeganmones-stock
+	@ Cacao
+		- sanity-cacao
+		- cacao
+	@ socionics-fyi
+	@ west-menu
+	@ Anna
+		- annabrab-sanity
+		- annabrab
+		- annabrab-redo
+		- annabrab-tailwind
+	@ Keith
+		- keith_tmst
+		- py-pandas
+		- keithcu
+		- LinuxReport
+	- kyle-chiRoots | @kyle
+	- vanRych | @vanessa
+	@ Holly
+		- sirena
+		- rarebitsjewelry
+	- freedomtoons @seamus
+	- tarpley.us @brooks
+	- pockets.pizza @pockets
+	- cutepanda @cj
+	- juliaswebsite | @julia
+	- clients
+	- hempwoodCBD @craig
+	- thehousecycle | @pono
+	- lulu_cakes | @joneal
+	- jeff | @jeff
+	- brent_portfolio | @brent
+	- postcss-preset-env-www | @joneal
+	- erisJS | @eric
+	- rovin_funneler | @steven
+	- oley_revive | @steven
+	- Roommate | @mike
+	- jekyll-ogp | @opg
+
+
+	- sem-js @PR
+	- static-pokedex @PR
+
+
+#### projects / experiments
+	- vue-trav
+	- solid-ts
+	- pinia
+	- slinkity
+	- vitepress_tm
+	- components_tm
+	- vite
+	- 11ty-pug
+	- redis-graphql
+	- 11ty-from-scratch
+	- redis-next
+	- express-typescript-app
+	- fauna
+	- prisma
+	- flask-sql-rest
+	- deno-rest-api
+	- technomad-deno
+	- neat-starter
+	- 11ty-vue
+	- netlify-fauna-example
+	- sas-sane-eleventy
+	- adopt_me
+	- learnnextjs-demo
+	- datocms-gatsby-portfolio
+	- gatsby-source-youtube
+	- restaurant-template-cms
+	- test_hugo
+	- test_forestry
+	- hugo_test
+	- React-For-Beginners-Start-Files
+	- kaldi-hugo-cms-template
+	- starter
+	- kanban_app
+	- webpack-react-test
+	- test_app3
+	- test_app2
+	- mixture-docs
+
+
+#### personal / config 
+	- rd
+	- dotfiles
+	- resume
+	- rd_cli
+	- repos
+	- gitjournal
+	- RD-in-STRAPI
+	- invoices
+	- dotfiles2
+	- r4sp1-config
+	##### TM
+	- tms_mono
+	- TMS
+	- mono-tm
+		- vite-project | mono_tm
+	- sanity-technomad
+	- technomad-todo-alpine
+	- bookmarks
+	- tm_sanity-todo
+	- technomad-strapi
+	- technomad-todo
+	- technomad-mongo-express
+	- technomad-express
+	- technomad-typescript-koa
+	- technomad-node
+	- technomad-netlifycms
+	- tms-update
+	- tmst
+	- netlifycms-11ty
+	- strapiadb
+	- 11ty-sheets
+	- tm-stratlas
+	- sql-node-technomad
+	- strapi-maria
+	- strapi-sqlite3
+	- olde-vue-11ty
+	- technomad-theme
+	- technomad_olde
+	- technomad_vue
+	- technomad
+	- technomad_handlebars
+	- technomad_technomad
+	- funSpike
+	- npm_bp_c9-technomad
+	##### wommy
+	- wommy-www
+	- wommyWWW-rebuild
+	- wommy-rewrite
+	- wommy-technomad_11ty
+	- wommyio-react
+	- wommy
+		##### bloggin
+		- www-technomad-media-blog
+		- mixture
+		- technomad_blog
+		- technomad-blog
+		- TMJ_content
+		- technomad_jekyll
+		- technomad_blogposts
+		- mix_11ty
+		- wommy_jekyll
+		- 2019_04
+		- w3w
+		- blog
+		- wommy.github.io
+		- w0m.io
+		- jek2jade
+		- jekyll-lanyon
+
+
+
 
 
 
