@@ -1,6 +1,198 @@
 # 02 | feb
 
-## 02/03 | bed | | resume
+## 02/08 | frnk3n | frontroom | betterhelp
+
+### betterHelp
+
+- 11ty
+- vue
+- vite
+- react
+- hydrogen
+- csv
+- normalization
+- jessDB
+- bragdoc
+- resume-proj
+
+- transferred schools for psych
+- so much opportunity in web
+- minor
+
+- psych
+	- personality | cognition | theories of intelligence
+	- socionics
+
+- flush out Minor
+	- UI/UX
+
+- references ( meetups )
+	- Vice
+	- semJS
+	- netlify
+	- buddParr
+	- jOneal
+		- postcss-preset-env
+	- mcchris
+	- dBox
+
+### repos
+
+	- jessDB | @jess
+		- write about
+	- PRs
+		- bragdoc | @FORK
+			- bragdoc | @wommy
+		- metagen | @PR
+		- sem-js @PR
+		- static-pokedex @PR
+	- clients
+		- Jegan
+		- Dani
+		- Jegan
+		- Cacao
+		- socionics-fyi
+		- west-menu
+		- Anna
+		- Keith
+		- kyle-chiRoots | @kyle
+		- vanRych | @vanessa
+		- Holly
+		- freedomtoons @seamus
+		- juliaswebsite | @julia
+		- clients OLDER
+			- tarpley.us @brooks
+			- pockets.pizza @pockets
+			- cutepanda @cj
+			- hempwoodCBD @craig
+			- thehousecycle | @pono
+			- lulu_cakes | @joneal
+			- jeff | @jeff
+			- brent_portfolio | @brent
+			- postcss-preset-env-www | @joneal
+			- erisJS | @eric
+			- rovin_funneler | @steven
+			- oley_revive | @steven
+			- Roommate | @mike
+			- jekyll-ogp | @opg
+	- projects / experiments
+		- vue-trav
+			- pinia
+			- vitepress_tm
+			- vite
+		- solid-ts
+		- slinkity
+		- components_tm
+		- 11ty 
+			- 11ty-pug
+			- 11ty-from-scratch
+		- redis-graphql
+		- redis-next
+		- express-typescript-app
+		- fauna
+		- prisma
+		- flask-sql-rest
+		- deno-rest-api
+		- technomad-deno
+		- neat-starter
+		- 11ty-vue
+		- netlify-fauna-example
+
+			- sas-sane-eleventy
+			- adopt_me
+
+		- learnnextjs-demo
+		- datocms-gatsby-portfolio
+		- gatsby-source-youtube
+		- restaurant-template-cms
+		- test_hugo
+		- test_forestry
+		- hugo_test
+		- React-For-Beginners-Start-Files
+		- kaldi-hugo-cms-template
+		- starter
+		- kanban_app
+		- webpack-react-test
+		- test_app3
+		- test_app2
+		- mixture-docs
+
+- personal / config 
+	- rd
+	- dotfiles
+	- resume
+	- rd_cli
+	- repos
+	- gitjournal
+	- RD-in-STRAPI
+	- invoices
+	- dotfiles2
+	- r4sp1-config
+	
+- TM
+	- tms_mono
+	- TMS
+	- mono-tm
+		- vite-project | mono_tm
+	- sanity-technomad
+	- technomad-todo-alpine
+	- bookmarks
+	- tm_sanity-todo
+	- technomad-strapi
+	- technomad-todo
+	- technomad-mongo-express
+	- technomad-express
+	- technomad-typescript-koa
+	- technomad-node
+	- technomad-netlifycms
+	- tms-update
+	- tmst
+	- netlifycms-11ty
+	- strapiadb
+	- 11ty-sheets
+	- tm-stratlas
+	- sql-node-technomad
+	- strapi-maria
+	- strapi-sqlite3
+	- olde-vue-11ty
+	- technomad-theme
+	- technomad_olde
+	- technomad_vue
+	- technomad
+	- technomad_handlebars
+	- technomad_technomad
+	- funSpike
+	- npm_bp_c9-technomad
+
+- wommy
+	- wommy-www
+	- wommyWWW-rebuild
+	- wommy-rewrite
+	- wommy-technomad_11ty
+	- wommyio-react
+	- wommy
+
+- bloggin
+	- www-technomad-media-blog
+	- mixture
+	- technomad_blog
+	- technomad-blog
+	- TMJ_content
+	- technomad_jekyll
+	- technomad_blogposts
+	- mix_11ty
+	- wommy_jekyll
+	- 2019_04
+	- w3w
+	- blog
+	- wommy.github.io
+	- w0m.io
+	- jek2jade
+	- jekyll-lanyon
+
+
+
+## 02/03 | cy4n | bed | resume
 
 
 ### cover letter
@@ -9,6 +201,7 @@ paragraph for:
 -	applying for yada yada
 -	skills and why id be an asset
 -	thanks for meeting, id like to chat more
+	- UPDATED: requesting a meeting
 
 
 
@@ -395,64 +588,67 @@ Thomas Williams
 	- invoices
 	- dotfiles2
 	- r4sp1-config
-	##### TM
-	- tms_mono
-	- TMS
-	- mono-tm
-		- vite-project | mono_tm
-	- sanity-technomad
-	- technomad-todo-alpine
-	- bookmarks
-	- tm_sanity-todo
-	- technomad-strapi
-	- technomad-todo
-	- technomad-mongo-express
-	- technomad-express
-	- technomad-typescript-koa
-	- technomad-node
-	- technomad-netlifycms
-	- tms-update
-	- tmst
-	- netlifycms-11ty
-	- strapiadb
-	- 11ty-sheets
-	- tm-stratlas
-	- sql-node-technomad
-	- strapi-maria
-	- strapi-sqlite3
-	- olde-vue-11ty
-	- technomad-theme
-	- technomad_olde
-	- technomad_vue
-	- technomad
-	- technomad_handlebars
-	- technomad_technomad
-	- funSpike
-	- npm_bp_c9-technomad
-	##### wommy
-	- wommy-www
-	- wommyWWW-rebuild
-	- wommy-rewrite
-	- wommy-technomad_11ty
-	- wommyio-react
-	- wommy
-		##### bloggin
-		- www-technomad-media-blog
-		- mixture
-		- technomad_blog
-		- technomad-blog
-		- TMJ_content
-		- technomad_jekyll
-		- technomad_blogposts
-		- mix_11ty
-		- wommy_jekyll
-		- 2019_04
-		- w3w
-		- blog
-		- wommy.github.io
-		- w0m.io
-		- jek2jade
-		- jekyll-lanyon
+	
+##### TM
+- tms_mono
+- TMS
+- mono-tm
+	- vite-project | mono_tm
+- sanity-technomad
+- technomad-todo-alpine
+- bookmarks
+- tm_sanity-todo
+- technomad-strapi
+- technomad-todo
+- technomad-mongo-express
+- technomad-express
+- technomad-typescript-koa
+- technomad-node
+- technomad-netlifycms
+- tms-update
+- tmst
+- netlifycms-11ty
+- strapiadb
+- 11ty-sheets
+- tm-stratlas
+- sql-node-technomad
+- strapi-maria
+- strapi-sqlite3
+- olde-vue-11ty
+- technomad-theme
+- technomad_olde
+- technomad_vue
+- technomad
+- technomad_handlebars
+- technomad_technomad
+- funSpike
+- npm_bp_c9-technomad
+
+##### wommy
+- wommy-www
+- wommyWWW-rebuild
+- wommy-rewrite
+- wommy-technomad_11ty
+- wommyio-react
+- wommy
+
+##### bloggin
+- www-technomad-media-blog
+- mixture
+- technomad_blog
+- technomad-blog
+- TMJ_content
+- technomad_jekyll
+- technomad_blogposts
+- mix_11ty
+- wommy_jekyll
+- 2019_04
+- w3w
+- blog
+- wommy.github.io
+- w0m.io
+- jek2jade
+- jekyll-lanyon
 
 
 
