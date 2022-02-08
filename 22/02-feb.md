@@ -36,6 +36,13 @@
 	- mcchris
 	- dBox
 
+#### UPPED
+
+- vscode
+- nvim
+- sublime merge
+- prettier, eslint
+
 ### repos
 
 	- jessDB | @jess
