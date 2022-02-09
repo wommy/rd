@@ -53,12 +53,13 @@ only took almost 7 years
 		- mobile
 		- social
 	- articles
-	- routing
 		- content
+	- routing
 		- clients
 		- blog
 		- media
 		- todo
+		- repos
 	- includes: style, scripts, images
 		- CSS
 			- fonts
@@ -66,11 +67,37 @@ only took almost 7 years
 			- cube
 		- JS > scripts
 	- github readme
-	- repos
 
 	- 5thdimdet
 	- 5thd1md3t
 
+	- KILL
+		- branding
+	- MOVE
+		- resume
+		- media >> ? blog
+	- EXPAND
+		- clients
+
+	- Experiments >> Projects
+
+	- ??
+		- intro
+		- inspa
+		- hobbies
+			- techno
+
+	- fancy
+		- resume
+			- other resumes
+			- print styles
+
+	- tailwind
+		- twind
+
+	- nCMS
+
+	- monorepo
 
 
 
