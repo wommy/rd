@@ -1,4 +1,97 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 02 | feb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 02/09 | cy4n | highdive
+
+### 125 | just finished porting some wommy to slink
+
+feels strange my dude
+
+wommys gonna be different soon
+
+only took almost 7 years
+
+#### THINGS TA TWERK ON
+
+	- nav
+		- mobile
+		- social
+	- articles
+	- routing
+		- content
+		- clients
+		- blog
+		- media
+		- todo
+	- includes: style, scripts, images
+		- CSS
+			- fonts
+			- colors
+			- cube
+		- JS > scripts
+	- github readme
+	- repos
+
+	- 5thdimdet
+	- 5thd1md3t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 02/08 | frnk3n | frontroom | betterhelp
 
