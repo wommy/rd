@@ -197,6 +197,53 @@
 	- jek2jade
 	- jekyll-lanyon
 
+	
+### I LEARNED REACT!!!!! | 1727
+
+i cant believe i learned react
+
+ive been meaning to forever, but all the ES6 held me back
+
+shout outs to @TraversyMedia <33333
+
+i would like to update some wommy now
+
+but first TODO nerdtree
+
+#### 1801 | think i got it, DONE
+
+### 1801 | but whats next? wommy.io?
+
+### 2150 | bug in slinkity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## 02/03 | cy4n | bed | resume
