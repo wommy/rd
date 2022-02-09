@@ -110,6 +110,11 @@ only took almost 7 years
 
 - so many stickies in the basement
 
+- time to die
+johnny mnemonic
+
+
+
 
 
 
