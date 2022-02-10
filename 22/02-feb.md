@@ -36,6 +36,48 @@
 
 
 
+## 02/10 | cy4n | dadChair
+
+### 237 | gotta write a page for wommy , maybe tudo
+
+i wish i took more notes earlier
+
+i did a bunch today
+
+1. did some WOMMY in VITEPRESS
+	- hit that snag with the web component
+		- BLOGPOST
+	- maybe i should do blog first
+	- i like that degit idea
+2. looking for that tailwind blogpost
+3. could i juggle two herokus?
+4. or set up my server
+	1. or set up an atlas
+
+### 322 | emailed andybell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 02/09 | cy4n | highdive
 
