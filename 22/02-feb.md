@@ -36,6 +36,61 @@
 
 
 
+
+## 02/11 | fr4nk3n | frontroom 
+
+### jeff posnick service worker code audit | 1457
+
+### nancy in the ER
+
+### gotta set up a new NEAT stack
+
+	- NetlifyCMS
+	- Eleventy
+	- Alpine
+	- Twind
+	- PWA / service worker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 02/10 | frontroom | fr4nk3n
+
+### 1427 | trav_mern-express_mongo
+
+spinning this up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 02/10 | cy4n | dadChair
 
 ### 237 | gotta write a page for wommy , maybe tudo
