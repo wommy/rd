@@ -28,6 +28,43 @@
 
 
 
+## 02/16 | fr4nk3n | frontroom
+
+### 1856 | added wommy/tudo | feels great
+
+- [x] stroble
+- [x] fum
+
+- [x] pass w/ luke https://youtu.be/sVkURNfxPd4
+	- [x] paypal
+	- [x] passmenu - dmenu
+	- [x] pam-gnupg
+	- [ ] otp https://youtu.be/sVkURNfxPd4&t=418s
+		- [ ] zbarimg -q $QR_CODE
+		- [ ] pass otp add $NAME
+		- [ ] pass otp $NAME
+	- ? how to sync
+
+- [x] images to cloudinary | 2015
+	- [x] from cloudinary
+		- [x] one at a time
+			- [x] wommy
+			- [x] hamburger
+			- [x] social
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
 
 
 
