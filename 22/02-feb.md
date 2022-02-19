@@ -27,6 +27,33 @@
 
 
 
+## 02/18 | fr4k3n | frontroom
+
+### 1809 | picking up from last time
+
+- [ ] wommy/home
+	- [ ] tudo
+	- [ ] marx
+- [ ] tudo, jazz up 
+	- [ ] styles
+	- [ ] tudo block
+	- [ ] header > tudo
+	- [ ] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 02/16 | fr4nk3n | frontroom
 
