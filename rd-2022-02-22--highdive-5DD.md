@@ -8,4 +8,9 @@ whats the stuff i needs
 - [ ] newsletter
 - [ ] events
 - [ ] push notifications
-- [ ] 
+
+## 	2327 | 
+
+so whats this about
+
+
