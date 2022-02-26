@@ -27,6 +27,42 @@
 
 
 
+
+
+## 2/22 | fr4nk3n | frontroom
+
+### 2025 | with brennan | about tudo
+
+
+- [ ] title
+- [ ] form
+- [ ] numbers
+- [ ] reverse it
+- [ ] center | think about layout / placement | everylayout
+- [ ] LI links
+- [ ] think about categories
+
+### resume
+- [ ] paper
+- [ ] sidebar
+	- [ ] bullets
+- [ ] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 02/18 | fr4k3n | frontroom
 
 ### 1809 | picking up from last time
@@ -40,6 +76,25 @@
 	- [ ] header > tudo
 	- [ ] 
 
+### 2235 | feed reader
+
+- i think wommy would really benefit from something like this
+- i could have a page that would scrape a list of feeds
+
+things wommy needs
+
+	- [ ] a list of feeds
+	- [ ] new nav
+	- [ ] new css
+	- [ ] new resume
+	- [ ] new blog - compiled of course
+
+
+	
+	
+	
+	
+	
 
 
 
