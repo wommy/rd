@@ -29,6 +29,41 @@
 
 
 
+
+
+
+## 02/26 | fr4nk3n | frontroom
+
+### 0115 | tudo solid
+
+
+so vat am i doing 
+
+i gotta publish Tudo solid
+
+i do dat by testing it, and then pulling on wommy
+degit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 2/22 | fr4nk3n | frontroom
 
 ### 2025 | with brennan | about tudo
