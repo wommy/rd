@@ -39,19 +39,27 @@ i guess hit it
 this latex resume has gotta happen
 
 i also gotta do tudo n marx,
-it feels nice that marx finally has its own repo
+	it feels nice that marx finally has its own repo
 
 i need to do some Auth for em both
 
 Tudo needs a Get and a Post,
-	those gonna be serverless
-n a Form, n Auth
-
-the Put can come later
-
+	serverless
+	n a Form, n Auth
+	the Put can come later
 i need to be able to Ref a Tudo to another
-
 n i need to be able to Ref a Marx to a Tudo
+
+i need to Bike
+so many ting tudo
+
+setting up the mongo might be nice, the Atlas
+	set up a mongoose
+	sanity might be the best for awhile still
+
+TM-cli is another thing i need to think about
+	new Rd
+
 
 
 
