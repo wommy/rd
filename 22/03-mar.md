@@ -7,7 +7,75 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 # 03 | march
+
+## week 3 | 16 | cy4n | highdive
+
+### 0023 | rambles , so whats the move tom
+
+i gotta delete all the Docs
+
+- [ ] del the Docs
+
+i guess hit it
+
+### 0101
+
+- [x] deleted the Docs
+	- pushed em all to GH
+
+this latex resume has gotta happen
+
+i also gotta do tudo n marx,
+it feels nice that marx finally has its own repo
+
+i need to do some Auth for em both
+
+Tudo needs a Get and a Post,
+	those gonna be serverless
+n a Form, n Auth
+
+the Put can come later
+
+i need to be able to Ref a Tudo to another
+
+n i need to be able to Ref a Marx to a Tudo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## week 1 | 03 | fr4nk3n | frontroom
 
