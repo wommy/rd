@@ -37,6 +37,35 @@ so lets do that
 and i needed to put them in the top of i3,
 i think i need to make .xprofile executable
 
+## 03-20 | 0117
+
+i guess next is nvim
+
+and node and pnpm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
