@@ -40,7 +40,7 @@ i think i need to make .xprofile executable
 ## 03-20 | 0117
 
 i guess next is nvim
-
+and vim plug
 and node and pnpm
 
 
