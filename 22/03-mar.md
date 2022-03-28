@@ -21,6 +21,71 @@
 
 # 03 | march
 
+## 03/28 | rd
+
+new rd workflow
+
+1. 
+
+the big part of the workflow is the writing and the publishing
+the workflow is the writing and the publishing
+
+if i dont publish, the writing doesnt matter
+
+so i will publish
+
+i am publishing, im just not broadcasting it
+
+what enables the broadcast
+
+after hitting the api, the site needs to build
+
+one of the 
+
+- [ ] play/pause button
+- [ ] redo bar
+	- [ ] top 
+	- [ ] blocking
+
+- [ ] i will bring that keyboard with me 
+
+- [ ] buy laptop stand
+
+- [ ] fix P key chromebook
+- [ ] fix dell keyboard, | hopefully thats all it is
+
+### Tudo is killing me | 1802
+
+i still need to be writing tudos
+	the workflow isnt working
+	there isnt a product at the end of the operation
+
+> laptop workflow
+
+- [ ] buy a thinkpad on ebay, facebook marketplace
+- [ ] buy a new CPU for r0y
+
+- ? [ ] could i `.reverse()` the stream to read Rd bottom to top
+
+	> [ ] - PUBLISH RD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## week 3 | 16 | cy4n | highdive
 
 ### 0023 | rambles , so whats the move tom
