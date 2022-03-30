@@ -21,7 +21,9 @@
 
 # 03 | march
 
-## 03/29 | marx to rd?
+## 03/29 
+
+### marx to rd? | > 2051
 
 i realized that marx posts to some service
   when it should just post to some wacky Rd
@@ -38,6 +40,33 @@ i think i added the fish drac theme, gonna source
   open tabs
     - mpv james-brown
     - alacritty.yml
+
+switched it to JB pandora
+
+### follow-up | 2051
+  - [ ] https://wiki.archlinux.org/title/Tmux
+	- [ ] https://wiki.archlinux.org/title/Fish
+
+#### jlab earbuds
+	- [ ] https://www.jlab.com/collections/replacement-parts/products/cloud-foam-eartips
+	- [ ] https://www.jlab.com/collections/replacement-parts/products/replacement-crush-fin-set
+
+#### onlykey
+	- [ ] https://onlykey.io/
+
+#### ltt cables | 2121
+	- [ ] https://www.youtube.com/watch?v=XFbJD6RE4EY
+	- [ ] https://www.youtube.com/watch?v=Vn2vdQZhs0w
+	- [ ] [infinite cables](https://www.infinitecables.com/cart/)
+
+
+
+
+
+
+
+
+
 
 
 
