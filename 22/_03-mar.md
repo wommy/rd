@@ -32,7 +32,7 @@ i realized that marx posts to some service
 
 i cant believe i didnt have `mpv` & `youtube-dl` on here
 
-currently listening to [James Brown - Get Up Offa That Thing (Release The Pressure)'](https://www.youtube.com/watch?v=QS8FxHsw0U0)
+> currently listening to [James Brown - Get Up Offa That Thing (Release The Pressure)'](https://www.youtube.com/watch?v=QS8FxHsw0U0)
 
 or friggin node!
 
