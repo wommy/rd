@@ -21,6 +21,46 @@
 
 # 03 | march
 
+## 03/29 | marx to rd?
+
+i realized that marx posts to some service
+  when it should just post to some wacky Rd
+
+- [ ] nvim on r0y
+
+i cant believe i didnt have `mpv` & `youtube-dl` on here
+
+currently listening to [James Brown - Get Up Offa That Thing (Release The Pressure)'](https://www.youtube.com/watch?v=QS8FxHsw0U0)
+
+or friggin node!
+
+i think i added the fish drac theme, gonna source
+  open tabs
+    - mpv james-brown
+    - alacritty.yml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 03/28 | rd
 
 new rd workflow
