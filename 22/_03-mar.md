@@ -138,6 +138,30 @@ i still need to be writing tudos
 
 	> [ ] - PUBLISH RD
 
+### publish Rd | 1906
+
+> took shower, feels great
+
+yeah this really just need to be seen on da website
+making it interactive is probably the next step
+
+- [ ] get this on wommy-www
+	- [ ] interativity 
+
+so how do i even go abouts that
+what do i need tudo
+
+i need to create a page on wommy-www, `rd`
+	needs to be dynamic
+	originally im thinking some liquid 
+
+### rofi emoji | 1948
+
+so im trying to paste an emoji into [youtube comment](https://www.youtube.com/watch?v=dIa2Y4zesnw)
+
+- [ ] https://search.brave.com/search?q=rofi+emoji+picker&source=desktop
+- [ ] 
+
 
 
 
