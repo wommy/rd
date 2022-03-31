@@ -21,6 +21,132 @@
 
 # 03 | march
 
+## 03/31
+
+### jess bed | 0517
+
+im gonna be killing abuncha tabs
+
+- https://socionics.fyi/
+- https://lukesmith.xyz/c/wanna-learn-latex
+- Search: pur gum
+- https://www.ebay.com/b/LGA-1150-Socket-H3-Core-i7-4th-Gen-Computer-CPUs-Processors/164/bn_627353
+- https://wiki.archlinux.org/title/List_of_applications/Internet#Web_browsers
+
+- https://www.youtube.com/watch?v=dkMlLkCRmRQ
+
+- https://www.youtube.com/watch?v=L9SLlxaEEXY
+- Search: j dilla donuts shining
+- https://fontawesome.com/v5/icons/bookmark?style=solid&s=solid
+- https://en.wikipedia.org/wiki/Literate_programming
+- https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692
+- https://www.youtube.com/watch?v=XEEZuWX9BMU
+- Search: brave new world ffvi
+- http://vimcasts.org/episodes/soft-wrapping-text/
+- https://antfu.me/posts/about-yak-shaving
+- https://www.atlassian.com/git/tutorials/git-subtree
+- https://cjohansen.no/git-subtree-multiple-dirs/
+- https://www.techstopdetroit.com/about
+
+- https://www.youtube.com/watch?v=3lLQzJU9I_0
+- https://www.youtube.com/watch?v=6j-GGZ8XORk
+- https://www.youtube.com/watch?v=SyN788DJY_A
+- https://www.youtube.com/watch?v=nf3maJWJgSo
+- https://www.youtube.com/watch?v=_-_sVxaVi_8
+- https://www.youtube.com/watch?v=F6aS8g7PZ54
+- https://www.youtube.com/watch?v=ab1H602yc_Y
+- https://www.youtube.com/watch?v=phC14xfwvjc
+- https://www.youtube.com/watch?v=UU7MgYIbtAk
+- https://www.youtube.com/watch?v=a80ZU8D8t7U
+- https://www.youtube.com/watch?v=ICoLLeue8xA
+- https://www.youtube.com/watch?v=JRF2yi69ZII
+- https://www.youtube.com/watch?v=qSfdtmcZ4d0
+- https://www.youtube.com/watch?v=V5qvWl-O-zE
+- https://www.youtube.com/watch?v=MDIilLaVN6c
+- https://www.youtube.com/watch?v=yl5bvkqVI9A
+- https://www.youtube.com/watch?v=OIEKc_eC0lY
+- https://www.youtube.com/watch?v=W5ThNvzHN0A&list=PLbpi6ZahtOH71a6AQn1p3XGQ2CQSlfPIU
+- https://www.youtube.com/watch?v=mAkCAZSq2a0
+- https://www.youtube.com/watch?v=DAo4jYZ3rPM
+- https://www.youtube.com/watch?v=Ma13Zbi3mXo
+- https://www.youtube.com/watch?v=_ItkYhFiGBI
+- https://www.youtube.com/watch?v=ru5Q34_zFn4
+- https://www.youtube.com/watch?v=lZz-3AMkmrM
+- https://www.youtube.com/watch?v=u93oyse9c-4
+- https://www.youtube.com/watch?v=79jHPEFImNc
+- https://www.youtube.com/watch?v=qql0BuorL3g
+- https://www.youtube.com/watch?v=a0bnkS9xANY
+- https://www.youtube.com/watch?v=ZGymN8aFsv4
+- https://www.youtube.com/watch?v=yiqyzVHAfa4
+- https://www.youtube.com/watch?v=NC--1BAcSK0
+- https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA
+- https://www.youtube.com/watch?v=vrrOVbj9TNs
+- https://www.youtube.com/watch?v=wNwWmBBcjtA
+- https://www.youtube.com/watch?v=NGk2HxV0Xkg
+- https://www.youtube.com/watch?v=89WRYMPw-hE
+- https://www.youtube.com/watch?v=Kf5LLi7Ti9A
+- https://www.youtube.com/watch?v=1gBFIhl89iE
+- https://www.youtube.com/watch?v=2ZBCyZcvS_E
+- https://www.youtube.com/watch?v=gDsKHwVklxY
+- https://www.youtube.com/watch?v=RYQ_HG7vVZw
+- https://www.youtube.com/watch?v=98cXig0hOVw
+- https://www.youtube.com/watch?v=Lam0cYOEst8
+- https://www.youtube.com/watch?v=7NEc0mJ2u9c
+- https://www.youtube.com/watch?v=UmkEDc1G_7A
+- https://www.youtube.com/watch?v=a7JigiLw_OY
+- https://www.youtube.com/watch?v=wsJaUjd1rUo
+
+- https://www.youtube.com/watch?v=rgZkd-RAYfE
+- https://www.youtube.com/watch?v=pDdmF9ZhhAA
+
+- https://www.bragdocs.com/@wommy
+- https://github.com/wommy/mono-tm
+- https://github.com/wommy/wommy-www
+
+- https://blog.logrocket.com/fastify-vite-serving-vite-ssr-hydration/
+- https://github.com/fastify/fastify-vite
+- https://pawelgrzybek.com/from-express-to-fastify-in-node-js/
+- https://www.sitepoint.com/express-to-fastify-migrate/
+
+- https://www.npmjs.com/package/serverless-http
+- https://github.com/wommy/tudo
+- https://github.com/11ty/eleventy-fetch
+- https://www.11ty.dev/docs/plugins/fetch/
+
+- https://soundcloud.com/discover/sets/new-for-you::w0mmy
+- https://www.youtube.com/watch?v=dIa2Y4zesnw
+
+- https://search.brave.com/search?q=rofi+emoji+picker&source=desktop
+- https://github.com/fdw/rofimoji
+- https://github.com/Mange/rofi-emoji
+- https://www.reddit.com/r/unixporn/comments/7zqkov/oc_i_mad_a_rofi_emoji_picker_and_i_feel_bad_about/
+- https://gist.github.com/Tadly/0741821d3694deaec1ee454a95c591fa
+- https://git.teknik.io/matf/rofimoji
+
+- https://search.brave.com/search?q=xsel+vs+xclip&source=web
+- https://askubuntu.com/questions/705620/xclip-vs-xsel
+- https://ostechnix.com/access-clipboard-contents-using-xclip-and-xsel-in-linux/
+- https://fernandobasso.dev/shell/copy-paste-from-command-line-xclip-xsel-clipboard.html
+- https://itectec.com/ubuntu/ubuntu-xclip-vs-xsel/
+
+- https://github.com/tpope/vim-surround
+- https://vim.fandom.com/wiki/Automatic_word_wrapping
+- https://vim.works/2019/03/16/wrapping-text-in-vim/
+- https://www.youtube.com/watch?v=L9V6HqChUBc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 03/29 
 
 ### marx to rd? | > 2051
