@@ -134,6 +134,13 @@ im gonna be killing abuncha tabs
 - https://vim.works/2019/03/16/wrapping-text-in-vim/
 - https://www.youtube.com/watch?v=L9V6HqChUBc
 
+### i guess im doing some blog type thing | 0612
+
+i kinda like the 11ty base blog
+
+- [ ] set up environment variables for the diff hosts
+
+so with 11ty base blog 
 
 
 
