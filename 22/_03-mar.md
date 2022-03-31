@@ -142,6 +142,11 @@ i kinda like the 11ty base blog
 
 so with 11ty base blog 
 
+### 0804 | 
+
+quick leave, 11ty-vite misbehaving
+
+
 
 
 
