@@ -83,6 +83,25 @@ i think i need to set up 11ty-fetch
 
 i remember that i hate this plugin
 
+### publishing rd | 2130
+
+so i got rd up
+
+just `cp'd` it, thats gonna haveta be improve upon later
+
+- [ ] improve fetch Rd
+
+#### header for Rd
+
+gonna throw some YAML on dat bish
+
+worked out pretty good, dates off by a day,
+	https://www.11ty.dev/docs/dates/#dates-off-by-one-day
+	doesnt help
+
+### im pretty sure i could publish what i got rn | 2213
+
+
 
 
 
