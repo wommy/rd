@@ -52,6 +52,26 @@ gonna go longPress r0y
 
 so i guess im cleaning tabs huh?
 
+#### 0719
+
+i guess work is next?
+
+#### 0723
+
+jk, all those cleaned into Rd from yesterday
+
+i guess onto `work-adjacent`
+
+#### 0813 | done w/ r0y tabs
+
+
+
+
+
+
+
+
+
 
 
 
@@ -131,6 +151,7 @@ so i got rd up
 just `cp'd` it, thats gonna haveta be improve upon later
 
 - [ ] improve fetch Rd
+	https://www.11ty.dev/docs/plugins/fetch/
 
 #### header for Rd
 
