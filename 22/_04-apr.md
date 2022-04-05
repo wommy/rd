@@ -64,17 +64,13 @@ i guess onto `work-adjacent`
 
 #### 0813 | done w/ r0y tabs
 
+#### 0916 | whats next
 
+do i go back and audit Sanity?
+	that is one large undertaking
+	( in order to reverse pr3k )
 
-
-
-
-
-
-
-
-
-
+> pr3k is nutz
 
 
 
