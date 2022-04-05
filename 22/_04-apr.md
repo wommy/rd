@@ -31,6 +31,77 @@
 
 # 04 | april
 
+## 04/04 | r0y fr
+
+### rambles | 1938
+
+just starting up
+
+twerkin on publishing
+
+> listening to [mj - beat it](https://youtu.be/WlTlUseVt7E)
+
+### what is needed to publish | 1944
+
+i guess imma just go top to bottom,
+	extrapolate an order from that list
+
+- header needs a rework
+	- needs a back button
+		gonna go back to wommy-www
+			wommy-www needs a blog entry on da nav
+	- this is where youre gonna choose categories
+		probably enhance with JS
+			tudo could probably fit in here
+
+- the meta data block
+	this whole thing needs alot of work 
+
+### 2023 | probably need to rename to Rd
+
+isnt it gonna be like a search type of thing for posts
+
+### whats it gonna look like
+
+- top left back to wom
+- middle/right: categories
+- meta can be later
+- list
+	- header
+	- list items
+
+> is tudo just a category? like marx
+> is blog one of those too?
+
+i really need to work on getting Rd up
+
+- [ ] gut Posts
+
+i think i need to set up 11ty-fetch
+
+### 11ty-fetch | 2043
+
+i remember that i hate this plugin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 04/02 | r0y fr
 
 ### 2238 | rambles
