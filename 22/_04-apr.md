@@ -31,6 +31,47 @@
 
 # 04 | april
 
+## 04/05 
+
+### cy4n dadChair
+
+#### r0y went blank | 0647
+
+i was gonna do sum 1nx on r0y but i guess not,
+fuggin video drivers
+
+> there! i said it
+
+also nvidia blows, no wai
+
+gonna go longPress r0y
+
+### r0y fr
+
+#### im in | 0702
+
+so i guess im cleaning tabs huh?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 04/04 | r0y fr
 
 ### rambles | 1938
