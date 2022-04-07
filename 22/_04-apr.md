@@ -31,6 +31,8 @@
 
 # 04 | april
 
+---
+
 ## 04/05 
 
 ### cy4n dadChair
@@ -72,6 +74,7 @@ do i go back and audit Sanity?
 
 > pr3k is nutz
 
+#### 1432 | not looking forward to flashing flex5
 
 
 
@@ -87,6 +90,8 @@ do i go back and audit Sanity?
 
 
 
+
+---
 
 ## 04/04 | r0y fr
 
