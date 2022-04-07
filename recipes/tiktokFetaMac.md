@@ -2,9 +2,13 @@
 
 ## links
 
-- https://recipethis.com/instant-pot-tiktok-baked-feta-pasta/
-- https://www.sparklestosprinkles.com/instant-pot-tiktok-tomato-feta-pasta/
-- https://www.cookingclassy.com/baked-feta-pasta-tiktok/
+- google some random instapot recipes
+	- https://recipethis.com/instant-pot-tiktok-baked-feta-pasta/
+	- https://www.sparklestosprinkles.com/instant-pot-tiktok-tomato-feta-pasta/
+	- https://www.cookingclassy.com/baked-feta-pasta-tiktok/
+- kenji , https://www.youtube.com/watch?v=U3gvRjIQ6Lo
+- ethan - on risottata , https://www.youtube.com/watch?v=vKvosQcfh8U
+- the real risottata - luciano , https://www.youtube.com/watch?v=DK3FC1cQPKg
 
 ## notes
 
