@@ -33,6 +33,66 @@
 
 ---
 
+## 04/08
+
+### 0949 , just starting up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 04/07 
+
+### 2017 , outlining some edits
+
+so i was showing auntSam some of my recipes,
+	and i was telling her how ive made some updates since i last cooked them
+	and i pulled up all the links,
+	so i thought it would be a waste of time if i didnt paste them into the recipes
+	and it took quite a bit of time to find them all
+	im trying to document my process afterall
+
+now ive gotten into some github issues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 ## 04/05 
 
 ### cy4n dadChair
