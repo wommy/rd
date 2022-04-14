@@ -15,15 +15,23 @@
 
 ## how i came across it
 
-a month or so after the new `dev-server` release
-a few weeks ago, i was working on a new personal fork of `eleventy-base-blog`, 
+a few weeks ago, 
+i was working on a new personal fork of `eleventy-base-blog`, 
 
-i wanted to
-originally it started as a little trial for me to see if i could update to the new dev server, and then the vite plugin version
+ive used the new `dev-server`, but havent upgraded an old project yet
+i thought the case would be a good isolated environment
 
-i recently set up a little development home server raspberry pi that ive been SSHing into. its really nice, as i can just pick up from another computer in my house, also alot tougher on data loss, because it rarely restarts.
+> remember to reference the `plugin-vite`
 
-on my client browser, i just hit IP:8080/path and hit it, without needing the flag to show that in the output
+### where the problem enters:
+
+i recently set up a development / home-server raspberry pi on my network,
+which ive been sshing into for development
+
+its really nice, because i can code from anywhere in my house, 
+becaue all my code is on this central device ( i used to lose commits on different computers ), and cuts down on alot of things, like config files and access, and many other vectors of dataloss
+
+on my client machine & browser, i just hit IP:8080/path and bingo
 
 while on the point of flags, i found the domdiff / reload one, i even hard enabled the refresh with that other flag
 
