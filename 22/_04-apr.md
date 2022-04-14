@@ -29,7 +29,128 @@
 
 
 
-# 04 | april
+# 4 , april
+
+---
+
+## 4/14 , fr , r0y
+
+### 516 , server configuration
+
+so what is the plan here
+
+so there are two servers
+
+> one other thing i cannot forget is the github request
+
+### 705 , typing up that `11ty comment` is hard work
+
+### 721 , limeligth and goyo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 04/12 , fr , r0y
+
+### 1708 , kyle phone call
+
+badge => POAP
+
+#### my understanding
+
+- search `nft airdrop`
+- https://github.com/poap-xyz
+- https://github.com/MyEtherWallet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 04/10
+
+### 2037 , bed , flex5
+
+### 2329 , bed , some thoughts
+
+> im loving this ssh workflow
+
+im thinking about debian testing and unstable,
+	maybe i should update, see if there are any
+	26, holy shit, more than arch
+	just to test, updating the box too
+	nothing to do on manjaro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -37,6 +158,11 @@
 
 ### 0949 , just starting up
 
+### 1027 , 
+
+i gotta start up the 11ty fetch
+
+### 1111 ,
 
 
 
