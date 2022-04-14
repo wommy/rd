@@ -47,6 +47,13 @@ so there are two servers
 
 ### 721 , limeligth and goyo
 
+### 1306 , rpi-fan
+
+- https://wiki.52pi.com/index.php?title=ZP-0110
+
+### 1545 , cant get systemd to work
+
+
 
 
 
