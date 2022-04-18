@@ -91,12 +91,48 @@ kinda wanna bust out da volteer
 
 - [1](https://github.com/11ty/eleventy/milestone/38)
 	- [a](https://www.youtube.com/watch?v=_YvwTHeqBZY)
+	- [11ty path prefix](https://www.youtube.com/watch?v=chLzWOn_FkI)
 - [2](https://github.com/wommy/jessDB/blob/dev3/.eleventy.js)
 	- [a](http://172.16.0.2:8080/)
 	- [b](https://www.11ty.dev/docs/languages/javascript/)
+3. ctt - [ 30days chromeos ](https://christitus.com/30days-chromeos/)
+	-	[yt](https://www.youtube.com/watch?v=fVRZlqmGrUk)
+	-
+4. sway
+	- https://search.brave.com/search?q=sway+debian&source=desktop
+	- https://wiki.debian.org/sway
+	- https://github.com/swaywm/sway/wiki
+	- https://wiki.archlinux.org/title/Sway
+	- https://wiki.archlinux.org/title/Chrome_OS_devices
+	- https://wiki.archlinux.org/title/Chrome_OS_devices#Chrome_OS_devices
+	- https://wiki.archlinux.org/title/Chrome_OS_devices/Chromebook
+	- https://wiki.archlinux.org/title/Lenovo_IdeaPad_Flex_5_13IML05_Chromebook
+	- https://wiki.archlinux.org/title/Lenovo_IdeaPad_Flex_5_13IML05_Chromebook#Power_Management
+	- chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://psref.lenovo.com/syspool/Sys/PDF/IdeaPad/IdeaPad_Flex_5_CB_13IML05/IdeaPad_Flex_5_CB_13IML05_Spec.pdf
+	- chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://download.lenovo.com/consumer/mobiles_pub/flex5cb_13iml05.pdf
+	- https://search.brave.com/search?q=libappindicator3-1&source=desktop
+	- https://www.reddit.com/r/debian/comments/pn1oia/what_happened_to_libappindicator31_in_debian_11/
+5. vim-tmux
+	- https://gist.github.com/noam-g4/d787d907dfb11f28ad2e39a33658efa0
+	- https://gist.github.com/noam-g4/142a33c34740a20b21f2faeeab6f2b80
+6. lnxcst
+	- [x] [ herbsluftwm ](https://www.youtube.com/watch?v=GQt4n8AgtpU)
+	- [x] [ system maintainence ](https://www.youtube.com/watch?v=cCBi2wcJ2AE)
+	- [x] [ polybar ](https://www.youtube.com/watch?v=tOBDUBEMAKM)
+	- [ ] [ 50 vim tips ](https://www.youtube.com/watch?v=ZEIpdC_klDI)
 
 - m
-	- [lnxcst herbsluftwm](https://www.youtube.com/watch?v=GQt4n8AgtpU)
+	- [ stephen wright - snl ](https://www.youtube.com/watch?v=iUL1l2TrjtM)
+	- [ pele 4/13 ](https://www.youtube.com/watch?v=qaNOVV20fQ4)
+	- [ eli , russia hacks phone ](https://www.youtube.com/watch?v=myGk7VZ7pQo)
+	- [ SH , worlds fairs ](https://www.youtube.com/watch?v=ucIMj47hUf4)
+	
+- wa
+	- [ ] [ tmux perl pitts ](https://www.youtube.com/watch?v=o7Dg1kmjhfQ)
+	- [x] [ vim ](https://www.youtube.com/watch?v=72dLnWiRnZQ)
+	- [ ] [ luke , dwm ](https://www.youtube.com/watch?v=B5r47Q1cn_o)
+
+
 
 
 
