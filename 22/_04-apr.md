@@ -87,7 +87,7 @@ the render? THE RENDER! -,-
 
 kinda wanna bust out da volteer
 
-##### some tabs
+#### volteer , some tabs
 
 - [1](https://github.com/11ty/eleventy/milestone/38)
 	- [a](https://www.youtube.com/watch?v=_YvwTHeqBZY)
@@ -126,6 +126,7 @@ kinda wanna bust out da volteer
 	- [ pele 4/13 ](https://www.youtube.com/watch?v=qaNOVV20fQ4)
 	- [ eli , russia hacks phone ](https://www.youtube.com/watch?v=myGk7VZ7pQo)
 	- [ SH , worlds fairs ](https://www.youtube.com/watch?v=ucIMj47hUf4)
+	- [ heatpumps dont work ](https://www.youtube.com/watch?v=ZEJ0VUINV0s)
 	
 - wa
 	- [ ] [ tmux perl pitts ](https://www.youtube.com/watch?v=o7Dg1kmjhfQ)
@@ -133,7 +134,18 @@ kinda wanna bust out da volteer
 	- [ ] [ luke , dwm ](https://www.youtube.com/watch?v=B5r47Q1cn_o)
 
 
+#### 1728 , where was i jess
+#### 1753 , where was i jess
 
+ok so i did a little bit more jessDB
+
+what are the steps
+
+- import data
+- process w/ cheerio
+- gen rows.pre
+- gen rows.post
+	- by col
 
 
 
