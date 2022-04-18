@@ -33,6 +33,89 @@
 
 ---
 
+## 4/16
+
+### fr r0y 
+
+#### 1833 , lotta stuffs
+
+- [ ] rpi
+	- overclock
+	- msd to usb
+- [x] `redshift.conf`
+- [ ] [ tig -brodie ](https://www.youtube.com/watch?v=z0mb0NteYjg)
+- [ ] l1n0d3 - wireguard
+	- found it in 1nx
+
+#### 1908 , about l10nd3
+
+- [ yt , lv1 ](https://www.youtube.com/watch?v=yDgpBC7c1uY)
+	- spinup server
+
+#### 1926 , some thoughts
+
+im looking at the 
+i keep thinking
+strapi - server
+
+yeah i dunno,
+im thinking about keith and his doubt
+strapi is still running strong on that
+
+and the problem is i need to deComission that
+
+i can install a basic wireguard first
+
+- so i wanna set up a torrent server on the l1n0d3
+	- `the professional`
+		- https://en.wikipedia.org/wiki/The_Professional_(1981_film)
+	- fix search
+	- https://www.qbittorrent.org/
+	- jackett 
+		- [1](https://github.com/qbittorrent/search-plugins/wiki/How-to-configure-Jackett-plugin)
+		- [2](https://github.com/Jackett/Jackett)
+	- qbittorrent-nox
+		- https://github.com/qbittorrent/qBittorrent/wiki/NGINX-Reverse-Proxy-for-Web-UI
+		- https://github.com/qbittorrent/qBittorrent/wiki/Linux-WebUI-HTTPS-with-Let's-Encrypt-certificates-and-NGINX-SSL-reverse-proxy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 ## 4/14 , fr , r0y
 
 ### 516 , server configuration
