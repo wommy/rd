@@ -39,7 +39,43 @@
 
 #### 1406 , jessDB
 
+its so weird seeing the TS doctype jsDOC whatever
 
+thinking about removing the md and the html
+
+can i get rid of the .11ty.conf?
+
+- [ ] discard .1ttys.conf
+
+#### 1429 , did a whole bunch
+
+the 11ty.conf gets replaced with the jessDB
+
+#### vim , next tab , `g t, g T` [1](https://superuser.com/questions/410982/in-vim-how-can-i-quickly-switch-between-tabs)
+
+#### 1458 , jessDB update
+
+i cant believe i reset the normal file dir/
+and it seems to be stable
+
+#### 1519 , thinking about structure ala index.js
+
+man theres alot going on in here
+
+1. include data
+2. cheerio 
+	a. 2 funcs
+3. table gen
+	a. pre
+	b. post
+	c. total
+	d. weekChapter / chapterWeek
+	e. aggressive map
+4. exports
+
+i gotta template this data
+
+#### 1541 , saving
 
 
 
