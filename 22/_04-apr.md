@@ -77,7 +77,26 @@ i gotta template this data
 
 #### 1541 , saving
 
+#### 1542, saved
 
+##### whats next?
+
+the render? THE RENDER! -,-
+
+> ssh into the tmux sesh?
+
+kinda wanna bust out da volteer
+
+##### some tabs
+
+- [1](https://github.com/11ty/eleventy/milestone/38)
+	- [a](https://www.youtube.com/watch?v=_YvwTHeqBZY)
+- [2](https://github.com/wommy/jessDB/blob/dev3/.eleventy.js)
+	- [a](http://172.16.0.2:8080/)
+	- [b](https://www.11ty.dev/docs/languages/javascript/)
+
+- m
+	- [lnxcst herbsluftwm](https://www.youtube.com/watch?v=GQt4n8AgtpU)
 
 
 
