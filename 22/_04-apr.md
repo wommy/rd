@@ -29,7 +29,100 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 4 , april
+
+---
+
+## 4/20 
+
+### 1137 , fr r0y
+
+#### i gotta clean up da jessDB
+
+#### 1958 , fucked with comic code for what seems like hours
+
+i used `degit` to pull that repo, fontfactory or whatever
+
+- [x] `degit` to pull `RD`
+
+
+2030 , just gonna focus on recipes
+----
+
+all i can think about is build system,
+and the pull refresh timing
+	- give a timer, a unit like an Hour
+
+- i wish i could see this better
+
+- [ ] md refresher
+	 ? is that now the website
+
+0013 , did alot today
+----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
