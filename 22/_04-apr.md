@@ -45,7 +45,29 @@
 
 
 
-# 4 , april
+4 , april
+-
+
+04/26 , dadchair 
+--
+
+0223 , IDEA
+---
+
+could i like prefetch youtube videos?
+
+omg, its download
+
+> I WANT TO DOWNLOAD YOUTUBE VIDEOS
+
+that might be the craziest thing ive ever thought
+
+> i want to download youtube videos
+
+- [ ] `prefetch = downloading`
+
+
+
 
 ---
 
