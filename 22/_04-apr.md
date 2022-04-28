@@ -48,6 +48,100 @@
 4 , april
 -
 
+04/28 , fr r0y
+--
+
+0933 , sticky cleanup 
+---
+
+- berkey
+- heatpump attic
+- water pump
+	- spray head
+- heat house : wood/pellets
+- battery / generator
+- pellet screenshot
+- bugout bag
+- 55 gal drums
+- siphon pump
+- jess float
+- tomatos after water
+- water system garage
+- klein electric scissors
+- tomatos
+- hit up detroit basil farm , aquaponics
+- water management
+- collect rainwater
+- kyle pump
+- transfer 5424999
+- replacement tube light
+- hockey puck hotspot
+- aeroponics + fish?
+- greenhouse heat pump
+- collect rainwater
+- usb-c hub 4 tablet
+- program: bitcoin robinhood api +/-5% buy/sell
+- rpi 400
+- rpi4cm 2x laptop/tablet
+- alex domo: pallet wood
+- loren/jack computer stand G&M code
+- visit renzo
+- put fr4nk3n in basement
+- email server w0m.io
+- seamus load all yt ids , paulirish plugin
+- brooks , did it happen - baby
+- gigabit switch sshing
+	- 
+- asrock 990fx fatal1ty
+- 11ty fatality -ty suffix
+- portable stove
+- energy curve heat pump thermal mass
+- ryzen 1500af
+- renzo old psu
+- have the __ ?ping the server , cron job
+- visit renzo
+- frank 6600k , earl i7 , buy 970
+- edge nodes different vps
+- sifu wordpress migration
+- cacao square
+- python sqlite
+
+- vite plugin pwa/ssr
+	- lightning talk vite awesome
+	- slides: tooth, birthday
+	- ⚡talk: uno.css twind windi emotion twin.js
+	- buzzwords: undici fastify serverless edge
+	- quetico shirt wommy
+	- readme slides , markdown
+	- gh repos , bravemarks , marx
+	- first site: mixture, jekyll, webpack, gulp, npm, spike => 11ty
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 04/26 , dadchair 
 --
 
