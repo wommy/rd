@@ -66,6 +66,35 @@ that might be the craziest thing ive ever thought
 
 - [ ] `prefetch = downloading`
 
+so what do i want to do
+-----
+
+so im on a page i like
+
+i want to hit the bookmarklet
+
+that sends the page to the server
+	? with a timestamp
+
+	> xmarx
+
+so whats the move here
+
+- [ ] buy the shitty router from `microcentre`
+- ? router in attic stairwell
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
