@@ -79,12 +79,24 @@ i needed to do alot of the above so that below works
 > ok so where am i?
 
 
+- package.json: {}
+	- name
+	- private: true
+	- license: "Apache-2.0"
+
+- pnpm-workspace.yaml
+	- packages: []
+		- pages/*
+
 - .gitignore
 	- node_modules
 	- .pnpm-debug.log
 
-- package.json
-	- 
+- docs/
+	- index
+
+- pages/
+	- index
 
 
 
