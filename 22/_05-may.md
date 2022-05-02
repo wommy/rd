@@ -110,10 +110,29 @@ i needed to do alot of the above so that below works
 
 i cant seem to get workspaces working exactly how i like
 
-it seems like `Rd` is the next `tudo`
+it seems like the next `tudo` is `Rd`
 
+2146 , brainstorm
+---
 
+> what do i need ,
+> my problem comes from :
 
+too many `youtube` videos
+
+> solved by 
+
+access from the `phone` during `drives`
+
+---
+
+i need a sort of shelf to store em
+
+? is this where the `SQL` comes in?
+	do i just use `json-server`
+
+do i want to run a server process?
+	i think id rather run `pm2`
 
 
 
