@@ -35,6 +35,37 @@
 may
 -
 
+2 , dadChair cy4n
+--
+
+0536 , havent slept
+---
+
+what am i doin
+
+i fucked with `sway` for a few hours
+
+fuggin `wayland` has snags,
+	ie `x` is just so cooked into everything
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 1 , fr r0y
 --
 
