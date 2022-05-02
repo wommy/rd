@@ -98,6 +98,22 @@ i needed to do alot of the above so that below works
 - pages/
 	- index
 
+1949 , wmr , done
+---
+
+- got 11ty workin
+
+> whats next?
+
+- content
+- components
+
+i cant seem to get workspaces working exactly how i like
+
+it seems like `Rd` is the next `tudo`
+
+
+
 
 
 
