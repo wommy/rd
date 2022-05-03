@@ -48,7 +48,32 @@ i fucked with `sway` for a few hours
 fuggin `wayland` has snags,
 	ie `x` is just so cooked into everything
 
+---
 
+2117 , setting up json-server
+---
+
+i need to 
+	create an interface
+	add to list bookmarklet
+	couple different categories
+
+later
+	share menu mobile
+
+i guess a server needs to run
+	express? probs fastify
+
+fastify specifically, is probs too much
+	i dont need to learn another thing 
+	i need to create a form 
+
+which is nice because i pretty much set up the environment
+
+001 , tmux rambles 
+---
+
+why is tmux so hard
 
 
 
