@@ -75,12 +75,46 @@ which is nice because i pretty much set up the environment
 
 why is tmux so hard
 
+145 , so hard? ha! i got it all working
+---
+
+i have no clue what i did
+
+pm2 is such a hog
+
+i do so much so often
+
+> i just need to annotate it better
+
+154 , brainstorming ON how to best log
+---
+
+thats what this whole thing is,
+	a log
+
+`this` is an entry on a log
+
+all it needs is some BS `npx script`
+
+> what is it named?
+
+> what does it do?
+> 	takes user input
+> 	curls to an endpoint
+> 		that means i need to set up an endpoint
 
 
 
+```js 
+
+```
 
 
+it feels so nice to not be worried about constantly losing data , 0437
+---
 
+612 , think i got the nodecli fetch down
+---
 
 
 
