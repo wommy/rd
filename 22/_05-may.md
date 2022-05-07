@@ -35,6 +35,91 @@
 may
 -
 
+7 , fr r0y
+--
+
+1524 , starting up
+---
+
+
+
+
+
+
+
+
+
+
+
+
+5 , fr r0y
+--
+
+
+1957 , gotta twerk on marx
+---
+did a bunch of kukui ssh stuffs
+
+2105 , ? mermaidJS NAH
+---
+workflow stuff is so hard, i dunno why
+
+> what is it
+
+i already have so much data,
+	first list what i have
+
+	```mermaid
+	bMARXlet --> sanity
+
+	```
+
+sanity needs a better Vue,
+	something i never set up
+
+marx , 2119
+----
+
+- `GET`
+- `POST`
+- `PUT`
+- `DEL`
+
+2142 , made MARX in wmr
+---
+
+- [x] pathPrefix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 2 , dadChair cy4n
 --
 
@@ -116,6 +201,31 @@ it feels so nice to not be worried about constantly losing data , 0437
 612 , think i got the nodecli fetch down
 ---
 
+701 , thoughts
+---
+this should be the command
+	`rd`
+
+adds a new entry, `datetime`
+
+but what i was really on
+
+`rd`: a cli for GETs and POSTs
+	it needs to be more cli
+	maybe i could write straight json
+	PUT will come down the line
+
+	its like a weird logger
+	it could be a tui
+
+i guess i could ping my `yt-history`
+
+
+741 , rambles
+---
+
+> logs are everything
+>
 
 
 
