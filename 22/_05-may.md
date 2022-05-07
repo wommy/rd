@@ -38,9 +38,12 @@ may
 7 , fr r0y
 --
 
-1524 , starting up
+1524 , splitting marx out of tudo
 ---
 
+when i set up tudo, i was learning serverless
+	just ported over basic express
+	thats why i had 
 
 
 
