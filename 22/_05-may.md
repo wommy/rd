@@ -45,6 +45,18 @@ when i set up tudo, i was learning serverless
 	just ported over basic express
 	thats why i had 
 
+just spent hours fixing dotfiles
+----
+
+2211 , getting back to it
+---
+
+229 , got alot done
+---
+just patched `powerline`? hope it holds
+
+
+
 
 
 
