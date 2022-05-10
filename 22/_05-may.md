@@ -35,6 +35,130 @@
 may
 -
 
+10 , fr r0y
+--
+
+1719 , eleventyFetch
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9 , fr r0y
+--
+
+108 , still workin on marx
+---
+
+having cached queries should help alot
+	i need a query for
+		- [ ] last year: archive
+		- [ ] this year
+			- [ ] last quarter
+			- [ ] this quarter
+
+theres gonna be some weird magic im gonna have to do for it to build just right
+
+	*[ _type == bookmark' && ( dateTime(_createdAt) < dateTime('2022-01-01T00:00:00Z') ) ]
+	  | order(_createdAt desc)
+
+`*[ _type == 'bookmark' `${ ? filter }`]`
+		| order(_createdAt desc)
+
+
+220 , volteer, dadChair
+---
+
+all im grabbin from sanity
+- before this year
+- before this month
+- this month
+
+
+1628 , to be 32
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8 , fr r0y
+--
+
+229 , got alot done
+---
+just patched `powerline`? hope it holds
+
+304 , added some more config
+---
+im workin on patching the sanity fetch to the 11ty fetch
+
+657 , cleaning up tabs on fr4nk3n
+---
+once i get the marx up and running,
+ooo-wee
+
+so whats the plan
+----
+
+i gotta split marx into quarters, 21q1,2,3,4
+split the quarters into months,
+and the months into weeks
+
+so i got my `_createdAt`
+	i probably can turn the `datetime` into `Weeks`
+	> `datetime` into `weeks`
+
+> plug photos, mostly IG images
+
+
+2008 , slept and awoke
+---
+
+so i gotta sort the marx by `datetime`
+
+
+
+
+
+
+
+
+
+
+
+
 7 , fr r0y
 --
 
@@ -51,9 +175,7 @@ just spent hours fixing dotfiles
 2211 , getting back to it
 ---
 
-229 , got alot done
----
-just patched `powerline`? hope it holds
+
 
 
 
