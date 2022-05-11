@@ -41,6 +41,32 @@ may
 1719 , eleventyFetch
 ---
 
+1849 , fuggin incorrectly nested a ']'
+---
+
+1915 , spit-balling about pagination
+---
+
+so i think i need to split the array and rejoin it
+
+so whats the schema shape
+
+```
+data = [
+	2022[]:
+		may[],
+		apr[],
+		mar[],
+		feb[],
+		jan[],
+	2021[]
+]
+```
+
+im going to need to write a script that accounts/adjusts for the `Z offset`
+	big groan on that front
+
+
 
 
 
