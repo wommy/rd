@@ -35,6 +35,38 @@
 may
 -
 
+13 , fr r0y
+--
+
+1538 , misc tidy
+---
+
+installing CoC plugins?
+	checking to see if they copy over from dotfiles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 11 , dadChair volteer
 --
 
