@@ -1,7 +1,8 @@
 # wtf is a static site #highdive
   "Sat, May 14, 2022 at 1:25am"
   I guess I'm doing this talk for Ian in AA at SEM.js
-## the history of websites
+the history of websites
+--
   - static html uploaded
   - served
   - http
@@ -9,34 +10,41 @@
   - serving documents
   - sometime we starting servers serving dynamic documents
   - we split the document into a shell and content ; ALA php tags
-## name: the new dynamic, thanks budparr
-## ssg history
+name: the new dynamic, thanks budparr
+--
+ssg history
+--
   - Jekyll, mixture, ruby
   - GitHub rails
   - JavaScript node npm
   - react gatsby
   - spike, dato - API
-## talk length
+talk length
+--
   - introduction - who I am, my story
-## 11ty presentation as practice
+11ty presentation as practice
+--
   - topic: fetching
-## the future
+the future
+--
   - next, vue, serverless, edge, deno, vite
   - PWA, service worker, SSR
-## what ssgs do
+what ssgs do
+--
   - setting up express
   - templating
   - routing: [Page]
   - jade/pug liquid, haml, mustache, erb, ejs
   - go hugo
-## my past
+my past
+--
   - static IP world of Warcraft Warcraft 3
   - film editing, music composition, psych, UI/UX
-
 #semjsTalk
   "the new dynamic "
 
-## > #Ian
+> #Ian
+--
   - #done
     - title
       "the New Dynamic :: #womRant "
@@ -46,16 +54,15 @@
     "description / explanation"
     - theNewDynamic.org
       "2014's only source for static tips n tricks - 
-      drastic facelift
-      "
-    - -
-      "but what was it "
-    - a nyc meetup / blog about static sites
+      drastic facelift"
+    - "but what was it "
+      - a nyc meetup / blog about static sites
     - homage to #budParr
-    - 
-## ---
-  "#content"
-## wtf is a static site #highdive
+content
+--
+
+wtf is a static site #highdive
+--
   "Sat, May 14, 2022 at 1:25am 
   "
   - I guess I'm doing this talk for Ian in AA at SEM.js
@@ -92,26 +99,29 @@
   - my past
     - static IP world of Warcraft Warcraft 3
     - film editing, music composition, psych, UI/UX
-## #via talk 
+via talk 
+--
   "some thoughts on Astro
   "
   - Islands architecture
   - Slinkity
   - vite
-## #marx #search
+marx #search
+--
   "island guy #website, #blogpost
   "
-## 11ty the #javascript #framework
-## __ - % #search #marx
+11ty the #javascript #framework
+--
+  - % #search #marx
   "markdown slides - mirian suzanne"
-## ---
-  "inbox
-  "
+"inbox"
+--
   - https://thenewstack.io/the-state-of-application-modernization-2022/
   - zachleat.com
     "image post about size with squoosh"
   - PWA, offline, workbox
-## toOrganize
+toOrganize
+--
   - tND
     - future of websites
       - deno
@@ -170,7 +180,8 @@
       "Harry roberts"
     - graphql
       "first netlify"
-## #tND #research
+tND #research
+--
   "Thu, Jun 2, 2022 at 2:49pm "
   - kent - shipping to the edge
     "& notes
@@ -179,17 +190,20 @@
     - remix
   - swizec serverless
     "Thu, Jun 2, 2022 at 7:54pm "
-## #tND
+tND
+--
   - numbers on websites
   - with react
   - marketing
   - wom.dev
-## #rambles
+rambles
+--
   "- Sat, Jun 4, 2022 at 2:19am "
   - so i think i need an apps folder
   - i think specific functions are packages
     "AKA eleventy, sanity fetch"
-## #rambles 
+rambles 
+--
   "- Sun, Jun 5, 2022 at 6:33pm 
   "
   - primeagen & ryan carniato
@@ -284,11 +298,15 @@
   - images for marx
     "w/ 11ty image plugin
     "
-## fireship quote lazy dev
+fireship quote lazy dev
+--
   "#tnd - Sun, Jun 5, 2022 at 11:25pm "
-## disability #tND
-## cube Hank Andy Bell #tND
-## cahoots
+disability #tND
+--
+cube Hank Andy Bell #tND
+--
+cahoots
+--
   "#tND - Tue, Jun 7, 2022 at 7:07pm "
   - do a dummy run
     "see how long it is"
@@ -304,9 +322,11 @@
   - show some JS off
     "be proud of my code"
 
-# 6w1 #inbox
+6w1 #inbox
+-
 
-## - #shelf
+shelf
+--
   - the importance of heirarchy
     "#thought - Thu, Jun 2, 2022 at 8:28pm "
     - #inspiration
@@ -337,29 +357,35 @@
     "i need to think about how i interact with smerge if i aim to replace it"
   - #homelab leve1
     "smart outlets on network "
-## - what is my stack
+what is my stack
+--
   "some tND #rambles - Thu, Jun 2, 2022 at 7:59pm "
   - netlify
   - github*
     "dont even really use with new netlify"
   - 11ty
   - serverless
-## goals for #tND
+goals for #tND
+--
   "some tND #rambles - Thu, Jun 2, 2022 at 7:59pm "
   - MPA
   - monorepo
   - PWA
   - auth - so you can fork #marx
     "google, github, netlify"
-## notes for #tND
+notes for #tND
+--
   "publish pwa & come up with feature set &T 
   Fri, Jun 3, 2022 at 3:28am 
   "
-## sanity datetime metadata for each new node
+sanity datetime metadata for each new node
+--
   "making tudo is gonna be hard"
-## pnpm & monorepo
+pnpm & monorepo
+--
   "flush this out"
-## #marx revisited
+marx revisited
+--
   "Thu, Jun 2, 2022 at 10:20pm "
   - ! #fixes
     "order, offset, limit"
@@ -389,45 +415,46 @@
     "new homepage"
   - ! #wom / routes ? #mpa
     "/ index, tudo, marx"
-## notes on yolo/utils 
-  "- Fri, Jun 3, 2022 at 2:47am 
-  "
+notes on yolo/utils 
+--
+  "- Fri, Jun 3, 2022 at 2:47am"
   - ! dracula
     "website theme"
   - views
     "yesterday , last 3 days, past week ->  
-    fortnight, month
-    "
+    fortnight, month"
   - component
-    "CRUD wrapper around each item
-    "
+    "CRUD wrapper around each item"
     - goal : change category
-      "inbox to XYZ
-      "
-## mv branches, CICD 
+      "inbox to XYZ"
+mv branches, CICD 
+--
   "yolo > dev > main"
 
 
-#rambles #dadChair #cy4n
-
-"- Thu, Jun 9, 2022 at 2:07am "
-
-## -
+rambles #dadChair #cy4n
+  "- Thu, Jun 9, 2022 at 2:07am "
   "watching color of money"
-## ! zfs benefit
+
+! zfs benefit
+--
   "raid and scrubbing
   "
-## i need to attempt to go over past WFs
+i need to attempt to go over past WFs
+--
   "maybe make blogposts"
-## -
-## i dont like the WF WF
-  "i feel like a submit form would feel so much better
-  "
-## if i got a few more lines, probs 200,
+
+i dont like the WF WF
+--
+  "i feel like a submit form would feel so much better"
+if i got a few more lines, probs 200,
+--
   "i could do a bi-monthly export"
-## -
-## nodejs script => create new_file
-## 
+
+nodejs script => create new_file
+--
+notes
+--
   "have been on more of a hardware kick recently
   zfs
   raid
