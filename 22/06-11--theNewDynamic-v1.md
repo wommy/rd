@@ -307,6 +307,141 @@
   - show some JS off
     "be proud of my code"
 
+6w1 #inbox
+
+- - #shelf
+  - the importance of heirarchy
+    "#thought - Thu, Jun 2, 2022 at 8:28pm "
+    - #inspiration
+      "workflowy, DOM, markdown, routes "
+    - #cluster
+      "similar paint points
+      "
+  - #tND #research
+    "Thu, Jun 2, 2022 at 2:49pm "
+    - kent - shipping to the edge
+      "& notes
+      "
+      - the server - CDN ( the edge)
+        - static & static problem
+        - providers
+          "fly, cloudflare, fastly, lambda, akami, deno ; netlify vercel
+          "
+      - remix
+    - swizec serverless
+      "Thu, Jun 2, 2022 at 7:54pm "
+  - #tND taking point
+    "from 11ty to 11ty w/ vite to slinkity"
+  - #thought practice what i preach
+    "for my talk, i need to be able to serve my code
+    "
+  - #thought 
+    "#forbidden - tui's in rust for tudo, marx - from gitui"
+  - #thought  < #smerge #git 
+    "i need to think about how i interact with smerge if i aim to replace it
+    "
+  - #homelab leve1
+    "smart outlets on network "
+- what is my stack
+  "some tND #rambles - Thu, Jun 2, 2022 at 7:59pm "
+  - netlify
+  - github*
+    "dont even really use with new netlify"
+  - 11ty
+  - serverless
+- goals for #tND
+  "some tND #rambles - Thu, Jun 2, 2022 at 7:59pm "
+  - MPA
+  - monorepo
+  - PWA
+  - auth - so you can fork #marx
+    "google, github, netlify"
+- notes for #tND
+  "publish pwa & come up with feature set &T 
+  Fri, Jun 3, 2022 at 3:28am 
+  "
+- sanity datetime metadata for each new node
+  "making tudo is gonna be hard"
+- pnpm & monorepo
+  "flush this out"
+- #marx revisited
+  "Thu, Jun 2, 2022 at 10:20pm "
+  - ! #fixes
+    "order, offset, limit"
+  - ! #improvements
+    - ! sort 
+      "? by weeks - in datetime - 60 x 60 x 24 x 7
+      "
+    - ? fix fetch
+      "fetch parameters"
+      - < 2 weeks | > 2 weeks
+        "cache, fetch "
+      - serverless function! - run this!
+        "netlify plugin
+        "
+  - ? - the new architecture
+    "marx, rebuild w/"
+    - fetch
+    - 2x/day 
+      "every 12 hours"
+    - serverless
+    - cache
+    - ?
+      "netlify plugin"
+  - ! #wom / tudo 
+    "link back to wommy.io"
+  - ! #wom / home
+    "new homepage"
+  - ! #wom / routes ? #mpa
+    "/ index, tudo, marx"
+- notes on yolo/utils 
+  "- Fri, Jun 3, 2022 at 2:47am 
+  "
+  - ! dracula
+    "website theme"
+  - views
+    "yesterday , last 3 days, past week ->  
+    fortnight, month
+    "
+  - component
+    "CRUD wrapper around each item
+    "
+    - goal : change category
+      "inbox to XYZ
+      "
+- mv branches, CICD 
+  "yolo > dev > main"
+
+
+#rambles #dadChair #cy4n
+
+"- Thu, Jun 9, 2022 at 2:07am "
+
+- -
+  "watching color of money"
+- ! zfs benefit
+  "raid and scrubbing
+  "
+- i need to attempt to go over past WFs
+  "maybe make blogposts"
+- -
+- i dont like the WF WF
+  "i feel like a submit form would feel so much better
+  "
+- if i got a few more lines, probs 200,
+  "i could do a bi-monthly export"
+- -
+- nodejs script => create new_file
+- 
+  "have been on more of a hardware kick recently
+  zfs
+  raid
+  scrubbing
+  iscsi
+  raspi
+  
+  "
+
 
 
 
