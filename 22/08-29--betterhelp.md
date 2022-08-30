@@ -1,3 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # better help application
 
 
@@ -17,16 +40,18 @@ photo
 
 ### education
 
-BA: Psychology, DePaul University 2015
+#### BA: Psychology, DePaul University 2015
 	minor: Interactive and Social Media
-Columbia College Chicago, 2008-2010 
+
+#### Columbia College Chicago, 2008-2010 
 	Film, Music Composition
-University of Detroit Jesuit, class of 2008
+
+#### University of Detroit Jesuit, class of 2008
 	high school
 
 ### resume
 
-- 2022 summer
+#### 2022 summer
 
 - Presenter, SEM.js Meetup - 2022 July 11
 	The New Dynamic: the State of Web Infrastructure mid-2022
@@ -50,37 +75,41 @@ University of Detroit Jesuit, class of 2008
 	but ive started to feel like ive done everything else
   hopefully i can learn docker 
 
-- 2021 winter / 2022 spring
+#### 2021 winter / 2022 spring
   open source contributions
 
-- 2021 fall
+#### 2021 fall
   jess
 
-- 2021 summer - detroit
+#### 2021 summer - detroit
   serverless mongo, sanity
 
-- 2021 spring - chicago
+#### 2021 spring - chicago
 	clients, west on north
 
-- 2020 fall, winter 2021
-  pittsburgh - jegan mones
-	keith
-  ky
-	mother dementia
+#### 2020 fall, winter 2021
+    pittsburgh - jegan mones
+	  keith
+    ky
+	  mother dementia
 
-- 2020, spring summer - covid
-  microcenter
+#### 2020, spring summer - covid
+    microcenter
 
-- freelancing 2019 fall/winter
+#### freelancing 2019 fall/winter
 	anna brabant
 	seamus coughlin
 	holly strawbridge
 
-- vice media, spring 2019
+#### vice media, spring 2019
 
-- hydro-capitol winter 2018
+#### hydro-capitol winter 2018
 
-- tour mcchris, fall 2018
+#### tour mcchris, fall 2018
+
+
+
+
 
 ## details
 
