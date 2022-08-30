@@ -50,11 +50,11 @@ University of Detroit Jesuit, class of 2008
 	but ive started to feel like ive done everything else
   hopefully i can learn docker 
 
-- 2022 spring
-
-- 2021 winter
+- 2021 winter / 2022 spring
+  open source contributions
 
 - 2021 fall
+  jess
 
 - 2021 summer - detroit
   serverless mongo, sanity
